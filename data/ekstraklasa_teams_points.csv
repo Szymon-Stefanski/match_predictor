@@ -1,0 +1,2944 @@
+Season,Date,Time,Home,Away,Result,Home_last5_points,Away_last5_points
+2015/2016,2015-07-17,17:00,Wisla,Gornik Z.,D,0,0
+2015/2016,2015-07-17,19:30,Lechia Gdansk,Cracovia,A,0,0
+2015/2016,2015-07-18,14:30,Ruch,Leczna,A,0,0
+2015/2016,2015-07-18,17:00,Zaglebie,Podbeskidzie,D,0,0
+2015/2016,2015-07-18,19:30,Lech Poznan,Pogon Szczecin,A,0,0
+2015/2016,2015-07-19,14:30,Korona Kielce,Jagiellonia,H,0,0
+2015/2016,2015-07-19,17:00,Slask Wroclaw,Legia,A,0,0
+2015/2016,2015-07-20,17:00,Piast Gliwice,Termalica B-B.,H,0,0
+2015/2016,2015-07-24,17:00,Ruch,Piast Gliwice,H,0,3
+2015/2016,2015-07-24,19:30,Cracovia,Wisla,D,3,1
+2015/2016,2015-07-25,19:30,Lech Poznan,Lechia Gdansk,H,0,0
+2015/2016,2015-07-25,17:00,Zaglebie,Korona Kielce,A,1,3
+2015/2016,2015-07-26,14:30,Jagiellonia,Termalica B-B.,H,0,0
+2015/2016,2015-07-26,14:30,Pogon Szczecin,Slask Wroclaw,D,3,0
+2015/2016,2015-07-26,17:00,Legia,Podbeskidzie,H,3,1
+2015/2016,2015-07-27,17:00,Leczna,Gornik Z.,H,3,1
+2015/2016,2015-07-31,17:00,Piast Gliwice,Gornik Z.,H,3,1
+2015/2016,2015-07-31,19:30,Lechia Gdansk,Pogon Szczecin,D,0,4
+2015/2016,2015-08-01,17:00,Podbeskidzie,Cracovia,A,1,4
+2015/2016,2015-08-01,19:30,Wisla,Lech Poznan,H,2,3
+2015/2016,2015-08-02,14:30,Slask Wroclaw,Termalica B-B.,H,1,0
+2015/2016,2015-08-02,17:00,Leczna,Legia,A,6,6
+2015/2016,2015-08-02,14:30,Jagiellonia,Zaglebie,A,3,1
+2015/2016,2015-08-03,17:00,Korona Kielce,Ruch,A,6,3
+2015/2016,2015-08-07,17:00,Cracovia,Piast Gliwice,A,7,6
+2015/2016,2015-08-07,19:30,Termalica B-B.,Zaglebie,H,0,4
+2015/2016,2015-08-08,14:30,Gornik Z.,Jagiellonia,A,1,3
+2015/2016,2015-08-08,17:00,Pogon Szczecin,Leczna,D,5,6
+2015/2016,2015-08-08,19:30,Lech Poznan,Korona Kielce,D,3,6
+2015/2016,2015-08-09,14:30,Slask Wroclaw,Lechia Gdansk,D,4,1
+2015/2016,2015-08-09,17:00,Legia,Wisla,D,9,5
+2015/2016,2015-08-10,17:00,Ruch,Podbeskidzie,D,6,1
+2015/2016,2015-08-14,19:30,Zaglebie,Lech Poznan,H,4,4
+2015/2016,2015-08-14,17:00,Korona Kielce,Cracovia,A,7,7
+2015/2016,2015-08-15,14:30,Termalica B-B.,Gornik Z.,H,3,1
+2015/2016,2015-08-15,17:00,Leczna,Slask Wroclaw,A,7,5
+2015/2016,2015-08-15,19:30,Piast Gliwice,Legia,H,9,10
+2015/2016,2015-08-16,14:30,Jagiellonia,Ruch,H,6,7
+2015/2016,2015-08-16,17:00,Wisla,Lechia Gdansk,D,6,2
+2015/2016,2015-08-17,17:00,Podbeskidzie,Pogon Szczecin,A,2,6
+2015/2016,2015-08-21,17:00,Pogon Szczecin,Wisla,D,9,7
+2015/2016,2015-08-21,19:30,Lechia Gdansk,Leczna,H,3,7
+2015/2016,2015-08-22,17:00,Slask Wroclaw,Podbeskidzie,D,8,2
+2015/2016,2015-08-22,19:30,Cracovia,Jagiellonia,D,10,9
+2015/2016,2015-08-22,14:30,Ruch,Termalica B-B.,H,7,6
+2015/2016,2015-08-23,17:00,Legia,Korona Kielce,A,10,7
+2015/2016,2015-08-23,14:30,Lech Poznan,Piast Gliwice,A,4,12
+2015/2016,2015-08-24,17:00,Gornik Z.,Zaglebie,D,1,7
+2015/2016,2015-08-28,17:00,Podbeskidzie,Lechia Gdansk,D,2,6
+2015/2016,2015-08-28,19:30,Wisla,Slask Wroclaw,H,7,9
+2015/2016,2015-08-29,14:30,Piast Gliwice,Leczna,H,12,4
+2015/2016,2015-08-29,17:00,Zaglebie,Ruch,H,7,10
+2015/2016,2015-08-29,19:30,Korona Kielce,Pogon Szczecin,D,7,7
+2015/2016,2015-08-30,14:30,Gornik Z.,Cracovia,D,1,8
+2015/2016,2015-08-30,14:30,Termalica B-B.,Lech Poznan,H,6,4
+2015/2016,2015-08-30,17:00,Jagiellonia,Legia,D,10,7
+2015/2016,2015-09-11,19:30,Legia,Zaglebie,D,5,10
+2015/2016,2015-09-11,17:00,Lechia Gdansk,Korona Kielce,D,7,5
+2015/2016,2015-09-12,14:30,Slask Wroclaw,Jagiellonia,H,8,8
+2015/2016,2015-09-12,17:00,Cracovia,Termalica B-B.,A,8,9
+2015/2016,2015-09-12,19:30,Lech Poznan,Podbeskidzie,A,1,3
+2015/2016,2015-09-13,14:30,Pogon Szczecin,Piast Gliwice,H,7,15
+2015/2016,2015-09-13,17:00,Ruch,Gornik Z.,H,7,2
+2015/2016,2015-09-14,17:00,Leczna,Wisla,H,1,9
+2015/2016,2015-09-18,17:00,Gornik Z.,Slask Wroclaw,H,2,8
+2015/2016,2015-09-18,19:30,Zaglebie,Cracovia,H,8,5
+2015/2016,2015-09-19,17:00,Podbeskidzie,Wisla,A,6,6
+2015/2016,2015-09-19,19:30,Piast Gliwice,Lechia Gdansk,H,12,7
+2015/2016,2015-09-19,14:30,Termalica B-B.,Pogon Szczecin,D,12,9
+2015/2016,2015-09-20,14:30,Ruch,Legia,A,7,3
+2015/2016,2015-09-20,17:00,Jagiellonia,Lech Poznan,H,8,1
+2015/2016,2015-09-21,17:00,Korona Kielce,Leczna,A,6,4
+2015/2016,2015-09-25,17:00,Wisla,Korona Kielce,D,8,5
+2015/2016,2015-09-25,19:30,Slask Wroclaw,Piast Gliwice,A,7,12
+2015/2016,2015-09-26,14:30,Leczna,Podbeskidzie,A,6,5
+2015/2016,2015-09-26,17:00,Cracovia,Ruch,H,5,6
+2015/2016,2015-09-26,19:30,Lech Poznan,Gornik Z.,D,0,5
+2015/2016,2015-09-27,14:30,Lechia Gdansk,Zaglebie,H,6,11
+2015/2016,2015-09-27,17:00,Legia,Termalica B-B.,D,5,10
+2015/2016,2015-09-28,17:00,Pogon Szczecin,Jagiellonia,H,9,8
+2015/2016,2015-10-02,17:00,Ruch,Pogon Szczecin,A,6,9
+2015/2016,2015-10-02,19:30,Jagiellonia,Lechia Gdansk,A,5,8
+2015/2016,2015-10-03,14:30,Termalica B-B.,Leczna,D,8,6
+2015/2016,2015-10-03,17:00,Korona Kielce,Podbeskidzie,D,6,8
+2015/2016,2015-10-03,19:30,Piast Gliwice,Wisla,H,12,8
+2015/2016,2015-10-04,14:30,Gornik Z.,Legia,D,6,6
+2015/2016,2015-10-04,14:30,Zaglebie,Slask Wroclaw,D,8,4
+2015/2016,2015-10-04,17:00,Cracovia,Lech Poznan,H,5,1
+2015/2016,2015-10-16,19:30,Slask Wroclaw,Korona Kielce,A,4,4
+2015/2016,2015-10-16,17:00,Lechia Gdansk,Gornik Z.,D,8,6
+2015/2016,2015-10-17,17:00,Leczna,Jagiellonia,H,7,4
+2015/2016,2015-10-17,14:30,Podbeskidzie,Piast Gliwice,D,8,12
+2015/2016,2015-10-17,17:00,Lech Poznan,Ruch,D,1,3
+2015/2016,2015-10-18,14:30,Wisla,Termalica B-B.,D,7,9
+2015/2016,2015-10-18,17:00,Legia,Cracovia,H,7,7
+2015/2016,2015-10-19,17:00,Pogon Szczecin,Zaglebie,D,11,8
+2015/2016,2015-10-23,17:00,Ruch,Slask Wroclaw,H,4,4
+2015/2016,2015-10-23,19:30,Jagiellonia,Wisla,A,3,5
+2015/2016,2015-10-24,14:30,Cracovia,Pogon Szczecin,H,6,11
+2015/2016,2015-10-24,17:00,Piast Gliwice,Korona Kielce,A,10,6
+2015/2016,2015-10-24,17:00,Zaglebie,Leczna,D,6,10
+2015/2016,2015-10-25,14:30,Termalica B-B.,Lechia Gdansk,A,7,8
+2015/2016,2015-10-25,17:00,Legia,Lech Poznan,A,9,2
+2015/2016,2015-10-26,17:00,Gornik Z.,Podbeskidzie,A,6,8
+2015/2016,2015-10-30,17:00,Pogon Szczecin,Gornik Z.,D,8,6
+2015/2016,2015-10-30,19:30,Leczna,Cracovia,H,8,9
+2015/2016,2015-10-30,19:30,Wisla,Ruch,D,8,4
+2015/2016,2015-10-31,14:30,Piast Gliwice,Zaglebie,H,10,6
+2015/2016,2015-10-31,17:00,Lechia Gdansk,Legia,A,10,8
+2015/2016,2015-10-31,19:30,Slask Wroclaw,Lech Poznan,D,1,5
+2015/2016,2015-11-02,17:00,Korona Kielce,Termalica B-B.,A,8,4
+2015/2016,2015-11-02,19:30,Podbeskidzie,Jagiellonia,D,8,3
+2015/2016,2015-11-06,17:00,Zaglebie,Wisla,A,3,6
+2015/2016,2015-11-06,19:30,Cracovia,Slask Wroclaw,H,9,2
+2015/2016,2015-11-07,19:30,Jagiellonia,Piast Gliwice,A,1,10
+2015/2016,2015-11-07,14:30,Termalica B-B.,Podbeskidzie,A,6,9
+2015/2016,2015-11-07,17:00,Ruch,Lechia Gdansk,H,5,10
+2015/2016,2015-11-08,14:30,Gornik Z.,Korona Kielce,A,4,8
+2015/2016,2015-11-08,14:30,Lech Poznan,Leczna,H,6,8
+2015/2016,2015-11-08,17:00,Legia,Pogon Szczecin,H,8,8
+2015/2016,2015-11-20,17:00,Termalica B-B.,Piast Gliwice,A,5,10
+2015/2016,2015-11-20,19:30,Gornik Z.,Wisla,D,3,8
+2015/2016,2015-11-21,17:00,Legia,Slask Wroclaw,H,10,2
+2015/2016,2015-11-21,14:30,Jagiellonia,Korona Kielce,H,1,10
+2015/2016,2015-11-21,17:00,Leczna,Ruch,A,8,8
+2015/2016,2015-11-22,17:00,Pogon Szczecin,Lech Poznan,A,5,8
+2015/2016,2015-11-22,14:30,Podbeskidzie,Zaglebie,A,9,3
+2015/2016,2015-11-23,17:00,Cracovia,Lechia Gdansk,H,9,7
+2015/2016,2015-11-27,17:00,Korona Kielce,Zaglebie,A,9,5
+2015/2016,2015-11-27,19:30,Piast Gliwice,Ruch,H,10,11
+2015/2016,2015-11-28,19:30,Slask Wroclaw,Pogon Szczecin,D,1,2
+2015/2016,2015-11-28,14:30,Gornik Z.,Leczna,D,3,7
+2015/2016,2015-11-29,14:30,Podbeskidzie,Legia,D,8,12
+2015/2016,2015-11-29,17:00,Wisla,Cracovia,A,9,9
+2015/2016,2015-11-29,14:30,Lechia Gdansk,Lech Poznan,A,4,11
+2015/2016,2015-12-01,19:30,Zaglebie,Jagiellonia,A,7,4
+2015/2016,2015-12-01,19:30,Gornik Z.,Piast Gliwice,H,3,12
+2015/2016,2015-12-01,17:00,Termalica B-B.,Slask Wroclaw,D,4,2
+2015/2016,2015-12-01,17:00,Ruch,Korona Kielce,H,10,6
+2015/2016,2015-12-02,17:00,Legia,Leczna,H,10,5
+2015/2016,2015-12-02,17:00,Pogon Szczecin,Lechia Gdansk,H,2,3
+2015/2016,2015-12-02,19:30,Cracovia,Podbeskidzie,H,12,8
+2015/2016,2015-12-02,19:30,Lech Poznan,Wisla,H,13,8
+2015/2016,2015-12-04,17:00,Zaglebie,Termalica B-B.,H,6,4
+2015/2016,2015-12-04,19:30,Jagiellonia,Gornik Z.,A,7,6
+2015/2016,2015-12-05,17:00,Piast Gliwice,Cracovia,D,12,12
+2015/2016,2015-12-05,17:00,Podbeskidzie,Ruch,D,5,10
+2015/2016,2015-12-05,14:30,Korona Kielce,Lech Poznan,A,3,13
+2015/2016,2015-12-06,14:30,Lechia Gdansk,Slask Wroclaw,H,0,3
+2015/2016,2015-12-06,17:00,Wisla,Legia,A,5,13
+2015/2016,2015-12-07,17:00,Leczna,Pogon Szczecin,A,4,5
+2015/2016,2015-12-11,17:00,Slask Wroclaw,Leczna,H,2,1
+2015/2016,2015-12-11,19:30,Ruch,Jagiellonia,A,10,7
+2015/2016,2015-12-12,17:00,Lechia Gdansk,Wisla,H,3,4
+2015/2016,2015-12-12,14:30,Pogon Szczecin,Podbeskidzie,H,7,5
+2015/2016,2015-12-12,17:00,Gornik Z.,Termalica B-B.,D,8,4
+2015/2016,2015-12-13,17:00,Legia,Piast Gliwice,D,13,10
+2015/2016,2015-12-13,14:30,Lech Poznan,Zaglebie,H,15,9
+2015/2016,2015-12-14,17:00,Cracovia,Korona Kielce,D,13,3
+2015/2016,2015-12-16,17:00,Termalica B-B.,Jagiellonia,H,2,9
+2015/2016,2015-12-18,17:00,Zaglebie,Gornik Z.,A,9,9
+2015/2016,2015-12-18,19:30,Wisla,Pogon Szczecin,A,1,10
+2015/2016,2015-12-19,14:30,Termalica B-B.,Ruch,A,5,7
+2015/2016,2015-12-19,17:00,Jagiellonia,Cracovia,D,9,11
+2015/2016,2015-12-19,17:00,Leczna,Lechia Gdansk,H,1,6
+2015/2016,2015-12-20,17:00,Piast Gliwice,Lech Poznan,H,8,15
+2015/2016,2015-12-20,14:30,Korona Kielce,Legia,A,1,11
+2015/2016,2015-12-21,17:00,Podbeskidzie,Slask Wroclaw,A,2,5
+2015/2016,2016-02-12,17:00,Ruch,Zaglebie,D,7,6
+2015/2016,2016-02-12,19:30,Slask Wroclaw,Wisla,H,8,0
+2015/2016,2016-02-13,14:30,Leczna,Piast Gliwice,D,4,8
+2015/2016,2016-02-13,17:00,Cracovia,Gornik Z.,H,9,11
+2015/2016,2016-02-13,17:00,Lechia Gdansk,Podbeskidzie,H,6,2
+2015/2016,2016-02-14,17:00,Legia,Jagiellonia,H,11,7
+2015/2016,2016-02-14,14:30,Lech Poznan,Termalica B-B.,H,12,5
+2015/2016,2016-02-15,17:00,Pogon Szczecin,Korona Kielce,H,13,1
+2015/2016,2016-02-19,17:00,Jagiellonia,Slask Wroclaw,H,4,10
+2015/2016,2016-02-19,19:30,Piast Gliwice,Pogon Szczecin,D,6,15
+2015/2016,2016-02-20,17:00,Podbeskidzie,Lech Poznan,H,1,12
+2015/2016,2016-02-20,14:30,Korona Kielce,Lechia Gdansk,H,1,9
+2015/2016,2016-02-20,17:00,Termalica B-B.,Cracovia,D,4,9
+2015/2016,2016-02-21,17:00,Gornik Z.,Ruch,A,10,8
+2015/2016,2016-02-21,14:30,Zaglebie,Legia,A,4,13
+2015/2016,2016-02-22,17:00,Wisla,Leczna,D,0,4
+2015/2016,2016-02-26,17:00,Slask Wroclaw,Gornik Z.,D,9,7
+2015/2016,2016-02-26,19:30,Cracovia,Zaglebie,A,7,4
+2015/2016,2016-02-27,14:30,Leczna,Korona Kielce,H,5,4
+2015/2016,2016-02-27,17:00,Lechia Gdansk,Piast Gliwice,H,9,7
+2015/2016,2016-02-27,19:30,Wisla,Podbeskidzie,A,1,4
+2015/2016,2016-02-28,14:30,Lech Poznan,Jagiellonia,A,9,7
+2015/2016,2016-02-28,14:30,Pogon Szczecin,Termalica B-B.,D,13,5
+2015/2016,2016-02-28,17:00,Legia,Ruch,H,13,8
+2015/2016,2016-03-01,19:30,Zaglebie,Lechia Gdansk,H,4,9
+2015/2016,2016-03-01,17:00,Podbeskidzie,Leczna,H,6,8
+2015/2016,2016-03-02,17:00,Ruch,Cracovia,A,7,6
+2015/2016,2016-03-02,17:00,Termalica B-B.,Legia,H,5,13
+2015/2016,2016-03-02,19:30,Gornik Z.,Lech Poznan,A,5,6
+2015/2016,2016-03-02,19:30,Jagiellonia,Pogon Szczecin,D,7,11
+2015/2016,2016-03-04,17:00,Podbeskidzie,Korona Kielce,D,9,4
+2015/2016,2016-03-04,19:30,Wisla,Piast Gliwice,D,1,6
+2015/2016,2016-03-05,14:30,Leczna,Termalica B-B.,A,8,5
+2015/2016,2016-03-05,17:00,Slask Wroclaw,Zaglebie,A,10,7
+2015/2016,2016-03-05,19:30,Legia,Gornik Z.,H,12,4
+2015/2016,2016-03-06,17:00,Lech Poznan,Cracovia,H,6,8
+2015/2016,2016-03-06,14:30,Lechia Gdansk,Jagiellonia,H,6,8
+2015/2016,2016-03-07,17:00,Pogon Szczecin,Ruch,A,9,7
+2015/2016,2016-03-08,17:00,Korona Kielce,Wisla,D,4,2
+2015/2016,2016-03-08,17:00,Piast Gliwice,Slask Wroclaw,H,6,7
+2015/2016,2016-03-11,17:00,Korona Kielce,Slask Wroclaw,D,5,4
+2015/2016,2016-03-11,19:30,Piast Gliwice,Podbeskidzie,H,6,10
+2015/2016,2016-03-12,14:30,Jagiellonia,Leczna,H,7,5
+2015/2016,2016-03-12,17:00,Cracovia,Legia,A,7,12
+2015/2016,2016-03-12,19:30,Ruch,Lech Poznan,A,7,9
+2015/2016,2016-03-13,14:30,Zaglebie,Pogon Szczecin,D,10,6
+2015/2016,2016-03-13,17:00,Gornik Z.,Lechia Gdansk,D,1,9
+2015/2016,2016-03-14,17:00,Termalica B-B.,Wisla,A,8,3
+2015/2016,2016-03-18,17:00,Korona Kielce,Piast Gliwice,D,6,8
+2015/2016,2016-03-18,19:30,Wisla,Jagiellonia,H,6,10
+2015/2016,2016-03-19,14:30,Podbeskidzie,Gornik Z.,D,10,2
+2015/2016,2016-03-19,17:00,Slask Wroclaw,Ruch,D,2,6
+2015/2016,2016-03-19,19:30,Lech Poznan,Legia,A,9,12
+2015/2016,2016-03-20,14:30,Lechia Gdansk,Termalica B-B.,D,7,8
+2015/2016,2016-03-20,14:30,Leczna,Zaglebie,A,4,10
+2015/2016,2016-03-20,17:00,Pogon Szczecin,Cracovia,D,4,4
+2015/2016,2016-04-01,19:30,Lech Poznan,Slask Wroclaw,A,9,3
+2015/2016,2016-04-01,17:00,Gornik Z.,Pogon Szczecin,D,3,4
+2015/2016,2016-04-02,19:30,Legia,Lechia Gdansk,D,12,8
+2015/2016,2016-04-02,14:30,Termalica B-B.,Korona Kielce,A,8,4
+2015/2016,2016-04-02,17:00,Cracovia,Leczna,D,4,3
+2015/2016,2016-04-03,14:30,Zaglebie,Piast Gliwice,H,13,8
+2015/2016,2016-04-03,17:00,Ruch,Wisla,A,4,8
+2015/2016,2016-04-04,17:00,Jagiellonia,Podbeskidzie,A,7,8
+2015/2016,2016-04-09,17:00,Wisla,Zaglebie,D,11,13
+2015/2016,2016-04-09,17:00,Pogon Szczecin,Legia,D,4,10
+2015/2016,2016-04-09,17:00,Podbeskidzie,Termalica B-B.,H,8,7
+2015/2016,2016-04-09,17:00,Slask Wroclaw,Cracovia,H,5,5
+2015/2016,2016-04-09,17:00,Leczna,Lech Poznan,A,1,9
+2015/2016,2016-04-09,17:00,Lechia Gdansk,Ruch,H,6,4
+2015/2016,2016-04-09,17:00,Korona Kielce,Gornik Z.,H,7,3
+2015/2016,2016-04-09,17:00,Piast Gliwice,Jagiellonia,H,8,4
+2015/2016,2016-04-15,17:00,Pogon Szczecin,Ruch,D,4,4
+2015/2016,2016-04-15,19:30,Legia,Lech Poznan,H,11,9
+2015/2016,2016-04-16,14:30,Korona Kielce,Slask Wroclaw,D,9,8
+2015/2016,2016-04-16,17:00,Zaglebie,Lechia Gdansk,A,11,9
+2015/2016,2016-04-16,19:30,Piast Gliwice,Cracovia,D,10,2
+2015/2016,2016-04-17,14:30,Jagiellonia,Leczna,H,3,1
+2015/2016,2016-04-17,14:30,Podbeskidzie,Termalica B-B.,A,8,4
+2015/2016,2016-04-17,17:00,Wisla,Gornik Z.,H,11,3
+2015/2016,2016-04-19,19:30,Ruch,Legia,D,2,11
+2015/2016,2016-04-19,17:00,Lech Poznan,Piast Gliwice,D,6,8
+2015/2016,2016-04-19,17:00,Cracovia,Zaglebie,H,3,8
+2015/2016,2016-04-19,19:30,Lechia Gdansk,Pogon Szczecin,H,9,5
+2015/2016,2016-04-20,17:00,Leczna,Wisla,A,1,13
+2015/2016,2016-04-20,17:00,Termalica B-B.,Korona Kielce,D,4,9
+2015/2016,2016-04-20,19:30,Gornik Z.,Podbeskidzie,H,3,7
+2015/2016,2016-04-20,19:30,Slask Wroclaw,Jagiellonia,H,9,6
+2015/2016,2016-04-22,17:00,Zaglebie,Ruch,H,7,3
+2015/2016,2016-04-22,19:30,Legia,Cracovia,H,9,6
+2015/2016,2016-04-23,19:30,Pogon Szczecin,Lech Poznan,H,4,4
+2015/2016,2016-04-23,17:00,Podbeskidzie,Slask Wroclaw,A,7,11
+2015/2016,2016-04-23,14:30,Korona Kielce,Leczna,D,9,1
+2015/2016,2016-04-24,14:30,Jagiellonia,Gornik Z.,D,3,5
+2015/2016,2016-04-24,17:00,Piast Gliwice,Lechia Gdansk,H,6,11
+2015/2016,2016-04-25,17:00,Wisla,Termalica B-B.,D,13,5
+2015/2016,2016-04-28,17:00,Lech Poznan,Lechia Gdansk,D,4,10
+2015/2016,2016-04-28,17:00,Zaglebie,Legia,H,7,9
+2015/2016,2016-04-29,17:00,Gornik Z.,Slask Wroclaw,H,5,13
+2015/2016,2016-04-29,19:30,Ruch,Cracovia,A,2,5
+2015/2016,2016-04-30,17:00,Termalica B-B.,Leczna,A,5,2
+2015/2016,2016-04-30,19:30,Korona Kielce,Wisla,H,9,11
+2015/2016,2016-05-01,14:30,Jagiellonia,Podbeskidzie,H,4,6
+2015/2016,2016-05-01,17:00,Piast Gliwice,Pogon Szczecin,H,8,6
+2015/2016,2016-05-06,19:30,Wisla,Jagiellonia,H,8,7
+2015/2016,2016-05-06,17:00,Podbeskidzie,Korona Kielce,D,3,9
+2015/2016,2016-05-07,14:30,Slask Wroclaw,Termalica B-B.,H,10,5
+2015/2016,2016-05-07,17:00,Leczna,Gornik Z.,D,4,7
+2015/2016,2016-05-07,19:30,Lechia Gdansk,Ruch,H,10,2
+2015/2016,2016-05-08,14:30,Cracovia,Lech Poznan,H,7,5
+2015/2016,2016-05-08,14:30,Pogon Szczecin,Zaglebie,A,5,7
+2015/2016,2016-05-08,17:00,Legia,Piast Gliwice,H,8,11
+2015/2016,2016-05-10,19:30,Wisla,Slask Wroclaw,D,10,10
+2015/2016,2016-05-10,19:30,Leczna,Podbeskidzie,H,5,1
+2015/2016,2016-05-10,19:30,Gornik Z.,Korona Kielce,D,8,7
+2015/2016,2016-05-10,19:30,Jagiellonia,Termalica B-B.,A,7,5
+2015/2016,2016-05-11,19:30,Lechia Gdansk,Legia,H,10,10
+2015/2016,2016-05-11,19:30,Pogon Szczecin,Cracovia,H,4,10
+2015/2016,2016-05-11,19:30,Ruch,Piast Gliwice,A,2,8
+2015/2016,2016-05-11,19:30,Zaglebie,Lech Poznan,H,9,2
+2015/2016,2016-05-14,14:30,Termalica B-B.,Gornik Z.,D,5,9
+2015/2016,2016-05-14,14:30,Korona Kielce,Jagiellonia,A,7,4
+2015/2016,2016-05-14,14:30,Podbeskidzie,Wisla,A,1,8
+2015/2016,2016-05-14,14:30,Slask Wroclaw,Leczna,H,10,8
+2015/2016,2016-05-15,17:00,Legia,Pogon Szczecin,H,7,6
+2015/2016,2016-05-15,17:00,Piast Gliwice,Zaglebie,A,10,12
+2015/2016,2016-05-15,17:00,Cracovia,Lechia Gdansk,H,9,10
+2015/2016,2016-05-15,17:00,Lech Poznan,Ruch,H,2,1
+2016/2017,2016-07-15,17:00,Wisla Plock,Lechia Gdansk,H,0,7
+2016/2017,2016-07-15,19:30,Slask Wroclaw,Lech Poznan,D,10,4
+2016/2017,2016-07-16,14:30,Ruch,Leczna,H,0,8
+2016/2017,2016-07-16,17:00,Wisla,Pogon Szczecin,H,8,6
+2016/2017,2016-07-16,19:30,Legia,Jagiellonia,D,9,7
+2016/2017,2016-07-17,14:30,Zaglebie,Korona Kielce,H,15,6
+2016/2017,2016-07-17,17:00,Cracovia,Piast Gliwice,H,9,9
+2016/2017,2016-07-18,17:00,Termalica B-B.,Arka Gdynia,H,5,0
+2016/2017,2016-07-22,19:30,Arka Gdynia,Wisla,H,0,10
+2016/2017,2016-07-22,17:00,Pogon Szczecin,Korona Kielce,D,3,5
+2016/2017,2016-07-23,17:00,Jagiellonia,Ruch,H,7,3
+2016/2017,2016-07-23,19:30,Legia,Slask Wroclaw,D,7,8
+2016/2017,2016-07-24,14:30,Piast Gliwice,Wisla Plock,H,6,3
+2016/2017,2016-07-24,14:30,Termalica B-B.,Cracovia,H,7,12
+2016/2017,2016-07-24,17:00,Lech Poznan,Zaglebie,A,5,15
+2016/2017,2016-07-25,17:00,Leczna,Lechia Gdansk,A,7,7
+2016/2017,2016-07-29,17:00,Arka Gdynia,Ruch,H,3,3
+2016/2017,2016-07-29,19:30,Lech Poznan,Jagiellonia,A,4,7
+2016/2017,2016-07-30,17:00,Lechia Gdansk,Wisla,H,9,10
+2016/2017,2016-07-30,19:30,Wisla Plock,Legia,A,3,8
+2016/2017,2016-07-31,17:00,Korona Kielce,Piast Gliwice,D,3,6
+2016/2017,2016-07-31,14:30,Zaglebie,Termalica B-B.,H,15,10
+2016/2017,2016-07-31,14:30,Leczna,Cracovia,D,4,9
+2016/2017,2016-08-01,17:00,Pogon Szczecin,Slask Wroclaw,A,4,9
+2016/2017,2016-08-05,17:00,Jagiellonia,Arka Gdynia,H,10,6
+2016/2017,2016-08-05,19:30,Cracovia,Wisla,H,7,7
+2016/2017,2016-08-06,14:30,Termalica B-B.,Leczna,H,10,4
+2016/2017,2016-08-06,17:00,Slask Wroclaw,Lechia Gdansk,D,9,9
+2016/2017,2016-08-06,19:30,Korona Kielce,Lech Poznan,H,3,4
+2016/2017,2016-08-07,14:30,Zaglebie,Pogon Szczecin,D,15,4
+2016/2017,2016-08-07,17:00,Legia,Piast Gliwice,D,8,7
+2016/2017,2016-08-08,17:00,Ruch,Wisla Plock,D,3,3
+2016/2017,2016-08-12,19:30,Lech Poznan,Cracovia,H,4,10
+2016/2017,2016-08-12,17:00,Lechia Gdansk,Korona Kielce,H,7,5
+2016/2017,2016-08-13,14:30,Arka Gdynia,Slask Wroclaw,H,6,9
+2016/2017,2016-08-13,17:00,Leczna,Legia,H,1,9
+2016/2017,2016-08-13,19:30,Pogon Szczecin,Termalica B-B.,H,2,10
+2016/2017,2016-08-14,14:30,Piast Gliwice,Zaglebie,D,5,13
+2016/2017,2016-08-14,17:00,Wisla,Ruch,A,6,4
+2016/2017,2016-08-15,17:00,Wisla Plock,Jagiellonia,H,4,13
+2016/2017,2016-08-19,17:00,Slask Wroclaw,Wisla Plock,D,6,7
+2016/2017,2016-08-19,19:30,Termalica B-B.,Lech Poznan,D,9,4
+2016/2017,2016-08-20,19:30,Legia,Arka Gdynia,A,6,9
+2016/2017,2016-08-20,17:00,Piast Gliwice,Pogon Szczecin,A,6,5
+2016/2017,2016-08-20,14:30,Cracovia,Ruch,D,7,7
+2016/2017,2016-08-21,14:30,Zaglebie,Leczna,D,11,4
+2016/2017,2016-08-21,17:00,Jagiellonia,Lechia Gdansk,A,10,10
+2016/2017,2016-08-22,17:00,Korona Kielce,Wisla,H,5,3
+2016/2017,2016-08-26,17:00,Wisla Plock,Korona Kielce,A,5,8
+2016/2017,2016-08-26,19:30,Wisla,Slask Wroclaw,A,0,6
+2016/2017,2016-08-27,14:30,Pogon Szczecin,Cracovia,D,8,5
+2016/2017,2016-08-27,17:00,Leczna,Jagiellonia,A,5,9
+2016/2017,2016-08-27,19:30,Arka Gdynia,Zaglebie,D,12,9
+2016/2017,2016-08-28,17:00,Ruch,Legia,A,5,5
+2016/2017,2016-08-28,14:30,Lech Poznan,Piast Gliwice,H,4,6
+2016/2017,2016-08-28,17:00,Lechia Gdansk,Termalica B-B.,A,13,7
+2016/2017,2016-09-09,17:00,Cracovia,Lechia Gdansk,A,6,10
+2016/2017,2016-09-09,19:30,Zaglebie,Wisla Plock,A,7,5
+2016/2017,2016-09-10,14:30,Piast Gliwice,Leczna,D,3,5
+2016/2017,2016-09-10,17:00,Korona Kielce,Arka Gdynia,H,10,10
+2016/2017,2016-09-10,19:30,Termalica B-B.,Legia,H,7,7
+2016/2017,2016-09-11,17:00,Jagiellonia,Wisla,H,9,0
+2016/2017,2016-09-11,14:30,Lech Poznan,Pogon Szczecin,H,7,8
+2016/2017,2016-09-12,17:00,Slask Wroclaw,Ruch,A,8,5
+2016/2017,2016-09-16,17:00,Ruch,Termalica B-B.,A,8,10
+2016/2017,2016-09-16,19:30,Slask Wroclaw,Jagiellonia,A,5,9
+2016/2017,2016-09-17,17:00,Wisla Plock,Pogon Szczecin,H,8,8
+2016/2017,2016-09-17,14:30,Leczna,Korona Kielce,H,5,12
+2016/2017,2016-09-17,19:30,Wisla,Piast Gliwice,H,0,3
+2016/2017,2016-09-18,17:00,Legia,Zaglebie,A,4,4
+2016/2017,2016-09-18,14:30,Lechia Gdansk,Lech Poznan,H,10,10
+2016/2017,2016-09-19,17:00,Arka Gdynia,Cracovia,H,7,5
+2016/2017,2016-09-23,17:00,Termalica B-B.,Wisla Plock,D,10,10
+2016/2017,2016-09-23,19:30,Wisla,Legia,D,3,3
+2016/2017,2016-09-24,14:30,Pogon Szczecin,Leczna,D,7,8
+2016/2017,2016-09-24,17:00,Lechia Gdansk,Ruch,H,12,7
+2016/2017,2016-09-24,19:30,Zaglebie,Cracovia,D,6,2
+2016/2017,2016-09-25,14:30,Korona Kielce,Jagiellonia,A,9,9
+2016/2017,2016-09-25,17:00,Lech Poznan,Arka Gdynia,D,10,10
+2016/2017,2016-09-26,17:00,Piast Gliwice,Slask Wroclaw,D,2,4
+2016/2017,2016-09-30,19:30,Leczna,Lech Poznan,A,6,8
+2016/2017,2016-09-30,17:00,Ruch,Zaglebie,A,4,6
+2016/2017,2016-10-01,14:30,Arka Gdynia,Piast Gliwice,A,8,2
+2016/2017,2016-10-01,17:00,Wisla Plock,Wisla,A,8,4
+2016/2017,2016-10-01,19:30,Legia,Lechia Gdansk,H,4,12
+2016/2017,2016-10-02,14:30,Cracovia,Korona Kielce,H,3,9
+2016/2017,2016-10-02,14:30,Slask Wroclaw,Termalica B-B.,A,5,11
+2016/2017,2016-10-02,17:00,Jagiellonia,Pogon Szczecin,D,12,5
+2016/2017,2016-10-14,17:00,Cracovia,Wisla Plock,H,5,7
+2016/2017,2016-10-14,19:30,Pogon Szczecin,Legia,H,3,7
+2016/2017,2016-10-15,17:00,Piast Gliwice,Ruch,H,5,3
+2016/2017,2016-10-15,19:30,Zaglebie,Lechia Gdansk,A,8,9
+2016/2017,2016-10-15,14:30,Leczna,Arka Gdynia,D,5,5
+2016/2017,2016-10-16,14:30,Termalica B-B.,Jagiellonia,D,13,13
+2016/2017,2016-10-16,17:00,Lech Poznan,Wisla,D,10,7
+2016/2017,2016-10-17,17:00,Korona Kielce,Slask Wroclaw,A,6,4
+2016/2017,2016-10-21,17:00,Arka Gdynia,Pogon Szczecin,A,5,5
+2016/2017,2016-10-21,19:30,Wisla,Termalica B-B.,H,8,11
+2016/2017,2016-10-22,14:30,Wisla Plock,Leczna,A,7,6
+2016/2017,2016-10-22,17:00,Slask Wroclaw,Cracovia,D,4,7
+2016/2017,2016-10-22,19:30,Legia,Lech Poznan,H,4,8
+2016/2017,2016-10-23,14:30,Lechia Gdansk,Piast Gliwice,H,12,8
+2016/2017,2016-10-23,17:00,Jagiellonia,Zaglebie,A,11,7
+2016/2017,2016-10-24,17:00,Ruch,Korona Kielce,H,3,3
+2016/2017,2016-10-28,17:00,Piast Gliwice,Termalica B-B.,H,7,8
+2016/2017,2016-10-28,19:30,Korona Kielce,Legia,A,0,7
+2016/2017,2016-10-29,14:30,Leczna,Slask Wroclaw,A,8,5
+2016/2017,2016-10-29,17:00,Pogon Szczecin,Ruch,H,8,3
+2016/2017,2016-10-29,19:30,Lech Poznan,Wisla Plock,H,5,4
+2016/2017,2016-10-30,14:30,Cracovia,Jagiellonia,A,8,8
+2016/2017,2016-10-30,17:00,Arka Gdynia,Lechia Gdansk,D,5,12
+2016/2017,2016-10-31,17:00,Zaglebie,Wisla,D,10,11
+2016/2017,2016-11-04,19:30,Ruch,Lech Poznan,A,3,8
+2016/2017,2016-11-04,17:00,Wisla Plock,Arka Gdynia,D,1,3
+2016/2017,2016-11-05,19:30,Lechia Gdansk,Pogon Szczecin,D,10,11
+2016/2017,2016-11-05,14:30,Termalica B-B.,Korona Kielce,A,5,0
+2016/2017,2016-11-05,17:00,Jagiellonia,Piast Gliwice,H,8,10
+2016/2017,2016-11-06,14:30,Slask Wroclaw,Zaglebie,H,8,8
+2016/2017,2016-11-06,14:30,Wisla,Leczna,H,9,5
+2016/2017,2016-11-06,17:00,Legia,Cracovia,H,10,8
+2016/2017,2016-11-18,17:00,Piast Gliwice,Cracovia,D,9,7
+2016/2017,2016-11-18,19:30,Jagiellonia,Legia,A,8,12
+2016/2017,2016-11-19,14:30,Leczna,Ruch,A,4,3
+2016/2017,2016-11-19,17:00,Pogon Szczecin,Wisla,H,11,11
+2016/2017,2016-11-19,19:30,Lechia Gdansk,Wisla Plock,H,8,1
+2016/2017,2016-11-20,17:00,Lech Poznan,Slask Wroclaw,H,10,10
+2016/2017,2016-11-20,14:30,Arka Gdynia,Termalica B-B.,A,3,4
+2016/2017,2016-11-21,17:00,Korona Kielce,Zaglebie,H,3,7
+2016/2017,2016-11-25,17:00,Cracovia,Termalica B-B.,A,5,4
+2016/2017,2016-11-25,19:30,Zaglebie,Lech Poznan,A,4,10
+2016/2017,2016-11-26,14:30,Korona Kielce,Pogon Szczecin,H,6,13
+2016/2017,2016-11-26,17:00,Ruch,Jagiellonia,A,6,7
+2016/2017,2016-11-26,19:30,Wisla,Arka Gdynia,H,8,3
+2016/2017,2016-11-27,14:30,Wisla Plock,Piast Gliwice,D,1,7
+2016/2017,2016-11-27,17:00,Slask Wroclaw,Legia,A,10,12
+2016/2017,2016-11-28,17:00,Lechia Gdansk,Leczna,H,11,4
+2016/2017,2016-12-02,19:30,Legia,Wisla Plock,D,15,2
+2016/2017,2016-12-02,17:00,Termalica B-B.,Zaglebie,A,6,4
+2016/2017,2016-12-03,14:30,Piast Gliwice,Korona Kielce,H,5,9
+2016/2017,2016-12-03,17:00,Slask Wroclaw,Pogon Szczecin,D,7,10
+2016/2017,2016-12-03,19:30,Wisla,Lechia Gdansk,H,10,11
+2016/2017,2016-12-04,14:30,Cracovia,Leczna,D,2,3
+2016/2017,2016-12-04,17:00,Jagiellonia,Lech Poznan,H,9,12
+2016/2017,2016-12-05,17:00,Ruch,Arka Gdynia,A,6,2
+2016/2017,2016-12-09,17:00,Pogon Szczecin,Zaglebie,D,8,4
+2016/2017,2016-12-09,19:30,Lechia Gdansk,Slask Wroclaw,H,8,7
+2016/2017,2016-12-10,19:30,Wisla,Cracovia,D,10,2
+2016/2017,2016-12-10,17:00,Wisla Plock,Ruch,H,3,3
+2016/2017,2016-12-10,14:30,Leczna,Termalica B-B.,H,1,6
+2016/2017,2016-12-11,14:30,Lech Poznan,Korona Kielce,H,12,9
+2016/2017,2016-12-11,17:00,Piast Gliwice,Legia,A,8,13
+2016/2017,2016-12-12,17:00,Arka Gdynia,Jagiellonia,A,5,12
+2016/2017,2016-12-16,17:00,Termalica B-B.,Pogon Szczecin,H,6,6
+2016/2017,2016-12-16,19:30,Ruch,Wisla,H,3,10
+2016/2017,2016-12-17,14:30,Korona Kielce,Lechia Gdansk,H,9,10
+2016/2017,2016-12-17,17:00,Jagiellonia,Wisla Plock,A,12,6
+2016/2017,2016-12-17,19:30,Cracovia,Lech Poznan,D,3,12
+2016/2017,2016-12-18,17:00,Legia,Leczna,H,13,4
+2016/2017,2016-12-18,14:30,Slask Wroclaw,Arka Gdynia,A,4,4
+2016/2017,2016-12-19,17:00,Zaglebie,Piast Gliwice,H,4,5
+2016/2017,2017-02-10,19:30,Lech Poznan,Termalica B-B.,H,10,9
+2016/2017,2017-02-10,17:00,Ruch,Cracovia,A,6,4
+2016/2017,2017-02-11,17:00,Wisla,Korona Kielce,H,7,9
+2016/2017,2017-02-11,19:30,Arka Gdynia,Legia,A,6,13
+2016/2017,2017-02-12,14:30,Wisla Plock,Slask Wroclaw,D,8,1
+2016/2017,2017-02-12,17:00,Lechia Gdansk,Jagiellonia,H,9,9
+2016/2017,2017-02-13,17:00,Pogon Szczecin,Piast Gliwice,H,5,5
+2016/2017,2017-02-17,17:00,Jagiellonia,Leczna,H,9,4
+2016/2017,2017-02-17,19:30,Termalica B-B.,Lechia Gdansk,D,6,9
+2016/2017,2017-02-18,14:30,Korona Kielce,Wisla Plock,H,6,9
+2016/2017,2017-02-18,17:00,Slask Wroclaw,Wisla,H,2,10
+2016/2017,2017-02-18,19:30,Piast Gliwice,Lech Poznan,A,4,10
+2016/2017,2017-02-19,17:00,Legia,Ruch,A,13,3
+2016/2017,2017-02-19,14:30,Cracovia,Pogon Szczecin,D,6,5
+2016/2017,2017-02-20,17:00,Zaglebie,Arka Gdynia,H,7,6
+2016/2017,2017-02-24,17:00,Arka Gdynia,Korona Kielce,H,6,6
+2016/2017,2017-02-24,19:30,Pogon Szczecin,Lech Poznan,A,6,10
+2016/2017,2017-02-25,14:30,Wisla Plock,Zaglebie,H,8,10
+2016/2017,2017-02-25,17:00,Lechia Gdansk,Cracovia,H,7,7
+2016/2017,2017-02-25,19:30,Wisla,Jagiellonia,H,7,9
+2016/2017,2017-02-26,14:30,Leczna,Piast Gliwice,H,4,3
+2016/2017,2017-02-26,17:00,Legia,Termalica B-B.,D,10,4
+2016/2017,2017-02-27,17:00,Ruch,Slask Wroclaw,H,6,5
+2016/2017,2017-03-03,19:30,Zaglebie,Legia,A,10,10
+2016/2017,2017-03-03,17:00,Korona Kielce,Leczna,H,6,7
+2016/2017,2017-03-04,14:30,Cracovia,Arka Gdynia,D,6,6
+2016/2017,2017-03-04,17:00,Termalica B-B.,Ruch,D,5,9
+2016/2017,2017-03-04,19:30,Piast Gliwice,Wisla,A,0,7
+2016/2017,2017-03-05,14:30,Jagiellonia,Slask Wroclaw,H,6,4
+2016/2017,2017-03-05,17:00,Lech Poznan,Lechia Gdansk,H,13,10
+2016/2017,2017-03-06,17:00,Pogon Szczecin,Wisla Plock,D,5,10
+2016/2017,2017-03-07,17:00,Leczna,Zaglebie,A,6,7
+2016/2017,2017-03-10,17:10,Slask Wroclaw,Piast Gliwice,A,4,0
+2016/2017,2017-03-10,19:30,Arka Gdynia,Lech Poznan,A,7,13
+2016/2017,2017-03-11,19:30,Jagiellonia,Korona Kielce,H,6,9
+2016/2017,2017-03-11,17:00,Ruch,Lechia Gdansk,H,10,7
+2016/2017,2017-03-11,14:30,Wisla Plock,Termalica B-B.,H,8,6
+2016/2017,2017-03-12,14:30,Leczna,Pogon Szczecin,D,3,5
+2016/2017,2017-03-12,17:00,Legia,Wisla,H,10,9
+2016/2017,2017-03-13,17:00,Cracovia,Zaglebie,D,6,9
+2016/2017,2017-03-17,17:00,Termalica B-B.,Slask Wroclaw,A,3,4
+2016/2017,2017-03-17,19:30,Wisla,Wisla Plock,H,9,8
+2016/2017,2017-03-18,14:30,Piast Gliwice,Arka Gdynia,H,3,4
+2016/2017,2017-03-18,17:00,Zaglebie,Ruch,A,7,10
+2016/2017,2017-03-18,19:30,Pogon Szczecin,Jagiellonia,D,6,9
+2016/2017,2017-03-19,17:00,Lechia Gdansk,Legia,A,7,10
+2016/2017,2017-03-19,14:30,Korona Kielce,Cracovia,H,6,6
+2016/2017,2017-03-19,14:30,Lech Poznan,Leczna,D,15,4
+2016/2017,2017-03-31,17:00,Slask Wroclaw,Korona Kielce,H,6,9
+2016/2017,2017-03-31,19:30,Wisla,Lech Poznan,D,9,13
+2016/2017,2017-04-01,14:30,Arka Gdynia,Leczna,A,4,5
+2016/2017,2017-04-01,17:00,Wisla Plock,Cracovia,H,7,3
+2016/2017,2017-04-01,19:30,Legia,Pogon Szczecin,H,10,4
+2016/2017,2017-04-02,14:30,Jagiellonia,Termalica B-B.,H,10,3
+2016/2017,2017-04-02,17:00,Lechia Gdansk,Zaglebie,H,4,4
+2016/2017,2017-04-03,17:00,Ruch,Piast Gliwice,D,13,6
+2016/2017,2017-04-07,17:00,Cracovia,Slask Wroclaw,H,2,6
+2016/2017,2017-04-07,19:30,Zaglebie,Jagiellonia,A,4,10
+2016/2017,2017-04-08,19:30,Termalica B-B.,Wisla,A,2,10
+2016/2017,2017-04-08,14:30,Leczna,Wisla Plock,A,5,10
+2016/2017,2017-04-08,17:00,Pogon Szczecin,Arka Gdynia,H,3,4
+2016/2017,2017-04-09,14:30,Piast Gliwice,Lechia Gdansk,D,7,6
+2016/2017,2017-04-09,17:00,Lech Poznan,Legia,A,11,13
+2016/2017,2017-04-10,17:00,Korona Kielce,Ruch,H,6,11
+2016/2017,2017-04-15,17:00,Jagiellonia,Cracovia,D,13,5
+2016/2017,2017-04-15,19:30,Wisla Plock,Lech Poznan,A,10,8
+2016/2017,2017-04-15,14:30,Ruch,Pogon Szczecin,A,8,6
+2016/2017,2017-04-15,14:30,Slask Wroclaw,Leczna,D,6,5
+2016/2017,2017-04-17,17:00,Wisla,Zaglebie,H,10,4
+2016/2017,2017-04-17,17:00,Lechia Gdansk,Arka Gdynia,H,4,1
+2016/2017,2017-04-17,14:30,Legia,Korona Kielce,D,15,9
+2016/2017,2017-04-17,14:30,Termalica B-B.,Piast Gliwice,H,1,8
+2016/2017,2017-04-22,17:00,Zaglebie,Slask Wroclaw,D,1,7
+2016/2017,2017-04-22,17:00,Arka Gdynia,Wisla Plock,D,0,9
+2016/2017,2017-04-22,17:00,Cracovia,Legia,A,5,13
+2016/2017,2017-04-22,17:00,Korona Kielce,Termalica B-B.,A,7,3
+2016/2017,2017-04-22,17:00,Lech Poznan,Ruch,H,8,7
+2016/2017,2017-04-22,17:00,Leczna,Wisla,H,6,10
+2016/2017,2017-04-22,17:00,Piast Gliwice,Jagiellonia,A,8,11
+2016/2017,2017-04-22,17:00,Pogon Szczecin,Lechia Gdansk,H,8,7
+2016/2017,2017-04-28,17:00,Arka Gdynia,Piast Gliwice,D,1,5
+2016/2017,2017-04-28,19:30,Lech Poznan,Korona Kielce,H,8,7
+2016/2017,2017-04-29,14:30,Wisla Plock,Ruch,D,7,4
+2016/2017,2017-04-29,17:00,Slask Wroclaw,Leczna,A,8,8
+2016/2017,2017-04-29,19:30,Lechia Gdansk,Termalica B-B.,H,7,6
+2016/2017,2017-04-30,17:00,Legia,Wisla,D,13,10
+2016/2017,2017-04-30,14:30,Jagiellonia,Pogon Szczecin,H,11,10
+2016/2017,2017-05-01,17:00,Zaglebie,Cracovia,D,1,4
+2016/2017,2017-05-05,17:00,Ruch,Zaglebie,D,2,2
+2016/2017,2017-05-05,19:30,Korona Kielce,Jagiellonia,D,4,13
+2016/2017,2017-05-06,19:30,Wisla,Lechia Gdansk,A,8,10
+2016/2017,2017-05-06,14:30,Piast Gliwice,Slask Wroclaw,H,3,5
+2016/2017,2017-05-06,17:00,Leczna,Wisla Plock,A,10,8
+2016/2017,2017-05-07,17:00,Pogon Szczecin,Legia,A,9,11
+2016/2017,2017-05-07,14:30,Termalica B-B.,Lech Poznan,A,6,10
+2016/2017,2017-05-08,17:00,Cracovia,Arka Gdynia,H,5,2
+2016/2017,2017-05-12,17:00,Zaglebie,Piast Gliwice,H,3,5
+2016/2017,2017-05-12,19:30,Arka Gdynia,Leczna,H,2,7
+2016/2017,2017-05-13,14:30,Jagiellonia,Wisla,H,11,7
+2016/2017,2017-05-13,17:00,Slask Wroclaw,Ruch,H,2,2
+2016/2017,2017-05-13,19:30,Wisla Plock,Cracovia,D,8,8
+2016/2017,2017-05-14,14:30,Lech Poznan,Pogon Szczecin,H,12,9
+2016/2017,2017-05-14,14:30,Lechia Gdansk,Korona Kielce,D,10,5
+2016/2017,2017-05-14,17:00,Legia,Termalica B-B.,H,11,6
+2016/2017,2017-05-16,19:30,Zaglebie,Slask Wroclaw,H,6,5
+2016/2017,2017-05-16,19:30,Ruch,Piast Gliwice,A,2,4
+2016/2017,2017-05-16,17:00,Arka Gdynia,Wisla Plock,A,5,6
+2016/2017,2017-05-16,17:00,Leczna,Cracovia,H,7,6
+2016/2017,2017-05-17,17:00,Korona Kielce,Wisla,H,3,4
+2016/2017,2017-05-17,17:00,Lechia Gdansk,Jagiellonia,H,10,11
+2016/2017,2017-05-17,19:30,Legia,Lech Poznan,H,11,15
+2016/2017,2017-05-17,19:30,Pogon Szczecin,Termalica B-B.,D,6,6
+2016/2017,2017-05-19,19:30,Cracovia,Ruch,H,5,2
+2016/2017,2017-05-19,17:00,Slask Wroclaw,Arka Gdynia,H,4,5
+2016/2017,2017-05-20,17:00,Piast Gliwice,Leczna,H,7,9
+2016/2017,2017-05-20,19:30,Wisla,Pogon Szczecin,H,1,4
+2016/2017,2017-05-20,14:30,Wisla Plock,Zaglebie,A,9,9
+2016/2017,2017-05-21,14:30,Lech Poznan,Lechia Gdansk,D,12,10
+2016/2017,2017-05-21,17:00,Jagiellonia,Legia,D,10,13
+2016/2017,2017-05-22,17:00,Termalica B-B.,Korona Kielce,A,4,5
+2016/2017,2017-05-27,17:00,Arka Gdynia,Ruch,D,4,2
+2016/2017,2017-05-27,17:00,Leczna,Zaglebie,A,6,11
+2016/2017,2017-05-27,17:00,Piast Gliwice,Wisla Plock,H,10,8
+2016/2017,2017-05-27,17:00,Slask Wroclaw,Cracovia,H,6,8
+2016/2017,2017-05-28,17:00,Lechia Gdansk,Pogon Szczecin,H,11,1
+2016/2017,2017-05-28,17:00,Termalica B-B.,Jagiellonia,A,1,8
+2016/2017,2017-05-28,17:00,Lech Poznan,Wisla,H,10,4
+2016/2017,2017-05-28,17:00,Korona Kielce,Legia,A,8,11
+2016/2017,2017-06-02,19:30,Cracovia,Piast Gliwice,A,7,12
+2016/2017,2017-06-02,19:30,Wisla Plock,Slask Wroclaw,A,7,9
+2016/2017,2017-06-02,19:30,Ruch,Leczna,D,2,3
+2016/2017,2017-06-02,19:30,Zaglebie,Arka Gdynia,A,13,4
+2016/2017,2017-06-04,17:00,Jagiellonia,Lech Poznan,D,8,10
+2016/2017,2017-06-04,17:00,Legia,Lechia Gdansk,D,13,11
+2016/2017,2017-06-04,17:00,Pogon Szczecin,Korona Kielce,H,1,8
+2016/2017,2017-06-04,17:00,Wisla,Termalica B-B.,A,3,1
+2017/2018,2017-07-14,17:00,Wisla Plock,Lechia Gdansk,A,4,9
+2017/2018,2017-07-14,19:30,Pogon Szczecin,Wisla,A,4,3
+2017/2018,2017-07-15,19:30,Gornik Z.,Legia,H,7,11
+2017/2018,2017-07-15,17:00,Cracovia,Piast Gliwice,D,4,12
+2017/2018,2017-07-16,14:30,Arka Gdynia,Slask Wroclaw,H,7,12
+2017/2018,2017-07-16,14:30,Termalica B-B.,Jagiellonia,A,4,8
+2017/2018,2017-07-16,17:00,Lech Poznan,Sandecja Nowy S.,D,8,0
+2017/2018,2017-07-17,17:00,Korona Kielce,Zaglebie,A,7,12
+2017/2018,2017-07-21,17:00,Sandecja Nowy S.,Arka Gdynia,D,1,7
+2017/2018,2017-07-21,19:30,Wisla,Termalica B-B.,H,6,4
+2017/2018,2017-07-22,14:30,Piast Gliwice,Pogon Szczecin,A,13,4
+2017/2018,2017-07-22,17:00,Lechia Gdansk,Cracovia,A,11,4
+2017/2018,2017-07-22,19:30,Legia,Korona Kielce,D,8,6
+2017/2018,2017-07-23,17:00,Jagiellonia,Gornik Z.,H,8,9
+2017/2018,2017-07-23,14:30,Wisla Plock,Lech Poznan,H,3,6
+2017/2018,2017-07-24,17:00,Zaglebie,Slask Wroclaw,H,12,9
+2017/2018,2017-07-28,17:00,Termalica B-B.,Zaglebie,D,3,12
+2017/2018,2017-07-28,19:30,Slask Wroclaw,Lechia Gdansk,H,9,8
+2017/2018,2017-07-29,17:00,Legia,Sandecja Nowy S.,H,6,2
+2017/2018,2017-07-29,19:30,Gornik Z.,Wisla,H,6,9
+2017/2018,2017-07-30,14:30,Arka Gdynia,Wisla Plock,D,8,3
+2017/2018,2017-07-30,14:30,Pogon Szczecin,Jagiellonia,A,6,11
+2017/2018,2017-07-30,17:00,Lech Poznan,Piast Gliwice,H,6,10
+2017/2018,2017-07-31,17:00,Korona Kielce,Cracovia,H,4,7
+2017/2018,2017-08-04,19:30,Wisla Plock,Wisla,A,4,6
+2017/2018,2017-08-04,17:00,Piast Gliwice,Slask Wroclaw,D,7,9
+2017/2018,2017-08-05,14:30,Lechia Gdansk,Gornik Z.,D,7,8
+2017/2018,2017-08-05,17:00,Zaglebie,Pogon Szczecin,H,10,6
+2017/2018,2017-08-05,19:30,Termalica B-B.,Legia,H,4,8
+2017/2018,2017-08-06,14:30,Jagiellonia,Sandecja Nowy S.,A,13,2
+2017/2018,2017-08-06,17:00,Cracovia,Lech Poznan,A,4,8
+2017/2018,2017-08-07,17:00,Arka Gdynia,Korona Kielce,D,9,4
+2017/2018,2017-08-11,19:30,Legia,Piast Gliwice,H,5,5
+2017/2018,2017-08-12,14:30,Sandecja Nowy S.,Wisla Plock,A,5,4
+2017/2018,2017-08-12,17:00,Lech Poznan,Zaglebie,D,8,10
+2017/2018,2017-08-12,19:30,Wisla,Cracovia,H,9,4
+2017/2018,2017-08-13,17:00,Korona Kielce,Jagiellonia,A,5,10
+2017/2018,2017-08-13,14:30,Gornik Z.,Arka Gdynia,D,8,9
+2017/2018,2017-08-14,17:00,Pogon Szczecin,Lechia Gdansk,D,6,5
+2017/2018,2017-08-15,14:30,Slask Wroclaw,Termalica B-B.,D,7,7
+2017/2018,2017-08-18,17:00,Lechia Gdansk,Sandecja Nowy S.,A,5,5
+2017/2018,2017-08-18,19:30,Cracovia,Gornik Z.,D,4,8
+2017/2018,2017-08-19,14:30,Arka Gdynia,Pogon Szczecin,A,7,4
+2017/2018,2017-08-19,17:00,Piast Gliwice,Korona Kielce,H,2,5
+2017/2018,2017-08-19,19:30,Jagiellonia,Slask Wroclaw,D,12,5
+2017/2018,2017-08-20,14:30,Wisla Plock,Legia,A,7,7
+2017/2018,2017-08-20,17:00,Termalica B-B.,Lech Poznan,A,5,8
+2017/2018,2017-08-21,17:00,Zaglebie,Wisla,H,11,12
+2017/2018,2017-08-25,19:30,Slask Wroclaw,Cracovia,H,6,4
+2017/2018,2017-08-25,17:00,Gornik Z.,Wisla Plock,H,6,7
+2017/2018,2017-08-26,14:30,Korona Kielce,Termalica B-B.,H,5,5
+2017/2018,2017-08-26,17:00,Jagiellonia,Piast Gliwice,A,10,4
+2017/2018,2017-08-26,19:30,Wisla,Lechia Gdansk,D,9,2
+2017/2018,2017-08-27,14:30,Lech Poznan,Arka Gdynia,H,10,4
+2017/2018,2017-08-27,14:30,Sandecja Nowy S.,Pogon Szczecin,H,7,7
+2017/2018,2017-08-27,17:00,Legia,Zaglebie,H,10,11
+2017/2018,2017-09-08,17:00,Zaglebie,Wisla Plock,D,8,4
+2017/2018,2017-09-08,19:30,Arka Gdynia,Wisla,H,3,7
+2017/2018,2017-09-09,17:00,Slask Wroclaw,Legia,H,9,12
+2017/2018,2017-09-09,19:30,Cracovia,Jagiellonia,D,1,7
+2017/2018,2017-09-09,14:30,Korona Kielce,Sandecja Nowy S.,H,7,9
+2017/2018,2017-09-10,14:30,Termalica B-B.,Gornik Z.,A,5,9
+2017/2018,2017-09-10,17:00,Pogon Szczecin,Lech Poznan,D,4,13
+2017/2018,2017-09-11,17:00,Piast Gliwice,Lechia Gdansk,A,7,3
+2017/2018,2017-09-15,17:00,Arka Gdynia,Zaglebie,D,5,8
+2017/2018,2017-09-15,19:30,Lech Poznan,Korona Kielce,H,11,7
+2017/2018,2017-09-16,14:30,Wisla Plock,Pogon Szczecin,H,4,5
+2017/2018,2017-09-16,17:00,Gornik Z.,Slask Wroclaw,D,9,9
+2017/2018,2017-09-16,19:30,Wisla,Piast Gliwice,H,7,7
+2017/2018,2017-09-17,14:30,Sandecja Nowy S.,Termalica B-B.,H,9,4
+2017/2018,2017-09-17,17:00,Legia,Cracovia,H,9,2
+2017/2018,2017-09-18,17:00,Lechia Gdansk,Jagiellonia,D,6,5
+2017/2018,2017-09-22,17:00,Piast Gliwice,Arka Gdynia,A,6,5
+2017/2018,2017-09-22,19:30,Slask Wroclaw,Lech Poznan,H,9,11
+2017/2018,2017-09-23,14:30,Termalica B-B.,Lechia Gdansk,H,1,6
+2017/2018,2017-09-23,17:00,Pogon Szczecin,Gornik Z.,A,5,9
+2017/2018,2017-09-23,19:30,Korona Kielce,Wisla,H,6,7
+2017/2018,2017-09-24,14:30,Zaglebie,Sandecja Nowy S.,H,6,9
+2017/2018,2017-09-24,17:00,Jagiellonia,Legia,H,6,12
+2017/2018,2017-09-25,17:00,Cracovia,Wisla Plock,A,2,7
+2017/2018,2017-09-29,17:00,Sandecja Nowy S.,Slask Wroclaw,D,9,11
+2017/2018,2017-09-29,19:30,Arka Gdynia,Cracovia,D,7,2
+2017/2018,2017-09-30,19:30,Wisla,Jagiellonia,D,4,6
+2017/2018,2017-09-30,14:30,Lechia Gdansk,Zaglebie,H,5,8
+2017/2018,2017-09-30,17:00,Pogon Szczecin,Korona Kielce,D,4,9
+2017/2018,2017-10-01,14:30,Gornik Z.,Piast Gliwice,H,11,6
+2017/2018,2017-10-01,14:30,Wisla Plock,Termalica B-B.,H,7,3
+2017/2018,2017-10-01,17:00,Lech Poznan,Legia,H,10,9
+2017/2018,2017-10-13,17:00,Korona Kielce,Wisla Plock,H,10,10
+2017/2018,2017-10-13,19:30,Jagiellonia,Lech Poznan,D,6,10
+2017/2018,2017-10-14,19:30,Slask Wroclaw,Wisla,A,11,5
+2017/2018,2017-10-14,14:30,Piast Gliwice,Sandecja Nowy S.,D,3,7
+2017/2018,2017-10-14,17:00,Termalica B-B.,Arka Gdynia,D,3,8
+2017/2018,2017-10-15,17:00,Legia,Lechia Gdansk,H,6,8
+2017/2018,2017-10-15,14:30,Zaglebie,Gornik Z.,H,5,13
+2017/2018,2017-10-16,17:00,Cracovia,Pogon Szczecin,H,2,2
+2017/2018,2017-10-20,17:00,Zaglebie,Piast Gliwice,D,8,1
+2017/2018,2017-10-20,19:30,Gornik Z.,Korona Kielce,D,10,10
+2017/2018,2017-10-21,14:30,Sandecja Nowy S.,Cracovia,D,5,5
+2017/2018,2017-10-21,17:00,Pogon Szczecin,Termalica B-B.,A,2,4
+2017/2018,2017-10-21,19:30,Lechia Gdansk,Lech Poznan,D,7,8
+2017/2018,2017-10-22,14:30,Arka Gdynia,Jagiellonia,H,9,7
+2017/2018,2017-10-22,17:00,Wisla,Legia,A,7,6
+2017/2018,2017-10-23,17:00,Wisla Plock,Slask Wroclaw,H,10,8
+2017/2018,2017-10-27,19:30,Lech Poznan,Wisla,D,8,7
+2017/2018,2017-10-27,17:00,Slask Wroclaw,Pogon Szczecin,H,5,1
+2017/2018,2017-10-28,14:30,Piast Gliwice,Wisla Plock,H,2,12
+2017/2018,2017-10-28,17:00,Cracovia,Termalica B-B.,D,5,7
+2017/2018,2017-10-28,19:30,Sandecja Nowy S.,Gornik Z.,A,6,8
+2017/2018,2017-10-29,14:30,Jagiellonia,Zaglebie,H,6,8
+2017/2018,2017-10-29,17:00,Legia,Arka Gdynia,H,9,9
+2017/2018,2017-10-30,17:00,Lechia Gdansk,Korona Kielce,A,5,8
+2017/2018,2017-11-03,17:00,Korona Kielce,Slask Wroclaw,H,11,7
+2017/2018,2017-11-03,19:30,Arka Gdynia,Lechia Gdansk,A,8,4
+2017/2018,2017-11-04,17:00,Wisla,Sandecja Nowy S.,H,5,3
+2017/2018,2017-11-04,19:30,Gornik Z.,Lech Poznan,H,10,6
+2017/2018,2017-11-04,14:30,Wisla Plock,Jagiellonia,A,9,8
+2017/2018,2017-11-05,14:30,Termalica B-B.,Piast Gliwice,H,8,5
+2017/2018,2017-11-05,14:30,Zaglebie,Cracovia,A,7,6
+2017/2018,2017-11-05,17:00,Pogon Szczecin,Legia,A,1,9
+2017/2018,2017-11-17,17:00,Jagiellonia,Termalica B-B.,D,8,8
+2017/2018,2017-11-17,19:30,Wisla,Pogon Szczecin,H,8,1
+2017/2018,2017-11-18,14:30,Piast Gliwice,Cracovia,H,5,9
+2017/2018,2017-11-18,17:00,Sandecja Nowy S.,Lech Poznan,D,3,6
+2017/2018,2017-11-18,19:30,Lechia Gdansk,Wisla Plock,H,7,6
+2017/2018,2017-11-19,17:00,Legia,Gornik Z.,H,12,10
+2017/2018,2017-11-19,14:30,Slask Wroclaw,Arka Gdynia,A,4,5
+2017/2018,2017-11-20,17:00,Zaglebie,Korona Kielce,D,4,11
+2017/2018,2017-11-24,17:00,Cracovia,Lechia Gdansk,H,8,7
+2017/2018,2017-11-24,19:30,Gornik Z.,Jagiellonia,H,7,8
+2017/2018,2017-11-25,15:00,Pogon Szczecin,Piast Gliwice,D,0,8
+2017/2018,2017-11-25,17:00,Arka Gdynia,Sandecja Nowy S.,H,7,3
+2017/2018,2017-11-25,19:30,Korona Kielce,Legia,H,11,15
+2017/2018,2017-11-26,14:30,Lech Poznan,Wisla Plock,H,4,3
+2017/2018,2017-11-26,17:00,Slask Wroclaw,Zaglebie,H,3,5
+2017/2018,2017-11-27,17:00,Termalica B-B.,Wisla,D,9,10
+2017/2018,2017-12-01,17:00,Jagiellonia,Pogon Szczecin,H,7,1
+2017/2018,2017-12-01,19:30,Lechia Gdansk,Slask Wroclaw,H,7,6
+2017/2018,2017-12-02,17:00,Zaglebie,Termalica B-B.,H,2,9
+2017/2018,2017-12-02,14:30,Wisla Plock,Arka Gdynia,H,3,9
+2017/2018,2017-12-02,19:30,Sandecja Nowy S.,Legia,D,2,12
+2017/2018,2017-12-03,17:00,Wisla,Gornik Z.,A,8,10
+2017/2018,2017-12-03,14:30,Piast Gliwice,Lech Poznan,D,8,6
+2017/2018,2017-12-04,17:00,Cracovia,Korona Kielce,D,8,11
+2017/2018,2017-12-08,17:00,Sandecja Nowy S.,Jagiellonia,A,2,10
+2017/2018,2017-12-08,19:30,Gornik Z.,Lechia Gdansk,D,12,9
+2017/2018,2017-12-09,14:30,Slask Wroclaw,Piast Gliwice,D,6,8
+2017/2018,2017-12-09,17:00,Korona Kielce,Arka Gdynia,A,11,6
+2017/2018,2017-12-09,19:30,Legia,Termalica B-B.,H,10,6
+2017/2018,2017-12-10,14:30,Pogon Szczecin,Zaglebie,D,1,4
+2017/2018,2017-12-10,14:30,Wisla,Wisla Plock,A,8,3
+2017/2018,2017-12-10,17:00,Lech Poznan,Cracovia,H,6,8
+2017/2018,2017-12-12,19:30,Termalica B-B.,Slask Wroclaw,H,5,4
+2017/2018,2017-12-12,19:30,Arka Gdynia,Gornik Z.,H,9,10
+2017/2018,2017-12-12,17:00,Jagiellonia,Korona Kielce,H,10,8
+2017/2018,2017-12-12,17:00,Piast Gliwice,Legia,A,6,10
+2017/2018,2017-12-13,17:00,Lechia Gdansk,Pogon Szczecin,A,10,2
+2017/2018,2017-12-13,17:00,Zaglebie,Lech Poznan,D,5,8
+2017/2018,2017-12-13,19:30,Cracovia,Wisla,A,7,7
+2017/2018,2017-12-13,19:30,Wisla Plock,Sandecja Nowy S.,D,6,2
+2017/2018,2017-12-15,19:30,Slask Wroclaw,Jagiellonia,H,4,10
+2017/2018,2017-12-15,17:00,Korona Kielce,Piast Gliwice,D,5,6
+2017/2018,2017-12-16,17:00,Sandecja Nowy S.,Lechia Gdansk,D,3,7
+2017/2018,2017-12-16,19:30,Legia,Wisla Plock,A,10,7
+2017/2018,2017-12-16,14:30,Pogon Szczecin,Arka Gdynia,H,5,12
+2017/2018,2017-12-17,14:30,Lech Poznan,Termalica B-B.,H,9,5
+2017/2018,2017-12-17,17:00,Wisla,Zaglebie,A,7,6
+2017/2018,2017-12-18,17:00,Gornik Z.,Cracovia,A,7,4
+2017/2018,2018-02-09,17:00,Wisla Plock,Gornik Z.,H,10,7
+2017/2018,2018-02-09,19:30,Zaglebie,Legia,A,8,7
+2017/2018,2018-02-10,14:30,Pogon Szczecin,Sandecja Nowy S.,H,8,3
+2017/2018,2018-02-10,17:00,Cracovia,Slask Wroclaw,H,7,7
+2017/2018,2018-02-10,19:30,Lechia Gdansk,Wisla,D,5,4
+2017/2018,2018-02-11,14:30,Termalica B-B.,Korona Kielce,A,4,5
+2017/2018,2018-02-11,17:00,Arka Gdynia,Lech Poznan,D,9,11
+2017/2018,2018-02-12,17:00,Piast Gliwice,Jagiellonia,A,4,9
+2017/2018,2018-02-16,17:00,Sandecja Nowy S.,Korona Kielce,D,3,5
+2017/2018,2018-02-16,19:30,Legia,Slask Wroclaw,H,10,4
+2017/2018,2018-02-17,14:30,Wisla Plock,Zaglebie,H,13,8
+2017/2018,2018-02-17,17:00,Jagiellonia,Cracovia,H,12,7
+2017/2018,2018-02-17,19:30,Wisla,Arka Gdynia,H,4,7
+2017/2018,2018-02-18,14:30,Lechia Gdansk,Piast Gliwice,A,6,3
+2017/2018,2018-02-18,17:00,Lech Poznan,Pogon Szczecin,H,9,10
+2017/2018,2018-02-19,17:00,Gornik Z.,Termalica B-B.,H,4,3
+2017/2018,2018-02-23,19:30,Jagiellonia,Lechia Gdansk,H,12,3
+2017/2018,2018-02-23,17:00,Zaglebie,Arka Gdynia,D,5,7
+2017/2018,2018-02-24,17:00,Pogon Szczecin,Wisla Plock,H,10,13
+2017/2018,2018-02-24,19:30,Cracovia,Legia,D,6,12
+2017/2018,2018-02-24,14:30,Termalica B-B.,Sandecja Nowy S.,H,3,3
+2017/2018,2018-02-25,14:30,Piast Gliwice,Wisla,D,5,7
+2017/2018,2018-02-25,14:30,Slask Wroclaw,Gornik Z.,D,4,4
+2017/2018,2018-02-25,17:00,Korona Kielce,Lech Poznan,H,5,11
+2017/2018,2018-02-27,17:00,Lechia Gdansk,Termalica B-B.,D,2,6
+2017/2018,2018-02-27,17:00,Wisla Plock,Cracovia,A,10,7
+2017/2018,2018-02-27,19:30,Legia,Jagiellonia,A,10,12
+2017/2018,2018-02-27,19:30,Sandecja Nowy S.,Zaglebie,A,3,5
+2017/2018,2018-02-28,19:30,Arka Gdynia,Piast Gliwice,D,5,5
+2017/2018,2018-02-28,19:30,Lech Poznan,Slask Wroclaw,H,8,4
+2017/2018,2018-02-28,17:00,Gornik Z.,Pogon Szczecin,D,4,12
+2017/2018,2018-02-28,17:00,Wisla,Korona Kielce,D,8,8
+2017/2018,2018-03-02,17:00,Termalica B-B.,Wisla Plock,A,4,9
+2017/2018,2018-03-02,19:30,Zaglebie,Lechia Gdansk,D,7,3
+2017/2018,2018-03-03,14:30,Slask Wroclaw,Sandecja Nowy S.,D,4,2
+2017/2018,2018-03-03,17:00,Korona Kielce,Pogon Szczecin,D,9,10
+2017/2018,2018-03-03,19:30,Piast Gliwice,Gornik Z.,A,6,5
+2017/2018,2018-03-04,14:30,Cracovia,Arka Gdynia,H,10,3
+2017/2018,2018-03-04,17:00,Legia,Lech Poznan,H,7,10
+2017/2018,2018-03-05,17:00,Jagiellonia,Wisla,H,12,6
+2017/2018,2018-03-09,17:00,Gornik Z.,Zaglebie,D,8,5
+2017/2018,2018-03-09,19:30,Wisla,Slask Wroclaw,H,6,2
+2017/2018,2018-03-10,19:30,Wisla Plock,Korona Kielce,H,9,9
+2017/2018,2018-03-10,17:00,Pogon Szczecin,Cracovia,A,8,10
+2017/2018,2018-03-10,14:30,Sandecja Nowy S.,Piast Gliwice,A,2,5
+2017/2018,2018-03-11,14:30,Lech Poznan,Jagiellonia,H,7,15
+2017/2018,2018-03-11,17:00,Lechia Gdansk,Legia,A,3,10
+2017/2018,2018-03-12,17:00,Arka Gdynia,Termalica B-B.,H,3,4
+2017/2018,2018-03-16,17:00,Piast Gliwice,Zaglebie,D,8,6
+2017/2018,2018-03-16,19:30,Lech Poznan,Lechia Gdansk,H,9,2
+2017/2018,2018-03-17,14:30,Termalica B-B.,Pogon Szczecin,A,4,5
+2017/2018,2018-03-17,17:00,Jagiellonia,Arka Gdynia,H,12,5
+2017/2018,2018-03-17,19:30,Korona Kielce,Gornik Z.,D,6,9
+2017/2018,2018-03-18,17:00,Legia,Wisla,A,10,8
+2017/2018,2018-03-18,14:30,Slask Wroclaw,Wisla Plock,D,2,9
+2017/2018,2018-03-18,14:30,Cracovia,Sandecja Nowy S.,H,10,2
+2017/2018,2018-03-31,14:30,Gornik Z.,Sandecja Nowy S.,D,7,1
+2017/2018,2018-03-31,14:30,Termalica B-B.,Cracovia,H,4,13
+2017/2018,2018-03-31,17:00,Korona Kielce,Lechia Gdansk,H,6,2
+2017/2018,2018-03-31,19:30,Arka Gdynia,Legia,H,5,7
+2017/2018,2018-04-02,14:30,Wisla Plock,Piast Gliwice,H,7,6
+2017/2018,2018-04-02,14:30,Zaglebie,Jagiellonia,H,7,12
+2017/2018,2018-04-02,17:00,Pogon Szczecin,Slask Wroclaw,H,8,3
+2017/2018,2018-04-02,17:00,Wisla,Lech Poznan,A,8,9
+2017/2018,2018-04-07,17:00,Sandecja Nowy S.,Wisla,D,2,7
+2017/2018,2018-04-07,17:00,Piast Gliwice,Termalica B-B.,D,5,4
+2017/2018,2018-04-07,17:00,Slask Wroclaw,Korona Kielce,D,2,6
+2017/2018,2018-04-07,17:00,Legia,Pogon Szczecin,H,6,8
+2017/2018,2018-04-07,17:00,Jagiellonia,Wisla Plock,A,9,10
+2017/2018,2018-04-07,17:00,Lech Poznan,Gornik Z.,H,12,7
+2017/2018,2018-04-07,17:00,Cracovia,Zaglebie,D,12,9
+2017/2018,2018-04-07,17:00,Lechia Gdansk,Arka Gdynia,H,2,7
+2017/2018,2018-04-13,17:00,Arka Gdynia,Lechia Gdansk,A,6,4
+2017/2018,2018-04-13,19:30,Lech Poznan,Korona Kielce,A,12,6
+2017/2018,2018-04-14,14:30,Cracovia,Piast Gliwice,H,10,5
+2017/2018,2018-04-14,17:00,Jagiellonia,Gornik Z.,A,6,6
+2017/2018,2018-04-14,19:30,Legia,Zaglebie,A,9,7
+2017/2018,2018-04-15,14:30,Pogon Szczecin,Termalica B-B.,H,7,4
+2017/2018,2018-04-15,17:00,Slask Wroclaw,Sandecja Nowy S.,H,3,3
+2017/2018,2018-04-16,17:00,Wisla Plock,Wisla,D,13,7
+2017/2018,2018-04-20,17:00,Termalica B-B.,Slask Wroclaw,A,4,5
+2017/2018,2018-04-20,19:30,Zaglebie,Lech Poznan,A,9,12
+2017/2018,2018-04-21,14:30,Piast Gliwice,Pogon Szczecin,D,5,9
+2017/2018,2018-04-21,17:00,Gornik Z.,Wisla Plock,A,6,11
+2017/2018,2018-04-21,19:30,Korona Kielce,Jagiellonia,A,8,3
+2017/2018,2018-04-22,14:30,Sandecja Nowy S.,Arka Gdynia,H,2,6
+2017/2018,2018-04-22,17:00,Wisla,Legia,A,8,6
+2017/2018,2018-04-23,17:00,Lechia Gdansk,Cracovia,D,6,10
+2017/2018,2018-04-27,17:00,Arka Gdynia,Piast Gliwice,A,3,3
+2017/2018,2018-04-27,19:30,Legia,Korona Kielce,H,6,8
+2017/2018,2018-04-28,19:30,Lech Poznan,Gornik Z.,A,12,5
+2017/2018,2018-04-28,17:00,Pogon Szczecin,Sandecja Nowy S.,H,10,5
+2017/2018,2018-04-28,14:30,Wisla Plock,Zaglebie,A,11,8
+2017/2018,2018-04-29,14:30,Cracovia,Termalica B-B.,H,8,4
+2017/2018,2018-04-29,17:00,Jagiellonia,Wisla,A,6,5
+2017/2018,2018-04-30,17:00,Slask Wroclaw,Lechia Gdansk,H,8,7
+2017/2018,2018-05-04,17:00,Cracovia,Slask Wroclaw,D,8,10
+2017/2018,2018-05-04,19:30,Lechia Gdansk,Termalica B-B.,A,7,4
+2017/2018,2018-05-05,14:30,Sandecja Nowy S.,Piast Gliwice,H,5,5
+2017/2018,2018-05-05,17:00,Pogon Szczecin,Arka Gdynia,H,10,3
+2017/2018,2018-05-05,19:30,Wisla Plock,Lech Poznan,D,10,9
+2017/2018,2018-05-06,14:30,Zaglebie,Gornik Z.,A,10,7
+2017/2018,2018-05-06,17:00,Jagiellonia,Legia,D,3,9
+2017/2018,2018-05-06,14:30,Korona Kielce,Wisla,A,7,5
+2017/2018,2018-05-08,17:00,Piast Gliwice,Lechia Gdansk,A,5,7
+2017/2018,2018-05-08,17:00,Termalica B-B.,Sandecja Nowy S.,D,4,7
+2017/2018,2018-05-08,19:30,Arka Gdynia,Cracovia,H,0,9
+2017/2018,2018-05-08,19:30,Slask Wroclaw,Pogon Szczecin,H,11,10
+2017/2018,2018-05-09,17:00,Gornik Z.,Korona Kielce,D,9,4
+2017/2018,2018-05-09,17:00,Legia,Wisla Plock,H,10,8
+2017/2018,2018-05-09,19:30,Lech Poznan,Jagiellonia,A,7,4
+2017/2018,2018-05-09,19:30,Wisla,Zaglebie,H,8,7
+2017/2018,2018-05-12,14:30,Termalica B-B.,Arka Gdynia,H,4,3
+2017/2018,2018-05-12,14:30,Slask Wroclaw,Piast Gliwice,H,13,4
+2017/2018,2018-05-12,14:30,Pogon Szczecin,Lechia Gdansk,D,10,7
+2017/2018,2018-05-12,14:30,Sandecja Nowy S.,Cracovia,A,7,8
+2017/2018,2018-05-13,17:00,Legia,Gornik Z.,H,10,10
+2017/2018,2018-05-13,17:00,Wisla Plock,Korona Kielce,H,5,4
+2017/2018,2018-05-13,17:00,Wisla,Lech Poznan,D,10,4
+2017/2018,2018-05-13,17:00,Zaglebie,Jagiellonia,A,6,7
+2017/2018,2018-05-19,17:00,Arka Gdynia,Slask Wroclaw,A,3,13
+2017/2018,2018-05-19,17:00,Cracovia,Pogon Szczecin,A,8,8
+2017/2018,2018-05-19,17:00,Lechia Gdansk,Sandecja Nowy S.,D,5,7
+2017/2018,2018-05-19,17:00,Piast Gliwice,Termalica B-B.,H,4,7
+2017/2018,2018-05-20,17:00,Lech Poznan,Legia,A,5,13
+2017/2018,2018-05-20,17:00,Korona Kielce,Zaglebie,A,1,3
+2017/2018,2018-05-20,17:00,Gornik Z.,Wisla,H,7,10
+2017/2018,2018-05-20,17:00,Jagiellonia,Wisla Plock,H,10,7
+2018/2019,2018-07-20,17:00,Legnica,Pogon Szczecin,H,0,10
+2018/2019,2018-07-20,19:30,Jagiellonia,Lechia Gdansk,A,10,5
+2018/2019,2018-07-21,14:30,Slask Wroclaw,Cracovia,H,13,7
+2018/2019,2018-07-21,17:00,Wisla,Arka Gdynia,D,10,3
+2018/2019,2018-07-21,19:30,Legia,Zaglebie,A,13,6
+2018/2019,2018-07-22,14:30,Gornik Z.,Korona Kielce,D,10,1
+2018/2019,2018-07-22,17:00,Wisla Plock,Lech Poznan,A,4,2
+2018/2019,2018-07-23,17:00,Zaglebie Sosnowiec,Piast Gliwice,A,0,6
+2018/2019,2018-07-27,17:00,Lechia Gdansk,Slask Wroclaw,D,8,13
+2018/2019,2018-07-27,19:30,Wisla,Legnica,H,8,3
+2018/2019,2018-07-28,17:00,Zaglebie,Zaglebie Sosnowiec,H,6,0
+2018/2019,2018-07-28,19:30,Korona Kielce,Legia,A,2,10
+2018/2019,2018-07-29,14:30,Gornik Z.,Wisla Plock,D,8,4
+2018/2019,2018-07-29,17:00,Arka Gdynia,Jagiellonia,A,4,10
+2018/2019,2018-07-29,17:00,Lech Poznan,Cracovia,H,5,4
+2018/2019,2018-07-30,17:00,Pogon Szczecin,Piast Gliwice,A,7,6
+2018/2019,2018-08-03,19:30,Zaglebie Sosnowiec,Pogon Szczecin,H,0,4
+2018/2019,2018-08-03,17:00,Wisla Plock,Korona Kielce,A,4,2
+2018/2019,2018-08-04,17:00,Piast Gliwice,Zaglebie,H,9,9
+2018/2019,2018-08-04,19:30,Legia,Lechia Gdansk,D,12,9
+2018/2019,2018-08-05,14:30,Slask Wroclaw,Lech Poznan,A,13,7
+2018/2019,2018-08-05,17:00,Jagiellonia,Wisla,H,12,8
+2018/2019,2018-08-05,17:00,Legnica,Gornik Z.,A,3,6
+2018/2019,2018-08-06,17:00,Cracovia,Arka Gdynia,D,3,4
+2018/2019,2018-08-10,17:00,Lechia Gdansk,Legnica,H,7,3
+2018/2019,2018-08-10,19:30,Wisla,Wisla Plock,D,5,4
+2018/2019,2018-08-11,19:30,Arka Gdynia,Gornik Z.,D,2,8
+2018/2019,2018-08-11,17:00,Pogon Szczecin,Cracovia,D,4,4
+2018/2019,2018-08-12,17:00,Zaglebie,Jagiellonia,A,9,12
+2018/2019,2018-08-12,14:30,Piast Gliwice,Legia,A,12,10
+2018/2019,2018-08-12,17:00,Lech Poznan,Zaglebie Sosnowiec,H,10,3
+2018/2019,2018-08-13,17:00,Korona Kielce,Slask Wroclaw,H,4,10
+2018/2019,2018-08-17,17:00,Cracovia,Zaglebie,A,2,9
+2018/2019,2018-08-17,19:30,Legnica,Korona Kielce,D,3,7
+2018/2019,2018-08-18,17:00,Wisla Plock,Arka Gdynia,A,2,3
+2018/2019,2018-08-18,19:30,Gornik Z.,Lechia Gdansk,A,9,9
+2018/2019,2018-08-19,14:30,Legia,Zaglebie Sosnowiec,H,10,3
+2018/2019,2018-08-19,17:00,Jagiellonia,Piast Gliwice,H,12,12
+2018/2019,2018-08-19,17:00,Lech Poznan,Wisla,A,12,5
+2018/2019,2018-08-20,17:00,Slask Wroclaw,Pogon Szczecin,D,7,4
+2018/2019,2018-08-24,19:30,Korona Kielce,Arka Gdynia,H,8,6
+2018/2019,2018-08-24,17:00,Piast Gliwice,Cracovia,H,9,2
+2018/2019,2018-08-25,17:00,Pogon Szczecin,Lechia Gdansk,A,2,11
+2018/2019,2018-08-25,19:30,Wisla,Gornik Z.,H,8,6
+2018/2019,2018-08-26,14:30,Jagiellonia,Legnica,A,12,4
+2018/2019,2018-08-26,14:30,Legia,Wisla Plock,A,10,2
+2018/2019,2018-08-26,17:00,Zaglebie,Lech Poznan,H,9,12
+2018/2019,2018-08-27,17:00,Zaglebie Sosnowiec,Slask Wroclaw,D,3,5
+2018/2019,2018-08-31,17:00,Gornik Z.,Pogon Szczecin,D,5,2
+2018/2019,2018-08-31,19:30,Lechia Gdansk,Korona Kielce,H,11,10
+2018/2019,2018-09-01,17:00,Slask Wroclaw,Wisla,A,3,10
+2018/2019,2018-09-01,19:30,Lech Poznan,Piast Gliwice,D,9,9
+2018/2019,2018-09-01,14:30,Arka Gdynia,Zaglebie Sosnowiec,D,5,4
+2018/2019,2018-09-02,14:30,Legnica,Zaglebie,H,4,9
+2018/2019,2018-09-02,14:30,Wisla Plock,Jagiellonia,D,5,12
+2018/2019,2018-09-02,17:00,Cracovia,Legia,D,2,10
+2018/2019,2018-09-14,17:00,Zaglebie,Slask Wroclaw,H,6,2
+2018/2019,2018-09-14,19:30,Jagiellonia,Cracovia,H,10,3
+2018/2019,2018-09-15,14:30,Wisla Plock,Legnica,D,5,7
+2018/2019,2018-09-15,17:00,Piast Gliwice,Arka Gdynia,H,7,6
+2018/2019,2018-09-15,19:30,Wisla,Lechia Gdansk,H,10,13
+2018/2019,2018-09-16,14:30,Pogon Szczecin,Korona Kielce,D,3,10
+2018/2019,2018-09-16,17:00,Legia,Lech Poznan,H,8,7
+2018/2019,2018-09-17,17:00,Zaglebie Sosnowiec,Gornik Z.,D,5,5
+2018/2019,2018-09-21,17:00,Pogon Szczecin,Wisla,H,4,13
+2018/2019,2018-09-21,19:30,Arka Gdynia,Lech Poznan,H,5,4
+2018/2019,2018-09-22,14:30,Cracovia,Wisla Plock,H,2,6
+2018/2019,2018-09-22,17:00,Lechia Gdansk,Zaglebie,D,12,9
+2018/2019,2018-09-22,19:30,Legnica,Legia,A,8,10
+2018/2019,2018-09-23,14:30,Slask Wroclaw,Piast Gliwice,H,2,7
+2018/2019,2018-09-23,17:00,Gornik Z.,Jagiellonia,A,3,10
+2018/2019,2018-09-24,17:00,Korona Kielce,Zaglebie Sosnowiec,H,8,3
+2018/2019,2018-09-28,19:30,Legia,Arka Gdynia,D,10,7
+2018/2019,2018-09-28,17:00,Wisla Plock,Lechia Gdansk,H,5,10
+2018/2019,2018-09-29,19:30,Wisla,Korona Kielce,A,12,8
+2018/2019,2018-09-29,14:30,Piast Gliwice,Gornik Z.,H,7,2
+2018/2019,2018-09-29,17:00,Zaglebie,Pogon Szczecin,A,10,6
+2018/2019,2018-09-30,14:30,Zaglebie Sosnowiec,Cracovia,D,3,4
+2018/2019,2018-09-30,17:00,Lech Poznan,Legnica,H,1,8
+2018/2019,2018-10-01,17:00,Jagiellonia,Slask Wroclaw,A,10,5
+2018/2019,2018-10-05,17:00,Legnica,Piast Gliwice,D,7,10
+2018/2019,2018-10-05,19:30,Gornik Z.,Lech Poznan,D,2,4
+2018/2019,2018-10-06,14:30,Pogon Szczecin,Wisla Plock,H,8,8
+2018/2019,2018-10-06,17:00,Lechia Gdansk,Zaglebie Sosnowiec,H,7,4
+2018/2019,2018-10-06,19:30,Slask Wroclaw,Legia,A,7,8
+2018/2019,2018-10-07,17:00,Cracovia,Wisla,A,5,9
+2018/2019,2018-10-07,14:30,Korona Kielce,Jagiellonia,D,10,7
+2018/2019,2018-10-07,14:30,Arka Gdynia,Zaglebie,H,5,7
+2018/2019,2018-10-19,17:00,Piast Gliwice,Lechia Gdansk,D,8,7
+2018/2019,2018-10-19,19:30,Jagiellonia,Pogon Szczecin,H,8,11
+2018/2019,2018-10-20,14:30,Zaglebie Sosnowiec,Legnica,H,3,5
+2018/2019,2018-10-20,17:00,Slask Wroclaw,Arka Gdynia,A,6,8
+2018/2019,2018-10-20,19:30,Lech Poznan,Korona Kielce,H,5,8
+2018/2019,2018-10-21,14:30,Zaglebie,Wisla Plock,D,4,5
+2018/2019,2018-10-21,17:00,Legia,Wisla,D,11,9
+2018/2019,2018-10-22,17:00,Cracovia,Gornik Z.,H,5,3
+2018/2019,2018-10-26,19:30,Jagiellonia,Legia,D,10,11
+2018/2019,2018-10-26,17:00,Legnica,Slask Wroclaw,A,2,6
+2018/2019,2018-10-27,14:30,Wisla Plock,Piast Gliwice,D,5,8
+2018/2019,2018-10-27,17:00,Lechia Gdansk,Arka Gdynia,H,5,10
+2018/2019,2018-10-27,19:30,Pogon Szczecin,Lech Poznan,H,10,7
+2018/2019,2018-10-28,14:30,Korona Kielce,Cracovia,A,8,7
+2018/2019,2018-10-28,17:00,Gornik Z.,Zaglebie,H,2,5
+2018/2019,2018-10-29,17:00,Wisla,Zaglebie Sosnowiec,D,7,5
+2018/2019,2018-11-02,17:00,Arka Gdynia,Pogon Szczecin,A,10,12
+2018/2019,2018-11-02,19:30,Piast Gliwice,Wisla,H,6,5
+2018/2019,2018-11-03,19:30,Legia,Gornik Z.,H,9,4
+2018/2019,2018-11-03,17:00,Slask Wroclaw,Wisla Plock,A,9,5
+2018/2019,2018-11-03,14:30,Cracovia,Legnica,D,10,1
+2018/2019,2018-11-04,14:30,Zaglebie,Korona Kielce,A,2,7
+2018/2019,2018-11-04,17:00,Lech Poznan,Lechia Gdansk,A,7,8
+2018/2019,2018-11-05,17:00,Zaglebie Sosnowiec,Jagiellonia,A,5,8
+2018/2019,2018-11-09,17:00,Gornik Z.,Slask Wroclaw,D,4,6
+2018/2019,2018-11-09,19:30,Pogon Szczecin,Legia,H,12,9
+2018/2019,2018-11-10,14:30,Wisla Plock,Zaglebie Sosnowiec,H,8,5
+2018/2019,2018-11-10,17:00,Lechia Gdansk,Cracovia,H,10,8
+2018/2019,2018-11-10,19:30,Wisla,Zaglebie,H,5,1
+2018/2019,2018-11-11,14:30,Legnica,Arka Gdynia,A,2,7
+2018/2019,2018-11-11,14:30,Korona Kielce,Piast Gliwice,H,7,9
+2018/2019,2018-11-11,17:00,Jagiellonia,Lech Poznan,D,8,7
+2018/2019,2018-11-23,17:00,Piast Gliwice,Zaglebie Sosnowiec,D,6,4
+2018/2019,2018-11-24,14:30,Korona Kielce,Gornik Z.,H,7,5
+2018/2019,2018-11-24,17:00,Lech Poznan,Wisla Plock,H,5,8
+2018/2019,2018-11-24,19:30,Cracovia,Slask Wroclaw,D,7,4
+2018/2019,2018-11-25,12:00,Pogon Szczecin,Legnica,H,12,2
+2018/2019,2018-11-25,14:30,Zaglebie,Legia,A,1,8
+2018/2019,2018-11-25,17:00,Lechia Gdansk,Jagiellonia,H,13,9
+2018/2019,2018-11-26,17:00,Arka Gdynia,Wisla,H,9,8
+2018/2019,2018-11-30,17:00,Slask Wroclaw,Lechia Gdansk,A,5,13
+2018/2019,2018-11-30,19:30,Jagiellonia,Arka Gdynia,H,8,9
+2018/2019,2018-12-01,19:30,Legia,Korona Kielce,H,8,9
+2018/2019,2018-12-01,17:00,Legnica,Wisla,H,1,5
+2018/2019,2018-12-01,14:30,Wisla Plock,Gornik Z.,A,8,4
+2018/2019,2018-12-02,14:30,Zaglebie Sosnowiec,Zaglebie,A,5,1
+2018/2019,2018-12-02,17:00,Cracovia,Lech Poznan,H,8,7
+2018/2019,2018-12-03,17:00,Piast Gliwice,Pogon Szczecin,H,6,12
+2018/2019,2018-12-07,17:00,Zaglebie,Piast Gliwice,D,3,8
+2018/2019,2018-12-07,19:30,Lech Poznan,Slask Wroclaw,H,4,5
+2018/2019,2018-12-08,14:30,Pogon Szczecin,Zaglebie Sosnowiec,H,12,2
+2018/2019,2018-12-08,17:00,Korona Kielce,Wisla Plock,D,9,7
+2018/2019,2018-12-08,19:30,Wisla,Jagiellonia,D,4,8
+2018/2019,2018-12-09,17:00,Lechia Gdansk,Legia,D,15,10
+2018/2019,2018-12-09,14:30,Gornik Z.,Legnica,A,7,4
+2018/2019,2018-12-10,17:00,Arka Gdynia,Cracovia,A,6,8
+2018/2019,2018-12-14,17:00,Wisla Plock,Wisla,A,7,4
+2018/2019,2018-12-14,19:30,Jagiellonia,Zaglebie,A,8,4
+2018/2019,2018-12-15,14:30,Cracovia,Pogon Szczecin,H,8,12
+2018/2019,2018-12-15,17:00,Gornik Z.,Arka Gdynia,D,4,6
+2018/2019,2018-12-15,19:30,Legia,Piast Gliwice,H,10,8
+2018/2019,2018-12-16,14:30,Slask Wroclaw,Korona Kielce,D,2,10
+2018/2019,2018-12-16,17:00,Zaglebie Sosnowiec,Lech Poznan,A,1,7
+2018/2019,2018-12-17,17:00,Legnica,Lechia Gdansk,D,7,13
+2018/2019,2018-12-20,19:30,Zaglebie Sosnowiec,Legia,A,1,10
+2018/2019,2018-12-20,17:00,Pogon Szczecin,Slask Wroclaw,H,9,3
+2018/2019,2018-12-21,17:00,Arka Gdynia,Wisla Plock,D,7,4
+2018/2019,2018-12-21,17:00,Piast Gliwice,Jagiellonia,D,5,5
+2018/2019,2018-12-21,19:30,Wisla,Lech Poznan,A,7,10
+2018/2019,2018-12-22,14:30,Korona Kielce,Legnica,D,8,7
+2018/2019,2018-12-22,17:00,Lechia Gdansk,Gornik Z.,H,11,5
+2018/2019,2018-12-22,17:00,Zaglebie,Cracovia,A,7,10
+2018/2019,2019-02-08,17:00,Legnica,Jagiellonia,A,8,5
+2018/2019,2019-02-08,19:30,Lech Poznan,Zaglebie,A,12,7
+2018/2019,2019-02-09,17:00,Cracovia,Piast Gliwice,H,13,6
+2018/2019,2019-02-09,19:30,Lechia Gdansk,Pogon Szczecin,H,11,9
+2018/2019,2019-02-09,14:30,Slask Wroclaw,Zaglebie Sosnowiec,H,2,1
+2018/2019,2019-02-10,14:30,Arka Gdynia,Korona Kielce,A,5,6
+2018/2019,2019-02-10,17:00,Wisla Plock,Legia,A,2,13
+2018/2019,2019-02-11,17:00,Gornik Z.,Wisla,H,4,4
+2018/2019,2019-02-15,17:00,Pogon Szczecin,Gornik Z.,H,6,7
+2018/2019,2019-02-15,19:30,Piast Gliwice,Lech Poznan,H,5,9
+2018/2019,2019-02-16,14:30,Jagiellonia,Wisla Plock,H,8,2
+2018/2019,2019-02-16,17:00,Zaglebie Sosnowiec,Arka Gdynia,H,0,2
+2018/2019,2019-02-16,19:30,Korona Kielce,Lechia Gdansk,D,6,11
+2018/2019,2019-02-17,14:30,Zaglebie,Legnica,H,10,8
+2018/2019,2019-02-17,17:00,Legia,Cracovia,A,13,15
+2018/2019,2019-02-18,17:00,Wisla,Slask Wroclaw,H,4,4
+2018/2019,2019-02-22,17:00,Arka Gdynia,Piast Gliwice,A,2,5
+2018/2019,2019-02-22,19:30,Korona Kielce,Pogon Szczecin,D,7,9
+2018/2019,2019-02-23,14:30,Gornik Z.,Zaglebie Sosnowiec,H,4,3
+2018/2019,2019-02-23,17:00,Lech Poznan,Legia,H,9,10
+2018/2019,2019-02-23,19:30,Lechia Gdansk,Wisla,H,9,7
+2018/2019,2019-02-24,14:30,Legnica,Wisla Plock,H,5,2
+2018/2019,2019-02-24,17:00,Cracovia,Jagiellonia,H,15,8
+2018/2019,2019-02-25,17:00,Slask Wroclaw,Zaglebie,H,4,10
+2018/2019,2019-03-01,19:30,Legia,Legnica,H,9,5
+2018/2019,2019-03-01,17:00,Piast Gliwice,Slask Wroclaw,H,7,7
+2018/2019,2019-03-02,19:30,Wisla Plock,Cracovia,H,1,15
+2018/2019,2019-03-02,14:30,Zaglebie Sosnowiec,Korona Kielce,H,3,7
+2018/2019,2019-03-02,17:00,Jagiellonia,Gornik Z.,D,7,7
+2018/2019,2019-03-03,14:30,Wisla,Pogon Szczecin,A,6,7
+2018/2019,2019-03-03,17:00,Lech Poznan,Arka Gdynia,H,9,2
+2018/2019,2019-03-04,17:00,Zaglebie,Lechia Gdansk,H,9,11
+2018/2019,2019-03-08,17:00,Gornik Z.,Piast Gliwice,A,7,10
+2018/2019,2019-03-08,19:30,Slask Wroclaw,Jagiellonia,H,6,8
+2018/2019,2019-03-09,19:30,Arka Gdynia,Legia,A,1,9
+2018/2019,2019-03-09,14:30,Cracovia,Zaglebie Sosnowiec,H,12,6
+2018/2019,2019-03-09,17:00,Korona Kielce,Wisla,A,6,3
+2018/2019,2019-03-10,14:30,Pogon Szczecin,Zaglebie,A,10,9
+2018/2019,2019-03-10,17:00,Legnica,Lech Poznan,H,4,9
+2018/2019,2019-03-11,17:00,Lechia Gdansk,Wisla Plock,D,10,4
+2018/2019,2019-03-15,17:00,Wisla Plock,Pogon Szczecin,A,4,7
+2018/2019,2019-03-15,19:30,Lech Poznan,Gornik Z.,A,6,7
+2018/2019,2019-03-16,17:00,Zaglebie Sosnowiec,Lechia Gdansk,A,6,8
+2018/2019,2019-03-16,19:30,Legia,Slask Wroclaw,H,9,9
+2018/2019,2019-03-16,14:30,Jagiellonia,Korona Kielce,A,7,5
+2018/2019,2019-03-17,14:30,Zaglebie,Arka Gdynia,D,12,0
+2018/2019,2019-03-17,17:00,Wisla,Cracovia,H,6,12
+2018/2019,2019-03-17,14:30,Piast Gliwice,Legnica,H,12,6
+2018/2019,2019-03-29,19:30,Gornik Z.,Cracovia,A,7,9
+2018/2019,2019-03-29,19:30,Lechia Gdansk,Piast Gliwice,H,8,15
+2018/2019,2019-03-29,17:00,Wisla Plock,Zaglebie,A,4,10
+2018/2019,2019-03-30,19:30,Korona Kielce,Lech Poznan,D,5,6
+2018/2019,2019-03-30,14:30,Legnica,Zaglebie Sosnowiec,A,6,6
+2018/2019,2019-03-30,17:00,Arka Gdynia,Slask Wroclaw,A,1,6
+2018/2019,2019-03-31,14:30,Pogon Szczecin,Jagiellonia,D,10,4
+2018/2019,2019-03-31,17:00,Wisla,Legia,H,9,9
+2018/2019,2019-04-02,17:00,Cracovia,Korona Kielce,H,9,5
+2018/2019,2019-04-02,17:00,Slask Wroclaw,Legnica,D,9,6
+2018/2019,2019-04-02,19:30,Arka Gdynia,Lechia Gdansk,D,1,10
+2018/2019,2019-04-02,19:30,Zaglebie,Gornik Z.,D,10,7
+2018/2019,2019-04-03,17:00,Lech Poznan,Pogon Szczecin,H,7,8
+2018/2019,2019-04-03,17:00,Piast Gliwice,Wisla Plock,H,12,4
+2018/2019,2019-04-03,19:30,Legia,Jagiellonia,H,9,2
+2018/2019,2019-04-03,19:30,Zaglebie Sosnowiec,Wisla,H,6,9
+2018/2019,2019-04-05,19:30,Legnica,Cracovia,H,4,9
+2018/2019,2019-04-05,17:00,Korona Kielce,Zaglebie,A,4,11
+2018/2019,2019-04-06,14:30,Jagiellonia,Zaglebie Sosnowiec,H,2,9
+2018/2019,2019-04-06,17:00,Wisla,Piast Gliwice,D,9,12
+2018/2019,2019-04-06,19:30,Lechia Gdansk,Lech Poznan,H,8,7
+2018/2019,2019-04-07,14:30,Pogon Szczecin,Arka Gdynia,D,7,2
+2018/2019,2019-04-07,17:00,Gornik Z.,Legia,A,5,12
+2018/2019,2019-04-08,17:00,Wisla Plock,Slask Wroclaw,H,4,7
+2018/2019,2019-04-13,17:00,Zaglebie Sosnowiec,Wisla Plock,A,6,4
+2018/2019,2019-04-13,17:00,Zaglebie,Wisla,H,11,10
+2018/2019,2019-04-13,17:00,Slask Wroclaw,Gornik Z.,A,7,4
+2018/2019,2019-04-13,17:00,Piast Gliwice,Korona Kielce,H,10,4
+2018/2019,2019-04-13,17:00,Lech Poznan,Jagiellonia,A,4,4
+2018/2019,2019-04-13,17:00,Cracovia,Lechia Gdansk,H,9,11
+2018/2019,2019-04-13,17:00,Arka Gdynia,Legnica,D,3,7
+2018/2019,2019-04-13,17:00,Legia,Pogon Szczecin,H,12,5
+2018/2019,2019-04-20,14:30,Lechia Gdansk,Piast Gliwice,A,10,10
+2018/2019,2019-04-20,17:00,Jagiellonia,Lech Poznan,D,7,4
+2018/2019,2019-04-20,17:00,Zaglebie,Pogon Szczecin,A,11,5
+2018/2019,2019-04-20,19:30,Legia,Cracovia,H,12,9
+2018/2019,2019-04-22,17:00,Gornik Z.,Arka Gdynia,H,7,4
+2018/2019,2019-04-22,14:30,Legnica,Zaglebie Sosnowiec,D,5,6
+2018/2019,2019-04-22,14:30,Wisla,Wisla Plock,A,7,6
+2018/2019,2019-04-22,17:00,Korona Kielce,Slask Wroclaw,H,4,4
+2018/2019,2019-04-23,17:00,Piast Gliwice,Zaglebie,H,10,10
+2018/2019,2019-04-23,19:30,Cracovia,Jagiellonia,A,9,8
+2018/2019,2019-04-24,17:00,Pogon Szczecin,Lechia Gdansk,A,5,7
+2018/2019,2019-04-24,19:30,Lech Poznan,Legia,H,5,12
+2018/2019,2019-04-25,17:00,Wisla Plock,Korona Kielce,H,9,4
+2018/2019,2019-04-25,19:30,Slask Wroclaw,Gornik Z.,A,4,7
+2018/2019,2019-04-25,17:00,Arka Gdynia,Legnica,H,3,6
+2018/2019,2019-04-25,19:30,Zaglebie Sosnowiec,Wisla,H,7,4
+2018/2019,2019-04-26,19:30,Piast Gliwice,Cracovia,H,13,6
+2018/2019,2019-04-26,17:00,Zaglebie,Jagiellonia,H,7,10
+2018/2019,2019-04-27,17:00,Pogon Szczecin,Lech Poznan,D,4,7
+2018/2019,2019-04-27,19:30,Lechia Gdansk,Legia,A,7,12
+2018/2019,2019-04-28,12:00,Legnica,Wisla Plock,H,6,12
+2018/2019,2019-04-28,14:30,Korona Kielce,Arka Gdynia,A,3,6
+2018/2019,2019-04-28,17:00,Wisla,Slask Wroclaw,D,1,1
+2018/2019,2019-04-29,17:00,Gornik Z.,Zaglebie Sosnowiec,H,10,7
+2018/2019,2019-05-03,17:00,Wisla Plock,Arka Gdynia,D,12,8
+2018/2019,2019-05-03,19:30,Gornik Z.,Wisla,A,12,2
+2018/2019,2019-05-04,19:30,Legia,Piast Gliwice,A,12,13
+2018/2019,2019-05-04,17:00,Lech Poznan,Zaglebie,D,5,9
+2018/2019,2019-05-04,14:30,Korona Kielce,Legnica,D,3,8
+2018/2019,2019-05-05,14:30,Zaglebie Sosnowiec,Slask Wroclaw,A,4,1
+2018/2019,2019-05-05,17:00,Cracovia,Lechia Gdansk,H,3,6
+2018/2019,2019-05-06,17:00,Jagiellonia,Pogon Szczecin,H,10,5
+2018/2019,2019-05-10,17:00,Arka Gdynia,Zaglebie Sosnowiec,H,8,4
+2018/2019,2019-05-10,19:30,Wisla,Korona Kielce,H,4,4
+2018/2019,2019-05-11,14:30,Slask Wroclaw,Wisla Plock,H,4,10
+2018/2019,2019-05-11,17:00,Legnica,Gornik Z.,A,6,12
+2018/2019,2019-05-11,19:30,Cracovia,Lech Poznan,H,6,6
+2018/2019,2019-05-12,17:00,Lechia Gdansk,Zaglebie,D,3,7
+2018/2019,2019-05-12,14:30,Legia,Pogon Szczecin,D,9,4
+2018/2019,2019-05-12,12:00,Piast Gliwice,Jagiellonia,H,15,10
+2018/2019,2019-05-13,17:00,Arka Gdynia,Wisla,H,10,7
+2018/2019,2019-05-14,19:30,Gornik Z.,Wisla Plock,A,12,7
+2018/2019,2019-05-14,19:30,Legnica,Slask Wroclaw,A,5,7
+2018/2019,2019-05-14,19:30,Zaglebie Sosnowiec,Korona Kielce,A,4,4
+2018/2019,2019-05-15,19:30,Jagiellonia,Legia,H,7,7
+2018/2019,2019-05-15,19:30,Lech Poznan,Lechia Gdansk,H,6,4
+2018/2019,2019-05-15,19:30,Pogon Szczecin,Piast Gliwice,D,5,15
+2018/2019,2019-05-15,19:30,Zaglebie,Cracovia,A,5,6
+2018/2019,2019-05-18,14:30,Wisla,Legnica,A,7,4
+2018/2019,2019-05-18,14:30,Slask Wroclaw,Arka Gdynia,H,10,13
+2018/2019,2019-05-18,14:30,Wisla Plock,Zaglebie Sosnowiec,D,7,3
+2018/2019,2019-05-18,14:30,Korona Kielce,Gornik Z.,A,4,9
+2018/2019,2019-05-19,17:00,Cracovia,Pogon Szczecin,A,9,3
+2018/2019,2019-05-19,17:00,Lechia Gdansk,Jagiellonia,H,4,9
+2018/2019,2019-05-19,17:00,Legia,Zaglebie,D,4,5
+2018/2019,2019-05-19,17:00,Piast Gliwice,Lech Poznan,H,13,8
+2019/2020,2019-07-19,17:00,Arka Gdynia,Jagiellonia,A,10,6
+2019/2020,2019-07-19,19:30,LKS Lodz,Lechia Gdansk,D,0,4
+2019/2020,2019-07-20,14:00,Rakow,Korona Kielce,A,0,4
+2019/2020,2019-07-20,16:30,Wisla,Slask Wroclaw,A,7,13
+2019/2020,2019-07-20,19:00,Piast Gliwice,Lech Poznan,D,13,5
+2019/2020,2019-07-21,14:00,Zaglebie,Cracovia,D,6,9
+2019/2020,2019-07-21,16:30,Legia,Pogon Szczecin,A,5,6
+2019/2020,2019-07-22,17:00,Wisla Plock,Gornik Z.,D,5,9
+2019/2020,2019-07-26,17:00,Gornik Z.,Zaglebie,H,7,4
+2019/2020,2019-07-26,19:30,Lech Poznan,Wisla Plock,H,5,6
+2019/2020,2019-07-27,16:30,Cracovia,LKS Lodz,A,10,1
+2019/2020,2019-07-27,19:00,Jagiellonia,Rakow,A,9,0
+2019/2020,2019-07-28,14:00,Korona Kielce,Legia,A,7,2
+2019/2020,2019-07-28,16:30,Lechia Gdansk,Wisla,D,5,6
+2019/2020,2019-07-28,16:30,Slask Wroclaw,Piast Gliwice,H,15,11
+2019/2020,2019-07-29,17:00,Pogon Szczecin,Arka Gdynia,H,8,7
+2019/2020,2019-08-02,17:00,Arka Gdynia,Korona Kielce,D,6,6
+2019/2020,2019-08-02,19:30,Zaglebie,Jagiellonia,D,3,6
+2019/2020,2019-08-03,19:00,LKS Lodz,Lech Poznan,A,4,7
+2019/2020,2019-08-03,16:30,Rakow,Cracovia,A,3,7
+2019/2020,2019-08-04,14:00,Wisla Plock,Lechia Gdansk,A,5,6
+2019/2020,2019-08-04,16:30,Legia,Slask Wroclaw,D,5,15
+2019/2020,2019-08-04,16:30,Piast Gliwice,Pogon Szczecin,D,8,11
+2019/2020,2019-08-05,17:00,Wisla,Gornik Z.,H,4,10
+2019/2020,2019-08-09,19:30,Lech Poznan,Slask Wroclaw,A,10,13
+2019/2020,2019-08-10,14:00,Pogon Szczecin,Wisla,H,11,4
+2019/2020,2019-08-10,16:30,Zaglebie,Arka Gdynia,H,3,4
+2019/2020,2019-08-10,19:00,Gornik Z.,Rakow,H,7,3
+2019/2020,2019-08-11,14:00,LKS Lodz,Piast Gliwice,A,4,6
+2019/2020,2019-08-11,16:30,Cracovia,Korona Kielce,H,7,7
+2019/2020,2019-08-12,17:00,Lechia Gdansk,Jagiellonia,D,8,7
+2019/2020,2019-08-16,19:30,Wisla,LKS Lodz,H,4,4
+2019/2020,2019-08-17,14:00,Slask Wroclaw,Cracovia,H,13,7
+2019/2020,2019-08-17,16:30,Arka Gdynia,Lech Poznan,D,1,7
+2019/2020,2019-08-17,19:00,Jagiellonia,Gornik Z.,H,5,10
+2019/2020,2019-08-18,14:00,Piast Gliwice,Wisla Plock,H,8,5
+2019/2020,2019-08-18,16:30,Legia,Zaglebie,H,5,6
+2019/2020,2019-08-18,16:30,Rakow,Lechia Gdansk,H,3,9
+2019/2020,2019-08-19,17:00,Korona Kielce,Pogon Szczecin,A,4,13
+2019/2020,2019-08-23,19:30,Jagiellonia,Wisla,H,8,7
+2019/2020,2019-08-24,19:00,Rakow,Lech Poznan,A,6,8
+2019/2020,2019-08-24,16:30,Lechia Gdansk,Slask Wroclaw,D,6,13
+2019/2020,2019-08-24,14:00,Cracovia,Arka Gdynia,H,7,2
+2019/2020,2019-08-25,14:00,Gornik Z.,Korona Kielce,H,7,4
+2019/2020,2019-08-25,16:30,LKS Lodz,Legia,A,4,8
+2019/2020,2019-08-25,16:30,Zaglebie,Piast Gliwice,A,5,8
+2019/2020,2019-08-26,17:00,Pogon Szczecin,Wisla Plock,A,13,2
+2019/2020,2019-08-30,17:00,Arka Gdynia,Gornik Z.,H,2,9
+2019/2020,2019-08-30,19:30,Korona Kielce,Jagiellonia,A,1,8
+2019/2020,2019-08-31,14:00,Wisla Plock,LKS Lodz,H,4,3
+2019/2020,2019-08-31,16:30,Piast Gliwice,Lechia Gdansk,A,10,6
+2019/2020,2019-08-31,19:00,Wisla,Zaglebie,H,7,4
+2019/2020,2019-09-01,19:00,Legia,Rakow,H,10,6
+2019/2020,2019-09-01,16:30,Lech Poznan,Cracovia,A,10,9
+2019/2020,2019-09-01,14:00,Slask Wroclaw,Pogon Szczecin,D,11,10
+2019/2020,2019-09-13,17:00,Zaglebie,Wisla Plock,H,4,6
+2019/2020,2019-09-13,19:30,Jagiellonia,Legia,D,11,13
+2019/2020,2019-09-14,14:00,Rakow,Arka Gdynia,H,3,5
+2019/2020,2019-09-14,16:30,Lechia Gdansk,Lech Poznan,H,8,7
+2019/2020,2019-09-14,19:00,Korona Kielce,Wisla,D,1,9
+2019/2020,2019-09-15,14:00,Pogon Szczecin,LKS Lodz,H,8,0
+2019/2020,2019-09-15,16:30,Gornik Z.,Slask Wroclaw,D,6,9
+2019/2020,2019-09-16,17:00,Cracovia,Piast Gliwice,H,12,10
+2019/2020,2019-09-18,17:00,Wisla Plock,Legia,H,6,11
+2019/2020,2019-09-20,19:30,Lech Poznan,Jagiellonia,D,4,11
+2019/2020,2019-09-20,17:00,Piast Gliwice,Rakow,H,9,6
+2019/2020,2019-09-21,14:00,LKS Lodz,Arka Gdynia,A,0,4
+2019/2020,2019-09-21,16:30,Lechia Gdansk,Korona Kielce,H,8,1
+2019/2020,2019-09-21,19:00,Slask Wroclaw,Zaglebie,D,9,6
+2019/2020,2019-09-22,11:30,Wisla Plock,Wisla,H,9,7
+2019/2020,2019-09-22,14:00,Pogon Szczecin,Gornik Z.,D,10,7
+2019/2020,2019-09-22,16:30,Cracovia,Legia,A,12,10
+2019/2020,2019-09-27,19:30,Korona Kielce,Slask Wroclaw,H,1,7
+2019/2020,2019-09-28,19:00,Gornik Z.,Lech Poznan,A,5,5
+2019/2020,2019-09-28,14:00,Rakow,Wisla Plock,A,6,12
+2019/2020,2019-09-28,16:30,Legia,Lechia Gdansk,A,10,10
+2019/2020,2019-09-29,16:30,Wisla,Cracovia,A,7,9
+2019/2020,2019-09-29,11:30,Arka Gdynia,Piast Gliwice,D,7,9
+2019/2020,2019-09-29,14:00,Jagiellonia,Pogon Szczecin,A,11,8
+2019/2020,2019-09-30,17:00,Zaglebie,LKS Lodz,H,4,0
+2019/2020,2019-10-04,17:00,Wisla Plock,Arka Gdynia,H,12,7
+2019/2020,2019-10-04,19:30,Slask Wroclaw,Jagiellonia,D,4,8
+2019/2020,2019-10-05,14:00,Pogon Szczecin,Rakow,A,8,3
+2019/2020,2019-10-05,16:30,Lech Poznan,Wisla,H,7,4
+2019/2020,2019-10-05,19:00,Lechia Gdansk,Zaglebie,A,13,7
+2019/2020,2019-10-06,14:00,Cracovia,Gornik Z.,D,12,5
+2019/2020,2019-10-06,11:30,LKS Lodz,Korona Kielce,H,0,4
+2019/2020,2019-10-06,16:30,Piast Gliwice,Legia,H,7,7
+2019/2020,2019-10-18,19:30,Wisla,Piast Gliwice,A,4,7
+2019/2020,2019-10-18,17:00,Zaglebie,Pogon Szczecin,A,10,8
+2019/2020,2019-10-19,14:00,Korona Kielce,Wisla Plock,A,4,12
+2019/2020,2019-10-19,16:30,Legia,Lech Poznan,H,4,7
+2019/2020,2019-10-19,19:00,Jagiellonia,Cracovia,H,6,10
+2019/2020,2019-10-20,14:00,Arka Gdynia,Lechia Gdansk,D,7,12
+2019/2020,2019-10-20,16:30,Gornik Z.,LKS Lodz,D,3,3
+2019/2020,2019-10-21,17:00,Rakow,Slask Wroclaw,H,6,4
+2019/2020,2019-10-25,19:30,Lech Poznan,Zaglebie,A,7,10
+2019/2020,2019-10-25,17:00,Cracovia,Pogon Szczecin,H,7,10
+2019/2020,2019-10-26,19:00,Lechia Gdansk,Gornik Z.,D,10,4
+2019/2020,2019-10-26,14:00,LKS Lodz,Rakow,H,4,9
+2019/2020,2019-10-26,16:30,Piast Gliwice,Korona Kielce,H,10,4
+2019/2020,2019-10-27,11:30,Wisla Plock,Jagiellonia,H,15,6
+2019/2020,2019-10-27,14:00,Slask Wroclaw,Arka Gdynia,H,3,5
+2019/2020,2019-10-27,16:30,Legia,Wisla,H,6,1
+2019/2020,2019-11-02,14:00,Korona Kielce,Zaglebie,H,3,10
+2019/2020,2019-11-02,16:30,Cracovia,Lechia Gdansk,H,7,8
+2019/2020,2019-11-02,19:00,Pogon Szczecin,Lech Poznan,D,7,7
+2019/2020,2019-11-03,11:30,Jagiellonia,LKS Lodz,H,5,7
+2019/2020,2019-11-03,14:00,Gornik Z.,Piast Gliwice,D,4,13
+2019/2020,2019-11-03,16:30,Arka Gdynia,Legia,A,5,9
+2019/2020,2019-11-04,19:30,Rakow,Wisla,H,6,0
+2019/2020,2019-11-04,17:00,Slask Wroclaw,Wisla Plock,H,5,15
+2019/2020,2019-11-08,17:00,LKS Lodz,Slask Wroclaw,A,7,7
+2019/2020,2019-11-08,19:30,Piast Gliwice,Jagiellonia,H,11,7
+2019/2020,2019-11-09,14:00,Wisla Plock,Cracovia,D,12,10
+2019/2020,2019-11-09,16:30,Legia,Gornik Z.,H,9,4
+2019/2020,2019-11-09,19:00,Wisla,Arka Gdynia,A,0,2
+2019/2020,2019-11-10,11:30,Zaglebie,Rakow,D,9,9
+2019/2020,2019-11-10,14:00,Lech Poznan,Korona Kielce,D,7,6
+2019/2020,2019-11-10,16:30,Lechia Gdansk,Pogon Szczecin,A,5,7
+2019/2020,2019-11-22,19:30,Lech Poznan,Piast Gliwice,H,5,13
+2019/2020,2019-11-22,17:00,Gornik Z.,Wisla Plock,D,4,10
+2019/2020,2019-11-23,14:00,Korona Kielce,Rakow,H,4,10
+2019/2020,2019-11-23,16:30,Pogon Szczecin,Legia,H,7,12
+2019/2020,2019-11-23,19:00,Lechia Gdansk,LKS Lodz,H,2,7
+2019/2020,2019-11-24,14:00,Jagiellonia,Arka Gdynia,H,7,4
+2019/2020,2019-11-24,16:30,Slask Wroclaw,Wisla,H,10,0
+2019/2020,2019-11-25,17:00,Cracovia,Zaglebie,H,8,7
+2019/2020,2019-11-29,17:00,Zaglebie,Gornik Z.,H,4,4
+2019/2020,2019-11-29,19:30,Wisla Plock,Lech Poznan,A,8,5
+2019/2020,2019-11-30,19:00,Legia,Korona Kielce,H,12,7
+2019/2020,2019-11-30,16:30,Piast Gliwice,Slask Wroclaw,A,10,12
+2019/2020,2019-11-30,14:00,Arka Gdynia,Pogon Szczecin,D,4,10
+2019/2020,2019-12-01,11:30,Rakow,Jagiellonia,H,7,9
+2019/2020,2019-12-01,14:00,LKS Lodz,Cracovia,H,4,10
+2019/2020,2019-12-01,16:30,Wisla,Lechia Gdansk,A,0,5
+2019/2020,2019-12-06,17:00,Korona Kielce,Arka Gdynia,A,7,4
+2019/2020,2019-12-06,19:30,Gornik Z.,Wisla,H,3,0
+2019/2020,2019-12-07,14:00,Jagiellonia,Zaglebie,A,6,7
+2019/2020,2019-12-07,16:30,Lech Poznan,LKS Lodz,H,8,6
+2019/2020,2019-12-07,19:00,Lechia Gdansk,Wisla Plock,H,7,5
+2019/2020,2019-12-08,14:00,Pogon Szczecin,Piast Gliwice,H,8,7
+2019/2020,2019-12-08,16:30,Slask Wroclaw,Legia,A,15,12
+2019/2020,2019-12-08,11:30,Cracovia,Rakow,H,10,7
+2019/2020,2019-12-13,17:00,Arka Gdynia,Zaglebie,H,7,7
+2019/2020,2019-12-13,19:30,Wisla,Pogon Szczecin,H,0,11
+2019/2020,2019-12-14,14:00,Rakow,Gornik Z.,H,7,5
+2019/2020,2019-12-14,16:30,Slask Wroclaw,Lech Poznan,D,12,11
+2019/2020,2019-12-14,19:00,Legia,Wisla Plock,H,12,2
+2019/2020,2019-12-15,11:30,Piast Gliwice,LKS Lodz,H,4,3
+2019/2020,2019-12-15,14:00,Korona Kielce,Cracovia,H,7,10
+2019/2020,2019-12-15,16:30,Jagiellonia,Lechia Gdansk,H,6,9
+2019/2020,2019-12-19,19:30,Lech Poznan,Arka Gdynia,D,11,10
+2019/2020,2019-12-19,17:00,LKS Lodz,Wisla,A,3,3
+2019/2020,2019-12-20,17:00,Cracovia,Slask Wroclaw,H,7,10
+2019/2020,2019-12-20,17:00,Pogon Szczecin,Korona Kielce,A,10,7
+2019/2020,2019-12-20,19:30,Zaglebie,Legia,H,7,12
+2019/2020,2019-12-21,14:00,Lechia Gdansk,Rakow,A,9,7
+2019/2020,2019-12-21,16:30,Wisla Plock,Piast Gliwice,H,2,6
+2019/2020,2019-12-21,19:00,Gornik Z.,Jagiellonia,H,4,6
+2019/2020,2020-02-07,17:00,Arka Gdynia,Cracovia,A,8,9
+2019/2020,2020-02-07,19:30,Slask Wroclaw,Lechia Gdansk,D,7,9
+2019/2020,2020-02-08,19:00,Wisla,Jagiellonia,H,6,6
+2019/2020,2020-02-08,16:30,Lech Poznan,Rakow,H,11,9
+2019/2020,2020-02-08,14:00,Korona Kielce,Gornik Z.,D,9,7
+2019/2020,2020-02-09,11:30,Wisla Plock,Pogon Szczecin,A,4,7
+2019/2020,2020-02-09,14:00,Piast Gliwice,Zaglebie,H,3,9
+2019/2020,2020-02-09,16:30,Legia,LKS Lodz,H,9,3
+2019/2020,2020-02-14,17:00,Gornik Z.,Arka Gdynia,H,7,8
+2019/2020,2020-02-14,19:30,Lechia Gdansk,Piast Gliwice,H,7,6
+2019/2020,2020-02-15,14:00,LKS Lodz,Wisla Plock,D,3,3
+2019/2020,2020-02-15,16:30,Pogon Szczecin,Slask Wroclaw,D,7,5
+2019/2020,2020-02-15,19:00,Rakow,Legia,D,9,12
+2019/2020,2020-02-16,16:30,Cracovia,Lech Poznan,H,9,11
+2019/2020,2020-02-16,11:30,Jagiellonia,Korona Kielce,D,3,7
+2019/2020,2020-02-16,14:00,Zaglebie,Wisla,A,9,9
+2019/2020,2020-02-21,17:00,LKS Lodz,Pogon Szczecin,D,1,7
+2019/2020,2020-02-21,19:30,Slask Wroclaw,Gornik Z.,H,3,10
+2019/2020,2020-02-22,14:00,Arka Gdynia,Rakow,H,7,7
+2019/2020,2020-02-22,16:30,Legia,Jagiellonia,H,10,4
+2019/2020,2020-02-22,19:00,Piast Gliwice,Cracovia,H,6,12
+2019/2020,2020-02-23,14:00,Wisla,Korona Kielce,H,12,8
+2019/2020,2020-02-23,11:30,Wisla Plock,Zaglebie,D,4,6
+2019/2020,2020-02-23,16:30,Lech Poznan,Lechia Gdansk,H,8,7
+2019/2020,2020-02-28,19:30,Jagiellonia,Lech Poznan,D,4,8
+2019/2020,2020-02-28,17:00,Rakow,Piast Gliwice,H,7,9
+2019/2020,2020-02-29,19:00,Legia,Cracovia,H,10,9
+2019/2020,2020-02-29,16:30,Gornik Z.,Pogon Szczecin,H,7,5
+2019/2020,2020-02-29,14:00,Wisla,Wisla Plock,D,15,5
+2019/2020,2020-03-01,11:30,Korona Kielce,Lechia Gdansk,A,8,4
+2019/2020,2020-03-01,14:00,Arka Gdynia,LKS Lodz,D,7,2
+2019/2020,2020-03-01,16:30,Zaglebie,Slask Wroclaw,H,4,6
+2019/2020,2020-03-03,17:00,Lech Poznan,Gornik Z.,H,8,10
+2019/2020,2020-03-03,17:00,Wisla Plock,Rakow,A,6,7
+2019/2020,2020-03-03,19:30,Cracovia,Wisla,A,9,13
+2019/2020,2020-03-03,19:30,Pogon Szczecin,Jagiellonia,A,5,2
+2019/2020,2020-03-04,19:30,Piast Gliwice,Arka Gdynia,H,6,5
+2019/2020,2020-03-04,19:30,Lechia Gdansk,Legia,A,7,10
+2019/2020,2020-03-04,17:00,LKS Lodz,Zaglebie,H,3,7
+2019/2020,2020-03-04,17:00,Slask Wroclaw,Korona Kielce,H,5,5
+2019/2020,2020-03-06,19:30,Gornik Z.,Cracovia,H,7,6
+2019/2020,2020-03-07,14:00,Arka Gdynia,Wisla Plock,A,4,3
+2019/2020,2020-03-07,16:30,Zaglebie,Lechia Gdansk,D,4,7
+2019/2020,2020-03-07,19:00,Jagiellonia,Slask Wroclaw,H,5,8
+2019/2020,2020-03-08,11:30,Rakow,Pogon Szczecin,D,7,5
+2019/2020,2020-03-08,14:00,Wisla,Lech Poznan,D,13,10
+2019/2020,2020-03-08,16:30,Legia,Piast Gliwice,A,13,9
+2019/2020,2020-03-09,17:00,Korona Kielce,LKS Lodz,H,2,6
+2019/2020,2020-05-29,19:30,Pogon Szczecin,Zaglebie,A,3,5
+2019/2020,2020-05-29,17:00,Slask Wroclaw,Rakow,D,7,8
+2019/2020,2020-05-30,14:00,LKS Lodz,Gornik Z.,A,6,9
+2019/2020,2020-05-30,16:30,Piast Gliwice,Wisla,H,9,11
+2019/2020,2020-05-30,19:00,Lech Poznan,Legia,A,8,10
+2019/2020,2020-05-31,11:30,Wisla Plock,Korona Kielce,A,6,4
+2019/2020,2020-05-31,14:00,Cracovia,Jagiellonia,A,3,8
+2019/2020,2020-05-31,16:30,Lechia Gdansk,Arka Gdynia,H,7,4
+2019/2020,2020-06-05,17:00,Korona Kielce,Piast Gliwice,A,6,12
+2019/2020,2020-06-05,19:30,Gornik Z.,Lechia Gdansk,D,9,7
+2019/2020,2020-06-06,19:00,Pogon Szczecin,Cracovia,H,2,0
+2019/2020,2020-06-06,16:30,Zaglebie,Lech Poznan,D,8,8
+2019/2020,2020-06-06,14:00,Jagiellonia,Wisla Plock,D,10,5
+2019/2020,2020-06-07,11:30,Rakow,LKS Lodz,D,8,5
+2019/2020,2020-06-07,14:00,Arka Gdynia,Slask Wroclaw,H,4,7
+2019/2020,2020-06-07,16:30,Wisla,Legia,A,8,12
+2019/2020,2020-06-09,17:00,Lechia Gdansk,Cracovia,A,8,0
+2019/2020,2020-06-09,17:00,Piast Gliwice,Gornik Z.,D,12,10
+2019/2020,2020-06-09,19:30,Lech Poznan,Pogon Szczecin,H,6,4
+2019/2020,2020-06-09,19:30,Zaglebie,Korona Kielce,D,8,6
+2019/2020,2020-06-10,19:30,Legia,Arka Gdynia,H,12,4
+2019/2020,2020-06-10,19:30,LKS Lodz,Jagiellonia,A,5,11
+2019/2020,2020-06-10,17:00,Wisla,Rakow,H,5,9
+2019/2020,2020-06-10,17:00,Wisla Plock,Slask Wroclaw,A,5,4
+2019/2020,2020-06-14,17:00,Arka Gdynia,Wisla,D,3,7
+2019/2020,2020-06-14,17:00,Cracovia,Wisla Plock,D,3,4
+2019/2020,2020-06-14,17:00,Gornik Z.,Legia,H,8,12
+2019/2020,2020-06-14,17:00,Jagiellonia,Piast Gliwice,A,13,13
+2019/2020,2020-06-14,17:00,Korona Kielce,Lech Poznan,A,7,8
+2019/2020,2020-06-14,17:00,Pogon Szczecin,Lechia Gdansk,D,4,5
+2019/2020,2020-06-14,17:00,Rakow,Zaglebie,H,6,6
+2019/2020,2020-06-14,17:00,Slask Wroclaw,LKS Lodz,H,7,4
+2019/2020,2020-06-19,19:30,Gornik Z.,Korona Kielce,H,11,7
+2019/2020,2020-06-19,17:00,Zaglebie,LKS Lodz,H,6,1
+2019/2020,2020-06-20,16:30,Piast Gliwice,Lech Poznan,A,13,8
+2019/2020,2020-06-20,19:00,Rakow,Wisla,H,6,5
+2019/2020,2020-06-20,14:00,Wisla Plock,Arka Gdynia,D,5,4
+2019/2020,2020-06-21,11:30,Pogon Szczecin,Lechia Gdansk,A,5,6
+2019/2020,2020-06-21,14:00,Cracovia,Jagiellonia,A,4,10
+2019/2020,2020-06-21,16:30,Legia,Slask Wroclaw,H,9,7
+2019/2020,2020-06-23,19:30,Wisla,Wisla Plock,H,4,3
+2019/2020,2020-06-23,17:00,Arka Gdynia,Zaglebie,H,5,8
+2019/2020,2020-06-23,17:00,Korona Kielce,Rakow,A,4,8
+2019/2020,2020-06-23,19:30,LKS Lodz,Gornik Z.,A,1,11
+2019/2020,2020-06-24,19:30,Lech Poznan,Pogon Szczecin,D,10,4
+2019/2020,2020-06-24,17:00,Lechia Gdansk,Piast Gliwice,H,8,10
+2019/2020,2020-06-24,19:30,Jagiellonia,Legia,D,10,12
+2019/2020,2020-06-25,18:00,Slask Wroclaw,Cracovia,H,7,4
+2019/2020,2020-06-26,17:00,Rakow,Arka Gdynia,H,10,8
+2019/2020,2020-06-26,19:30,Zaglebie,Korona Kielce,H,5,1
+2019/2020,2020-06-27,14:00,Wisla Plock,LKS Lodz,H,3,1
+2019/2020,2020-06-27,16:30,Legia,Piast Gliwice,D,10,7
+2019/2020,2020-06-27,19:00,Gornik Z.,Wisla,A,11,7
+2019/2020,2020-06-28,16:30,Slask Wroclaw,Lech Poznan,D,9,11
+2019/2020,2020-06-28,14:00,Jagiellonia,Lechia Gdansk,A,8,8
+2019/2020,2020-06-29,17:00,Cracovia,Pogon Szczecin,H,4,5
+2019/2020,2020-07-03,19:30,Korona Kielce,Arka Gdynia,D,1,5
+2019/2020,2020-07-03,17:00,LKS Lodz,Wisla,A,0,10
+2019/2020,2020-07-04,14:00,Rakow,Zaglebie,A,12,7
+2019/2020,2020-07-04,16:30,Lech Poznan,Legia,H,11,8
+2019/2020,2020-07-04,19:00,Lechia Gdansk,Cracovia,A,10,7
+2019/2020,2020-07-05,14:00,Pogon Szczecin,Jagiellonia,D,2,7
+2019/2020,2020-07-05,16:30,Piast Gliwice,Slask Wroclaw,H,5,10
+2019/2020,2020-07-06,17:00,Wisla Plock,Gornik Z.,H,5,10
+2019/2020,2020-07-10,19:30,Gornik Z.,Rakow,H,9,12
+2019/2020,2020-07-10,17:00,Zaglebie,Wisla Plock,A,9,8
+2019/2020,2020-07-11,16:30,Legia,Cracovia,H,5,7
+2019/2020,2020-07-11,19:00,Wisla,Korona Kielce,D,10,1
+2019/2020,2020-07-11,14:00,Arka Gdynia,LKS Lodz,H,6,0
+2019/2020,2020-07-12,14:00,Piast Gliwice,Jagiellonia,H,7,5
+2019/2020,2020-07-12,16:30,Lech Poznan,Lechia Gdansk,H,11,10
+2019/2020,2020-07-12,11:30,Slask Wroclaw,Pogon Szczecin,D,7,3
+2019/2020,2020-07-14,19:30,Wisla Plock,Korona Kielce,H,10,2
+2019/2020,2020-07-14,19:30,Zaglebie,Wisla,H,9,10
+2019/2020,2020-07-14,19:30,Arka Gdynia,Gornik Z.,A,8,9
+2019/2020,2020-07-14,19:30,LKS Lodz,Rakow,H,0,9
+2019/2020,2020-07-15,19:30,Lechia Gdansk,Legia,D,9,8
+2019/2020,2020-07-15,19:30,Pogon Szczecin,Piast Gliwice,H,3,7
+2019/2020,2020-07-15,19:30,Cracovia,Lech Poznan,A,6,11
+2019/2020,2020-07-15,19:30,Jagiellonia,Slask Wroclaw,H,5,5
+2019/2020,2020-07-18,16:30,Gornik Z.,Zaglebie,A,9,9
+2019/2020,2020-07-18,16:30,Korona Kielce,LKS Lodz,H,2,3
+2019/2020,2020-07-18,16:30,Rakow,Wisla Plock,H,6,12
+2019/2020,2020-07-18,16:30,Wisla,Arka Gdynia,A,10,7
+2019/2020,2020-07-19,16:30,Lech Poznan,Jagiellonia,H,11,5
+2019/2020,2020-07-19,16:30,Legia,Pogon Szczecin,A,6,6
+2019/2020,2020-07-19,16:30,Piast Gliwice,Cracovia,D,7,6
+2019/2020,2020-07-19,16:30,Slask Wroclaw,Lechia Gdansk,A,5,7
+2020/2021,2020-08-21,17:00,Zaglebie,Lech Poznan,H,12,13
+2020/2021,2020-08-22,14:00,Cracovia,Pogon Szczecin,H,7,8
+2020/2021,2020-08-22,16:30,Slask Wroclaw,Piast Gliwice,H,2,8
+2020/2021,2020-08-22,19:00,Rakow,Legia,A,6,5
+2020/2021,2020-08-23,11:30,Wisla Plock,Stal Mielec,D,12,0
+2020/2021,2020-08-23,14:00,Warta Poznan,Lechia Gdansk,A,0,7
+2020/2021,2020-08-23,16:30,Gornik Z.,Podbeskidzie,H,6,1
+2020/2021,2020-08-24,17:00,Jagiellonia,Wisla,D,4,7
+2020/2021,2020-08-28,17:00,Zaglebie,Warta Poznan,H,12,0
+2020/2021,2020-08-28,19:30,Stal Mielec,Gornik Z.,A,1,9
+2020/2021,2020-08-29,16:30,Wisla,Slask Wroclaw,A,5,4
+2020/2021,2020-08-29,19:00,Legia,Jagiellonia,A,7,5
+2020/2021,2020-08-29,14:00,Lechia Gdansk,Rakow,A,7,3
+2020/2021,2020-08-30,11:30,Piast Gliwice,Pogon Szczecin,A,7,8
+2020/2021,2020-08-30,14:00,Podbeskidzie,Cracovia,D,1,7
+2020/2021,2020-08-30,16:30,Lech Poznan,Wisla Plock,D,12,10
+2020/2021,2020-09-11,17:00,Jagiellonia,Podbeskidzie,D,7,2
+2020/2021,2020-09-11,19:30,Wisla Plock,Legia,A,8,7
+2020/2021,2020-09-12,14:00,Cracovia,Stal Mielec,D,5,1
+2020/2021,2020-09-12,16:30,Warta Poznan,Piast Gliwice,D,0,4
+2020/2021,2020-09-12,19:00,Slask Wroclaw,Lech Poznan,D,7,10
+2020/2021,2020-09-13,14:00,Pogon Szczecin,Wisla,D,10,2
+2020/2021,2020-09-13,16:30,Gornik Z.,Lechia Gdansk,H,12,7
+2020/2021,2020-09-14,17:00,Rakow,Zaglebie,H,6,12
+2020/2021,2020-09-18,17:00,Podbeskidzie,Rakow,A,2,9
+2020/2021,2020-09-18,19:30,Wisla,Wisla Plock,A,2,5
+2020/2021,2020-09-19,14:00,Lechia Gdansk,Stal Mielec,H,7,2
+2020/2021,2020-09-19,16:30,Pogon Szczecin,Slask Wroclaw,H,10,7
+2020/2021,2020-09-19,19:00,Legia,Gornik Z.,A,7,12
+2020/2021,2020-09-20,14:00,Zaglebie,Cracovia,D,12,6
+2020/2021,2020-09-20,16:30,Lech Poznan,Warta Poznan,H,8,1
+2020/2021,2020-09-21,17:00,Piast Gliwice,Jagiellonia,A,2,8
+2020/2021,2020-09-25,19:30,Gornik Z.,Wisla,D,12,2
+2020/2021,2020-09-25,17:00,Wisla Plock,Warta Poznan,A,5,1
+2020/2021,2020-09-26,19:00,Jagiellonia,Zaglebie,A,8,10
+2020/2021,2020-09-26,16:30,Lechia Gdansk,Podbeskidzie,H,9,2
+2020/2021,2020-09-26,14:00,Cracovia,Rakow,D,7,12
+2020/2021,2020-09-28,17:00,Stal Mielec,Piast Gliwice,H,2,2
+2020/2021,2020-10-02,17:00,Rakow,Wisla Plock,H,10,5
+2020/2021,2020-10-02,19:30,Slask Wroclaw,Cracovia,H,7,7
+2020/2021,2020-10-03,14:00,Podbeskidzie,Stal Mielec,H,2,5
+2020/2021,2020-10-03,19:00,Zaglebie,Gornik Z.,H,10,13
+2020/2021,2020-10-04,16:30,Piast Gliwice,Lech Poznan,A,1,8
+2020/2021,2020-10-17,14:00,Cracovia,Piast Gliwice,H,4,1
+2020/2021,2020-10-17,16:30,Gornik Z.,Rakow,A,10,13
+2020/2021,2020-10-17,19:00,Jagiellonia,Lech Poznan,H,8,8
+2020/2021,2020-10-18,16:30,Legia,Zaglebie,H,6,10
+2020/2021,2020-10-18,11:30,Wisla Plock,Slask Wroclaw,H,4,10
+2020/2021,2020-10-18,14:00,Stal Mielec,Wisla,A,4,3
+2020/2021,2020-10-19,17:00,Podbeskidzie,Warta Poznan,A,5,4
+2020/2021,2020-10-19,19:30,Lechia Gdansk,Pogon Szczecin,A,9,10
+2020/2021,2020-10-21,17:00,Legia,Slask Wroclaw,H,9,7
+2020/2021,2020-10-23,17:00,Piast Gliwice,Wisla Plock,D,1,6
+2020/2021,2020-10-23,19:30,Zaglebie,Lechia Gdansk,D,7,6
+2020/2021,2020-10-24,16:30,Slask Wroclaw,Jagiellonia,H,4,10
+2020/2021,2020-10-24,14:00,Wisla,Podbeskidzie,H,5,4
+2020/2021,2020-10-24,19:00,Pogon Szczecin,Legia,D,10,9
+2020/2021,2020-10-25,16:30,Lech Poznan,Cracovia,D,8,6
+2020/2021,2020-10-25,14:00,Rakow,Stal Mielec,H,13,4
+2020/2021,2020-10-26,17:00,Warta Poznan,Gornik Z.,A,7,7
+2020/2021,2020-10-28,17:00,Wisla,Lechia Gdansk,A,8,7
+2020/2021,2020-10-30,17:00,Pogon Szczecin,Jagiellonia,H,11,7
+2020/2021,2020-11-02,17:00,Warta Poznan,Legia,A,7,10
+2020/2021,2020-11-07,14:00,Stal Mielec,Warta Poznan,A,3,6
+2020/2021,2020-11-07,16:30,Cracovia,Jagiellonia,H,6,6
+2020/2021,2020-11-07,19:00,Slask Wroclaw,Gornik Z.,D,6,7
+2020/2021,2020-11-08,16:30,Rakow,Wisla,D,13,7
+2020/2021,2020-11-08,14:00,Legia,Lech Poznan,H,10,8
+2020/2021,2020-11-09,17:00,Pogon Szczecin,Podbeskidzie,D,11,3
+2020/2021,2020-11-20,19:30,Gornik Z.,Piast Gliwice,A,5,1
+2020/2021,2020-11-20,17:00,Lechia Gdansk,Slask Wroclaw,H,10,7
+2020/2021,2020-11-21,16:30,Zaglebie,Stal Mielec,D,8,3
+2020/2021,2020-11-21,19:00,Warta Poznan,Wisla,H,9,8
+2020/2021,2020-11-22,11:30,Lech Poznan,Rakow,D,7,11
+2020/2021,2020-11-22,16:30,Cracovia,Legia,A,8,13
+2020/2021,2020-11-23,17:00,Piast Gliwice,Lechia Gdansk,H,4,10
+2020/2021,2020-11-23,19:30,Jagiellonia,Wisla Plock,H,3,7
+2020/2021,2020-11-24,17:00,Podbeskidzie,Zaglebie,H,4,8
+2020/2021,2020-11-27,19:30,Gornik Z.,Pogon Szczecin,H,4,11
+2020/2021,2020-11-27,17:00,Wisla Plock,Cracovia,A,4,7
+2020/2021,2020-11-28,19:00,Wisla,Zaglebie,A,7,5
+2020/2021,2020-11-28,16:30,Podbeskidzie,Slask Wroclaw,A,7,4
+2020/2021,2020-11-28,14:00,Stal Mielec,Jagiellonia,H,1,6
+2020/2021,2020-11-29,14:00,Rakow,Warta Poznan,H,11,9
+2020/2021,2020-11-29,16:30,Legia,Piast Gliwice,D,13,7
+2020/2021,2020-11-30,17:00,Lechia Gdansk,Lech Poznan,A,7,5
+2020/2021,2020-12-02,17:00,Wisla Plock,Pogon Szczecin,D,4,8
+2020/2021,2020-12-04,19:30,Cracovia,Wisla,D,10,4
+2020/2021,2020-12-05,14:00,Jagiellonia,Warta Poznan,H,3,6
+2020/2021,2020-12-05,16:30,Slask Wroclaw,Rakow,H,7,11
+2020/2021,2020-12-05,19:00,Legia,Lechia Gdansk,H,11,7
+2020/2021,2020-12-06,16:30,Lech Poznan,Podbeskidzie,H,5,4
+2020/2021,2020-12-06,14:00,Piast Gliwice,Zaglebie,D,8,5
+2020/2021,2020-12-07,17:00,Pogon Szczecin,Stal Mielec,H,6,4
+2020/2021,2020-12-07,19:30,Wisla Plock,Gornik Z.,A,5,7
+2020/2021,2020-12-11,17:00,Podbeskidzie,Piast Gliwice,A,4,9
+2020/2021,2020-12-11,19:30,Zaglebie,Slask Wroclaw,H,6,10
+2020/2021,2020-12-12,14:00,Warta Poznan,Pogon Szczecin,A,6,8
+2020/2021,2020-12-12,16:30,Gornik Z.,Cracovia,A,10,8
+2020/2021,2020-12-12,19:00,Wisla,Legia,A,2,13
+2020/2021,2020-12-13,14:00,Stal Mielec,Lech Poznan,D,4,8
+2020/2021,2020-12-13,16:30,Rakow,Jagiellonia,H,8,6
+2020/2021,2020-12-14,17:00,Lechia Gdansk,Wisla Plock,A,6,2
+2020/2021,2020-12-16,19:30,Lech Poznan,Pogon Szczecin,A,8,8
+2020/2021,2020-12-17,17:00,Slask Wroclaw,Warta Poznan,H,7,6
+2020/2021,2020-12-18,17:00,Wisla Plock,Podbeskidzie,H,4,4
+2020/2021,2020-12-18,19:30,Legia,Stal Mielec,A,13,5
+2020/2021,2020-12-19,14:00,Pogon Szczecin,Zaglebie,H,10,8
+2020/2021,2020-12-19,16:30,Cracovia,Lechia Gdansk,A,10,3
+2020/2021,2020-12-19,19:00,Lech Poznan,Wisla,A,8,2
+2020/2021,2020-12-20,14:00,Piast Gliwice,Rakow,D,11,8
+2020/2021,2020-12-20,16:30,Jagiellonia,Gornik Z.,H,6,7
+2020/2021,2021-01-29,17:00,Zaglebie,Wisla Plock,A,7,7
+2020/2021,2021-01-29,19:30,Rakow,Pogon Szczecin,A,8,13
+2020/2021,2021-01-30,19:00,Gornik Z.,Lech Poznan,D,6,7
+2020/2021,2021-01-30,16:30,Lechia Gdansk,Jagiellonia,A,3,9
+2020/2021,2021-01-30,14:00,Warta Poznan,Cracovia,H,3,7
+2020/2021,2021-01-31,14:00,Wisla,Piast Gliwice,A,4,9
+2020/2021,2021-01-31,16:30,Podbeskidzie,Legia,H,3,10
+2020/2021,2021-02-01,17:00,Stal Mielec,Slask Wroclaw,D,8,9
+2020/2021,2021-02-05,17:00,Lechia Gdansk,Warta Poznan,D,3,3
+2020/2021,2021-02-05,19:30,Lech Poznan,Zaglebie,D,5,7
+2020/2021,2021-02-06,14:00,Piast Gliwice,Slask Wroclaw,H,9,10
+2020/2021,2021-02-06,16:30,Pogon Szczecin,Cracovia,H,15,7
+2020/2021,2021-02-06,19:00,Legia,Rakow,H,7,7
+2020/2021,2021-02-07,14:00,Podbeskidzie,Gornik Z.,H,3,7
+2020/2021,2021-02-07,16:30,Wisla,Jagiellonia,H,4,9
+2020/2021,2021-02-12,19:30,Slask Wroclaw,Wisla,D,7,7
+2020/2021,2021-02-13,14:00,Cracovia,Podbeskidzie,D,4,6
+2020/2021,2021-02-13,16:30,Pogon Szczecin,Piast Gliwice,D,15,11
+2020/2021,2021-02-13,19:00,Rakow,Lechia Gdansk,A,4,4
+2020/2021,2021-02-14,14:00,Wisla Plock,Lech Poznan,H,10,3
+2020/2021,2021-02-14,16:30,Jagiellonia,Legia,D,9,9
+2020/2021,2021-02-15,17:00,Warta Poznan,Zaglebie,H,4,5
+2020/2021,2021-02-15,19:30,Gornik Z.,Stal Mielec,H,4,8
+2020/2021,2021-02-19,17:00,Stal Mielec,Cracovia,D,5,4
+2020/2021,2021-02-19,19:30,Wisla,Pogon Szczecin,H,7,13
+2020/2021,2021-02-20,19:00,Lechia Gdansk,Gornik Z.,H,7,4
+2020/2021,2021-02-20,16:30,Podbeskidzie,Jagiellonia,D,7,7
+2020/2021,2021-02-20,14:00,Legia,Wisla Plock,H,7,12
+2020/2021,2021-02-21,14:00,Zaglebie,Rakow,A,4,4
+2020/2021,2021-02-21,16:30,Lech Poznan,Slask Wroclaw,H,2,5
+2020/2021,2021-02-22,17:00,Piast Gliwice,Warta Poznan,A,11,7
+2020/2021,2021-02-26,17:00,Rakow,Podbeskidzie,H,4,8
+2020/2021,2021-02-26,19:30,Warta Poznan,Lech Poznan,A,10,5
+2020/2021,2021-02-27,14:00,Stal Mielec,Lechia Gdansk,A,6,10
+2020/2021,2021-02-27,16:30,Jagiellonia,Piast Gliwice,A,8,8
+2020/2021,2021-02-27,19:00,Gornik Z.,Legia,A,4,7
+2020/2021,2021-02-28,14:00,Cracovia,Zaglebie,A,2,1
+2020/2021,2021-02-28,16:30,Slask Wroclaw,Pogon Szczecin,H,5,10
+2020/2021,2021-02-28,11:30,Wisla Plock,Wisla,A,12,10
+2020/2021,2021-03-04,19:30,Stal Mielec,Wisla Plock,D,5,9
+2020/2021,2021-03-05,19:30,Wisla,Gornik Z.,D,10,4
+2020/2021,2021-03-06,14:00,Podbeskidzie,Lechia Gdansk,D,8,10
+2020/2021,2021-03-06,16:30,Zaglebie,Jagiellonia,H,4,5
+2020/2021,2021-03-06,19:00,Rakow,Cracovia,D,6,2
+2020/2021,2021-03-07,11:30,Piast Gliwice,Stal Mielec,H,10,3
+2020/2021,2021-03-07,14:00,Pogon Szczecin,Lech Poznan,A,7,8
+2020/2021,2021-03-07,16:30,Slask Wroclaw,Legia,A,5,10
+2020/2021,2021-03-08,17:00,Warta Poznan,Wisla Plock,H,10,7
+2020/2021,2021-03-12,19:30,Jagiellonia,Pogon Szczecin,A,2,4
+2020/2021,2021-03-12,17:00,Cracovia,Slask Wroclaw,D,3,4
+2020/2021,2021-03-13,14:00,Wisla Plock,Rakow,D,4,7
+2020/2021,2021-03-13,16:30,Lechia Gdansk,Wisla,H,11,11
+2020/2021,2021-03-13,19:00,Legia,Warta Poznan,H,13,10
+2020/2021,2021-03-14,14:00,Gornik Z.,Zaglebie,H,4,7
+2020/2021,2021-03-14,16:30,Lech Poznan,Piast Gliwice,D,10,10
+2020/2021,2021-03-15,17:00,Stal Mielec,Podbeskidzie,H,2,6
+2020/2021,2021-03-19,17:00,Piast Gliwice,Cracovia,H,8,4
+2020/2021,2021-03-19,19:30,Pogon Szczecin,Lechia Gdansk,H,4,13
+2020/2021,2021-03-20,16:30,Rakow,Gornik Z.,D,8,7
+2020/2021,2021-03-20,19:00,Lech Poznan,Jagiellonia,A,10,2
+2020/2021,2021-03-20,14:00,Slask Wroclaw,Wisla Plock,D,5,2
+2020/2021,2021-03-21,16:30,Zaglebie,Legia,A,6,13
+2020/2021,2021-03-21,11:30,Warta Poznan,Podbeskidzie,H,9,3
+2020/2021,2021-03-21,14:00,Wisla,Stal Mielec,H,8,5
+2020/2021,2021-04-03,11:30,Wisla Plock,Piast Gliwice,A,3,10
+2020/2021,2021-04-03,16:30,Legia,Pogon Szczecin,H,15,6
+2020/2021,2021-04-03,19:00,Cracovia,Lech Poznan,H,3,10
+2020/2021,2021-04-05,11:30,Gornik Z.,Warta Poznan,A,5,9
+2020/2021,2021-04-05,14:00,Podbeskidzie,Wisla,H,2,10
+2020/2021,2021-04-05,16:30,Jagiellonia,Slask Wroclaw,A,4,5
+2020/2021,2021-04-05,19:00,Lechia Gdansk,Zaglebie,H,10,6
+2020/2021,2021-04-09,17:00,Jagiellonia,Cracovia,H,3,5
+2020/2021,2021-04-09,19:30,Wisla,Rakow,A,7,9
+2020/2021,2021-04-10,19:00,Slask Wroclaw,Lechia Gdansk,D,8,10
+2020/2021,2021-04-10,14:00,Pogon Szczecin,Wisla Plock,H,6,3
+2020/2021,2021-04-10,16:30,Warta Poznan,Stal Mielec,D,9,4
+2020/2021,2021-04-11,14:00,Zaglebie,Podbeskidzie,H,6,4
+2020/2021,2021-04-11,16:30,Lech Poznan,Legia,D,7,15
+2020/2021,2021-04-12,17:00,Piast Gliwice,Gornik Z.,H,13,5
+2020/2021,2021-04-16,17:00,Podbeskidzie,Pogon Szczecin,A,4,9
+2020/2021,2021-04-16,19:30,Gornik Z.,Slask Wroclaw,D,5,6
+2020/2021,2021-04-17,19:00,Wisla,Warta Poznan,A,4,10
+2020/2021,2021-04-17,14:00,Lechia Gdansk,Piast Gliwice,D,8,13
+2020/2021,2021-04-17,16:30,Rakow,Lech Poznan,H,9,5
+2020/2021,2021-04-18,16:30,Legia,Cracovia,D,13,5
+2020/2021,2021-04-18,11:30,Stal Mielec,Zaglebie,A,5,6
+2020/2021,2021-04-18,14:00,Wisla Plock,Jagiellonia,D,2,6
+2020/2021,2021-04-20,17:00,Pogon Szczecin,Gornik Z.,H,12,5
+2020/2021,2021-04-20,17:00,Warta Poznan,Rakow,A,10,9
+2020/2021,2021-04-20,19:30,Lech Poznan,Lechia Gdansk,H,2,8
+2020/2021,2021-04-20,19:30,Slask Wroclaw,Podbeskidzie,H,7,3
+2020/2021,2021-04-21,19:30,Piast Gliwice,Legia,A,11,11
+2020/2021,2021-04-21,17:00,Jagiellonia,Stal Mielec,D,7,4
+2020/2021,2021-04-21,17:00,Zaglebie,Wisla,H,6,3
+2020/2021,2021-04-21,19:30,Cracovia,Wisla Plock,H,5,3
+2020/2021,2021-04-23,19:30,Podbeskidzie,Lech Poznan,H,3,4
+2020/2021,2021-04-23,17:00,Rakow,Slask Wroclaw,H,11,9
+2020/2021,2021-04-24,14:00,Gornik Z.,Wisla Plock,A,2,2
+2020/2021,2021-04-24,16:30,Zaglebie,Piast Gliwice,D,9,10
+2020/2021,2021-04-24,19:00,Wisla,Cracovia,D,3,7
+2020/2021,2021-04-25,16:30,Lechia Gdansk,Legia,A,5,11
+2020/2021,2021-04-25,11:30,Warta Poznan,Jagiellonia,H,10,8
+2020/2021,2021-04-25,14:00,Stal Mielec,Pogon Szczecin,H,5,12
+2020/2021,2021-04-28,18:00,Jagiellonia,Rakow,D,5,13
+2020/2021,2021-04-30,19:30,Slask Wroclaw,Zaglebie,D,8,10
+2020/2021,2021-04-30,17:00,Wisla Plock,Lechia Gdansk,A,4,5
+2020/2021,2021-05-01,16:30,Pogon Szczecin,Warta Poznan,D,9,10
+2020/2021,2021-05-01,19:00,Lech Poznan,Stal Mielec,A,4,5
+2020/2021,2021-05-01,14:00,Legia,Wisla,D,11,1
+2020/2021,2021-05-03,14:00,Piast Gliwice,Podbeskidzie,H,8,6
+2020/2021,2021-05-03,16:30,Cracovia,Gornik Z.,H,8,1
+2020/2021,2021-05-05,18:00,Stal Mielec,Rakow,A,8,13
+2020/2021,2021-05-07,17:00,Gornik Z.,Jagiellonia,H,1,6
+2020/2021,2021-05-07,19:30,Zaglebie,Pogon Szczecin,D,11,10
+2020/2021,2021-05-08,14:00,Podbeskidzie,Wisla Plock,D,3,4
+2020/2021,2021-05-08,16:30,Lechia Gdansk,Cracovia,D,5,8
+2020/2021,2021-05-08,19:00,Wisla,Lech Poznan,A,2,4
+2020/2021,2021-05-09,14:00,Warta Poznan,Slask Wroclaw,A,8,6
+2020/2021,2021-05-09,16:30,Stal Mielec,Legia,D,7,9
+2020/2021,2021-05-10,17:00,Rakow,Piast Gliwice,H,13,8
+2020/2021,2021-05-16,16:30,Cracovia,Warta Poznan,A,9,7
+2020/2021,2021-05-16,16:30,Jagiellonia,Lechia Gdansk,H,3,5
+2020/2021,2021-05-16,16:30,Lech Poznan,Gornik Z.,D,6,4
+2020/2021,2021-05-16,16:30,Legia,Podbeskidzie,H,9,4
+2020/2021,2021-05-16,16:30,Piast Gliwice,Wisla,A,5,2
+2020/2021,2021-05-16,16:30,Pogon Szczecin,Rakow,A,8,13
+2020/2021,2021-05-16,16:30,Slask Wroclaw,Stal Mielec,D,8,8
+2020/2021,2021-05-16,16:30,Wisla Plock,Zaglebie,H,5,9
+2021/2022,2021-07-23,17:00,Termalica B-B.,Stal Mielec,D,7,8
+2021/2022,2021-07-23,19:30,Lech Poznan,Radomiak Radom,D,7,0
+2021/2022,2021-07-24,19:00,Legia,Wisla Plock,H,11,7
+2021/2022,2021-07-24,16:30,Jagiellonia,Lechia Gdansk,D,5,4
+2021/2022,2021-07-24,14:00,Leczna,Cracovia,D,4,8
+2021/2022,2021-07-25,14:00,Piast Gliwice,Rakow,A,4,13
+2021/2022,2021-07-25,16:30,Slask Wroclaw,Warta Poznan,D,8,7
+2021/2022,2021-07-25,19:00,Pogon Szczecin,Gornik Z.,H,5,4
+2021/2022,2021-07-26,17:00,Wisla,Zaglebie,H,5,6
+2021/2022,2021-07-30,17:00,Zaglebie,Leczna,H,3,5
+2021/2022,2021-07-30,19:30,Gornik Z.,Lech Poznan,A,4,5
+2021/2022,2021-07-31,14:00,Stal Mielec,Piast Gliwice,A,6,4
+2021/2022,2021-07-31,16:30,Termalica B-B.,Wisla,D,8,8
+2021/2022,2021-07-31,19:00,Radomiak Radom,Legia,H,1,11
+2021/2022,2021-08-01,19:00,Jagiellonia,Rakow,H,5,13
+2021/2022,2021-08-01,14:00,Warta Poznan,Pogon Szczecin,D,8,5
+2021/2022,2021-08-01,16:30,Cracovia,Slask Wroclaw,A,6,6
+2021/2022,2021-08-02,17:00,Lechia Gdansk,Wisla Plock,H,5,7
+2021/2022,2021-08-06,17:00,Leczna,Warta Poznan,A,2,6
+2021/2022,2021-08-06,19:30,Lech Poznan,Cracovia,H,8,5
+2021/2022,2021-08-07,14:00,Jagiellonia,Termalica B-B.,H,8,6
+2021/2022,2021-08-07,16:30,Gornik Z.,Stal Mielec,H,4,3
+2021/2022,2021-08-08,16:30,Wisla,Rakow,A,8,12
+2021/2022,2021-08-08,14:00,Pogon Szczecin,Piast Gliwice,H,6,6
+2021/2022,2021-08-08,19:00,Slask Wroclaw,Lechia Gdansk,D,9,8
+2021/2022,2021-08-09,17:00,Wisla Plock,Radomiak Radom,H,4,4
+2021/2022,2021-08-13,19:30,Stal Mielec,Wisla,H,3,7
+2021/2022,2021-08-13,17:00,Termalica B-B.,Lech Poznan,A,5,11
+2021/2022,2021-08-14,14:00,Piast Gliwice,Wisla Plock,H,3,7
+2021/2022,2021-08-14,16:30,Lechia Gdansk,Cracovia,H,6,2
+2021/2022,2021-08-14,19:00,Warta Poznan,Legia,A,8,8
+2021/2022,2021-08-15,16:30,Slask Wroclaw,Leczna,D,9,2
+2021/2022,2021-08-15,19:00,Zaglebie,Pogon Szczecin,H,5,8
+2021/2022,2021-08-16,17:00,Jagiellonia,Gornik Z.,A,10,7
+2021/2022,2021-08-20,17:00,Wisla Plock,Zaglebie,H,6,7
+2021/2022,2021-08-20,19:30,Radomiak Radom,Warta Poznan,H,4,8
+2021/2022,2021-08-21,19:00,Leczna,Wisla,A,3,7
+2021/2022,2021-08-21,16:30,Cracovia,Jagiellonia,H,1,10
+2021/2022,2021-08-21,14:00,Pogon Szczecin,Stal Mielec,H,7,5
+2021/2022,2021-08-22,14:00,Piast Gliwice,Slask Wroclaw,D,6,7
+2021/2022,2021-08-22,16:30,Lech Poznan,Lechia Gdansk,H,11,8
+2021/2022,2021-08-27,17:00,Stal Mielec,Leczna,H,4,2
+2021/2022,2021-08-27,19:30,Warta Poznan,Jagiellonia,D,5,7
+2021/2022,2021-08-28,11:30,Termalica B-B.,Cracovia,A,2,4
+2021/2022,2021-08-28,14:00,Lechia Gdansk,Radomiak Radom,D,8,7
+2021/2022,2021-08-28,16:30,Lech Poznan,Pogon Szczecin,D,13,10
+2021/2022,2021-08-28,19:00,Gornik Z.,Piast Gliwice,A,7,7
+2021/2022,2021-08-29,14:00,Zaglebie,Slask Wroclaw,A,6,7
+2021/2022,2021-08-29,16:30,Wisla,Legia,H,7,10
+2021/2022,2021-08-29,11:30,Wisla Plock,Rakow,D,6,12
+2021/2022,2021-09-11,11:30,Warta Poznan,Termalica B-B.,D,5,2
+2021/2022,2021-09-11,14:00,Cracovia,Gornik Z.,D,6,6
+2021/2022,2021-09-11,16:30,Jagiellonia,Stal Mielec,D,7,6
+2021/2022,2021-09-11,19:00,Slask Wroclaw,Legia,H,9,9
+2021/2022,2021-09-12,11:30,Piast Gliwice,Zaglebie,A,10,6
+2021/2022,2021-09-12,14:00,Wisla,Lechia Gdansk,D,7,8
+2021/2022,2021-09-12,16:30,Rakow,Lech Poznan,D,10,13
+2021/2022,2021-09-13,19:30,Radomiak Radom,Pogon Szczecin,D,8,8
+2021/2022,2021-09-13,17:00,Leczna,Wisla Plock,H,1,7
+2021/2022,2021-09-17,19:30,Lech Poznan,Wisla,H,11,7
+2021/2022,2021-09-17,17:00,Zaglebie,Termalica B-B.,H,9,2
+2021/2022,2021-09-18,11:30,Wisla Plock,Jagiellonia,H,7,5
+2021/2022,2021-09-18,14:00,Pogon Szczecin,Cracovia,D,8,7
+2021/2022,2021-09-18,16:30,Radomiak Radom,Slask Wroclaw,D,8,9
+2021/2022,2021-09-18,19:00,Lechia Gdansk,Piast Gliwice,H,6,7
+2021/2022,2021-09-19,11:30,Stal Mielec,Rakow,A,7,8
+2021/2022,2021-09-19,14:00,Gornik Z.,Warta Poznan,H,7,5
+2021/2022,2021-09-19,16:30,Legia,Leczna,H,6,4
+2021/2022,2021-09-24,19:30,Jagiellonia,Lech Poznan,H,2,11
+2021/2022,2021-09-24,17:00,Leczna,Lechia Gdansk,A,4,8
+2021/2022,2021-09-25,19:00,Legia,Rakow,A,6,8
+2021/2022,2021-09-25,16:30,Warta Poznan,Zaglebie,A,2,9
+2021/2022,2021-09-25,14:00,Stal Mielec,Radomiak Radom,H,7,6
+2021/2022,2021-09-26,11:30,Termalica B-B.,Gornik Z.,H,1,10
+2021/2022,2021-09-26,14:00,Slask Wroclaw,Wisla Plock,H,9,7
+2021/2022,2021-09-26,16:30,Wisla,Pogon Szczecin,A,7,6
+2021/2022,2021-09-27,17:00,Piast Gliwice,Cracovia,A,7,8
+2021/2022,2021-09-29,16:00,Rakow,Radomiak Radom,D,11,6
+2021/2022,2021-10-01,17:00,Zaglebie,Jagiellonia,A,9,5
+2021/2022,2021-10-01,19:30,Piast Gliwice,Wisla,H,4,7
+2021/2022,2021-10-02,19:00,Gornik Z.,Wisla Plock,H,7,7
+2021/2022,2021-10-02,16:30,Lech Poznan,Slask Wroclaw,H,8,11
+2021/2022,2021-10-02,14:00,Cracovia,Stal Mielec,D,11,7
+2021/2022,2021-10-02,11:30,Radomiak Radom,Termalica B-B.,D,4,4
+2021/2022,2021-10-03,11:30,Rakow,Warta Poznan,H,9,2
+2021/2022,2021-10-03,14:00,Pogon Szczecin,Leczna,H,9,3
+2021/2022,2021-10-03,16:30,Lechia Gdansk,Legia,H,8,6
+2021/2022,2021-10-16,11:30,Leczna,Piast Gliwice,D,3,6
+2021/2022,2021-10-16,14:00,Termalica B-B.,Lechia Gdansk,A,5,11
+2021/2022,2021-10-16,16:30,Gornik Z.,Wisla,A,7,4
+2021/2022,2021-10-16,19:00,Slask Wroclaw,Rakow,A,10,11
+2021/2022,2021-10-17,14:00,Cracovia,Warta Poznan,H,9,2
+2021/2022,2021-10-17,16:30,Legia,Lech Poznan,A,3,8
+2021/2022,2021-10-17,11:30,Wisla Plock,Pogon Szczecin,H,4,9
+2021/2022,2021-10-18,17:00,Stal Mielec,Zaglebie,H,8,9
+2021/2022,2021-10-18,19:30,Jagiellonia,Radomiak Radom,D,8,4
+2021/2022,2021-10-22,17:00,Radomiak Radom,Leczna,H,4,4
+2021/2022,2021-10-22,19:30,Lech Poznan,Wisla Plock,H,10,6
+2021/2022,2021-10-23,11:30,Rakow,Termalica B-B.,H,13,5
+2021/2022,2021-10-23,14:00,Lechia Gdansk,Gornik Z.,D,13,7
+2021/2022,2021-10-23,16:30,Pogon Szczecin,Jagiellonia,H,8,8
+2021/2022,2021-10-23,19:00,Wisla,Slask Wroclaw,A,4,7
+2021/2022,2021-10-24,19:00,Piast Gliwice,Legia,H,4,3
+2021/2022,2021-10-24,16:30,Warta Poznan,Stal Mielec,D,1,8
+2021/2022,2021-10-24,14:00,Zaglebie,Cracovia,D,9,9
+2021/2022,2021-10-29,17:00,Cracovia,Radomiak Radom,A,9,6
+2021/2022,2021-10-29,19:30,Stal Mielec,Lech Poznan,D,8,12
+2021/2022,2021-10-30,11:30,Termalica B-B.,Slask Wroclaw,H,4,7
+2021/2022,2021-10-30,14:00,Warta Poznan,Lechia Gdansk,A,1,13
+2021/2022,2021-10-30,16:30,Gornik Z.,Zaglebie,D,7,7
+2021/2022,2021-10-30,19:00,Jagiellonia,Piast Gliwice,D,7,7
+2021/2022,2021-10-31,11:30,Wisla Plock,Wisla,H,6,3
+2021/2022,2021-10-31,14:00,Leczna,Rakow,D,1,13
+2021/2022,2021-10-31,16:30,Legia,Pogon Szczecin,A,3,10
+2021/2022,2021-11-05,17:00,Wisla Plock,Termalica B-B.,D,6,7
+2021/2022,2021-11-05,19:30,Slask Wroclaw,Jagiellonia,D,6,8
+2021/2022,2021-11-06,19:00,Leczna,Lech Poznan,D,2,10
+2021/2022,2021-11-06,16:30,Lechia Gdansk,Zaglebie,H,13,5
+2021/2022,2021-11-06,14:00,Radomiak Radom,Gornik Z.,H,9,5
+2021/2022,2021-11-06,11:30,Piast Gliwice,Warta Poznan,A,8,1
+2021/2022,2021-11-07,14:00,Rakow,Pogon Szczecin,D,11,12
+2021/2022,2021-11-07,16:30,Legia,Stal Mielec,A,0,9
+2021/2022,2021-11-07,19:00,Wisla,Cracovia,H,3,8
+2021/2022,2021-11-20,11:30,Warta Poznan,Wisla Plock,A,4,7
+2021/2022,2021-11-20,14:00,Jagiellonia,Wisla,H,6,6
+2021/2022,2021-11-20,16:30,Stal Mielec,Lechia Gdansk,D,9,13
+2021/2022,2021-11-20,19:00,Lech Poznan,Piast Gliwice,H,11,8
+2021/2022,2021-11-21,11:30,Termalica B-B.,Leczna,D,5,3
+2021/2022,2021-11-21,14:00,Pogon Szczecin,Slask Wroclaw,H,10,4
+2021/2022,2021-11-21,16:30,Gornik Z.,Legia,H,5,0
+2021/2022,2021-11-22,19:30,Cracovia,Rakow,H,5,11
+2021/2022,2021-11-22,17:00,Zaglebie,Radomiak Radom,A,2,11
+2021/2022,2021-11-26,17:00,Piast Gliwice,Termalica B-B.,H,5,5
+2021/2022,2021-11-26,19:30,Wisla,Radomiak Radom,A,6,13
+2021/2022,2021-11-27,11:30,Leczna,Gornik Z.,A,4,5
+2021/2022,2021-11-27,14:00,Slask Wroclaw,Stal Mielec,H,4,9
+2021/2022,2021-11-27,16:30,Pogon Szczecin,Lechia Gdansk,H,10,11
+2021/2022,2021-11-27,19:00,Rakow,Zaglebie,H,8,2
+2021/2022,2021-11-28,11:30,Wisla Plock,Cracovia,H,10,7
+2021/2022,2021-11-28,14:00,Lech Poznan,Warta Poznan,H,11,4
+2021/2022,2021-11-28,16:30,Legia,Jagiellonia,H,0,6
+2021/2022,2021-12-03,19:30,Gornik Z.,Slask Wroclaw,H,8,7
+2021/2022,2021-12-03,17:00,Stal Mielec,Wisla Plock,H,6,10
+2021/2022,2021-12-04,14:00,Termalica B-B.,Pogon Szczecin,A,5,13
+2021/2022,2021-12-04,16:30,Jagiellonia,Leczna,A,5,3
+2021/2022,2021-12-04,19:00,Lechia Gdansk,Rakow,H,8,8
+2021/2022,2021-12-05,16:30,Zaglebie,Lech Poznan,A,2,11
+2021/2022,2021-12-05,19:00,Cracovia,Legia,H,4,3
+2021/2022,2021-12-06,17:00,Warta Poznan,Wisla,D,4,3
+2021/2022,2021-12-10,17:00,Stal Mielec,Termalica B-B.,H,8,5
+2021/2022,2021-12-10,19:30,Rakow,Piast Gliwice,H,5,7
+2021/2022,2021-12-11,16:30,Zaglebie,Wisla,H,1,4
+2021/2022,2021-12-11,19:00,Lechia Gdansk,Jagiellonia,A,10,5
+2021/2022,2021-12-11,14:00,Radomiak Radom,Lech Poznan,H,15,11
+2021/2022,2021-12-12,11:30,Cracovia,Leczna,A,6,6
+2021/2022,2021-12-12,14:00,Wisla Plock,Legia,H,10,3
+2021/2022,2021-12-12,16:30,Gornik Z.,Pogon Szczecin,D,10,13
+2021/2022,2021-12-13,17:00,Warta Poznan,Slask Wroclaw,H,4,4
+2021/2022,2021-12-14,17:45,Radomiak Radom,Piast Gliwice,D,15,4
+2021/2022,2021-12-15,17:00,Rakow,Gornik Z.,A,7,10
+2021/2022,2021-12-15,19:30,Legia,Zaglebie,H,3,3
+2021/2022,2021-12-17,17:00,Wisla,Termalica B-B.,H,4,2
+2021/2022,2021-12-17,19:30,Wisla Plock,Lechia Gdansk,H,10,7
+2021/2022,2021-12-18,19:00,Rakow,Jagiellonia,H,6,7
+2021/2022,2021-12-18,16:30,Slask Wroclaw,Cracovia,A,4,6
+2021/2022,2021-12-18,11:30,Piast Gliwice,Stal Mielec,D,4,10
+2021/2022,2021-12-18,14:00,Pogon Szczecin,Warta Poznan,D,11,7
+2021/2022,2021-12-19,11:30,Leczna,Zaglebie,H,8,3
+2021/2022,2021-12-19,14:00,Lech Poznan,Gornik Z.,H,10,13
+2021/2022,2021-12-19,16:30,Legia,Radomiak Radom,A,6,13
+2021/2022,2022-02-04,17:00,Termalica B-B.,Jagiellonia,H,1,6
+2021/2022,2022-02-04,19:30,Zaglebie,Legia,A,3,6
+2021/2022,2022-02-05,19:00,Lechia Gdansk,Slask Wroclaw,H,4,3
+2021/2022,2022-02-05,14:00,Stal Mielec,Gornik Z.,A,8,10
+2021/2022,2022-02-05,16:30,Piast Gliwice,Pogon Szczecin,A,5,11
+2021/2022,2022-02-06,16:30,Cracovia,Lech Poznan,D,9,12
+2021/2022,2022-02-06,14:00,Rakow,Wisla,H,9,4
+2021/2022,2022-02-06,11:30,Warta Poznan,Leczna,D,5,10
+2021/2022,2022-02-07,17:00,Radomiak Radom,Wisla Plock,D,13,12
+2021/2022,2022-02-11,17:00,Leczna,Slask Wroclaw,D,10,3
+2021/2022,2022-02-11,19:30,Cracovia,Lechia Gdansk,H,7,6
+2021/2022,2022-02-12,16:30,Radomiak Radom,Rakow,A,11,9
+2021/2022,2022-02-12,14:00,Wisla,Stal Mielec,A,4,7
+2021/2022,2022-02-12,19:00,Lech Poznan,Termalica B-B.,H,10,3
+2021/2022,2022-02-13,14:00,Pogon Szczecin,Zaglebie,H,11,3
+2021/2022,2022-02-13,11:30,Wisla Plock,Piast Gliwice,A,10,5
+2021/2022,2022-02-13,16:30,Legia,Warta Poznan,A,6,6
+2021/2022,2022-02-14,17:00,Gornik Z.,Jagiellonia,A,10,3
+2021/2022,2022-02-18,17:00,Zaglebie,Wisla Plock,H,3,7
+2021/2022,2022-02-18,19:30,Stal Mielec,Pogon Szczecin,A,10,11
+2021/2022,2022-02-19,14:00,Jagiellonia,Cracovia,D,6,10
+2021/2022,2022-02-19,16:30,Slask Wroclaw,Piast Gliwice,A,1,5
+2021/2022,2022-02-19,19:00,Termalica B-B.,Legia,D,3,6
+2021/2022,2022-02-20,11:30,Warta Poznan,Radomiak Radom,H,9,8
+2021/2022,2022-02-20,14:00,Gornik Z.,Rakow,D,7,12
+2021/2022,2022-02-20,16:30,Lechia Gdansk,Lech Poznan,H,6,10
+2021/2022,2022-02-21,17:00,Wisla,Leczna,D,4,11
+2021/2022,2022-02-25,17:00,Rakow,Wisla Plock,H,10,7
+2021/2022,2022-02-25,19:30,Legia,Wisla,H,7,4
+2021/2022,2022-02-26,14:00,Pogon Szczecin,Lech Poznan,A,11,7
+2021/2022,2022-02-26,16:30,Leczna,Stal Mielec,H,9,7
+2021/2022,2022-02-26,19:00,Piast Gliwice,Gornik Z.,D,8,7
+2021/2022,2022-02-27,11:30,Jagiellonia,Warta Poznan,D,7,11
+2021/2022,2022-02-27,14:00,Radomiak Radom,Lechia Gdansk,H,5,6
+2021/2022,2022-02-27,16:30,Slask Wroclaw,Zaglebie,D,1,3
+2021/2022,2022-02-28,17:00,Cracovia,Termalica B-B.,A,8,4
+2021/2022,2022-03-04,19:30,Pogon Szczecin,Radomiak Radom,H,10,7
+2021/2022,2022-03-04,17:00,Stal Mielec,Jagiellonia,D,4,5
+2021/2022,2022-03-05,19:00,Lechia Gdansk,Wisla,D,6,4
+2021/2022,2022-03-05,16:30,Zaglebie,Piast Gliwice,D,4,8
+2021/2022,2022-03-05,14:00,Termalica B-B.,Warta Poznan,H,7,9
+2021/2022,2022-03-06,11:30,Wisla Plock,Leczna,H,4,9
+2021/2022,2022-03-06,14:00,Gornik Z.,Cracovia,H,5,8
+2021/2022,2022-03-06,16:30,Lech Poznan,Rakow,A,10,13
+2021/2022,2022-03-07,18:00,Legia,Slask Wroclaw,H,7,2
+2021/2022,2022-03-11,17:00,Termalica B-B.,Zaglebie,A,10,5
+2021/2022,2022-03-11,19:30,Leczna,Legia,A,6,10
+2021/2022,2022-03-12,14:00,Warta Poznan,Gornik Z.,H,8,8
+2021/2022,2022-03-12,16:30,Piast Gliwice,Lechia Gdansk,H,8,7
+2021/2022,2022-03-12,19:00,Cracovia,Pogon Szczecin,D,5,12
+2021/2022,2022-03-13,16:30,Wisla,Lech Poznan,D,2,7
+2021/2022,2022-03-13,11:30,Jagiellonia,Wisla Plock,A,6,4
+2021/2022,2022-03-13,14:00,Slask Wroclaw,Radomiak Radom,D,2,4
+2021/2022,2022-03-14,17:00,Rakow,Stal Mielec,H,13,4
+2021/2022,2022-03-15,17:45,Legia,Termalica B-B.,H,10,7
+2021/2022,2022-03-18,17:00,Zaglebie,Warta Poznan,A,8,10
+2021/2022,2022-03-18,19:30,Pogon Szczecin,Wisla,H,10,3
+2021/2022,2022-03-19,19:00,Lech Poznan,Jagiellonia,H,7,6
+2021/2022,2022-03-19,11:30,Wisla Plock,Slask Wroclaw,A,6,3
+2021/2022,2022-03-19,14:00,Rakow,Legia,D,13,13
+2021/2022,2022-03-19,16:30,Lechia Gdansk,Leczna,H,4,5
+2021/2022,2022-03-20,16:30,Gornik Z.,Termalica B-B.,D,5,7
+2021/2022,2022-03-20,11:30,Radomiak Radom,Stal Mielec,D,4,4
+2021/2022,2022-03-20,14:00,Cracovia,Piast Gliwice,A,5,11
+2021/2022,2022-04-01,17:00,Stal Mielec,Cracovia,A,2,2
+2021/2022,2022-04-01,19:30,Slask Wroclaw,Lech Poznan,A,5,7
+2021/2022,2022-04-02,14:00,Warta Poznan,Rakow,A,10,11
+2021/2022,2022-04-02,16:30,Leczna,Pogon Szczecin,A,4,10
+2021/2022,2022-04-02,19:00,Legia,Lechia Gdansk,H,13,7
+2021/2022,2022-04-03,11:30,Termalica B-B.,Radomiak Radom,D,7,5
+2021/2022,2022-04-03,14:00,Jagiellonia,Zaglebie,H,3,8
+2021/2022,2022-04-03,16:30,Wisla,Piast Gliwice,D,3,11
+2021/2022,2022-04-04,17:00,Wisla Plock,Gornik Z.,H,6,6
+2021/2022,2022-04-08,19:30,Pogon Szczecin,Wisla Plock,A,10,9
+2021/2022,2022-04-08,17:00,Zaglebie,Stal Mielec,H,5,2
+2021/2022,2022-04-09,14:00,Piast Gliwice,Leczna,H,9,3
+2021/2022,2022-04-09,16:30,Lech Poznan,Legia,D,10,13
+2021/2022,2022-04-09,19:00,Lechia Gdansk,Termalica B-B.,H,4,5
+2021/2022,2022-04-10,11:30,Warta Poznan,Cracovia,H,7,4
+2021/2022,2022-04-10,14:00,Wisla,Gornik Z.,H,3,5
+2021/2022,2022-04-10,16:30,Rakow,Slask Wroclaw,D,13,5
+2021/2022,2022-04-11,17:00,Radomiak Radom,Jagiellonia,D,6,5
+2021/2022,2022-04-16,19:00,Wisla Plock,Lech Poznan,A,12,8
+2021/2022,2022-04-16,14:00,Termalica B-B.,Rakow,A,2,11
+2021/2022,2022-04-16,16:30,Jagiellonia,Pogon Szczecin,A,5,10
+2021/2022,2022-04-16,11:30,Stal Mielec,Warta Poznan,A,2,9
+2021/2022,2022-04-16,11:30,Leczna,Radomiak Radom,H,0,4
+2021/2022,2022-04-18,11:30,Cracovia,Zaglebie,H,4,7
+2021/2022,2022-04-18,14:00,Slask Wroclaw,Wisla,D,5,6
+2021/2022,2022-04-18,16:30,Gornik Z.,Lechia Gdansk,A,4,7
+2021/2022,2022-04-18,19:00,Legia,Piast Gliwice,A,11,11
+2021/2022,2022-04-20,17:00,Lech Poznan,Leczna,H,11,3
+2021/2022,2022-04-20,19:30,Pogon Szczecin,Rakow,A,10,11
+2021/2022,2022-04-22,17:00,Radomiak Radom,Cracovia,A,4,7
+2021/2022,2022-04-22,19:30,Zaglebie,Gornik Z.,A,6,1
+2021/2022,2022-04-23,19:00,Lechia Gdansk,Warta Poznan,H,9,12
+2021/2022,2022-04-23,16:30,Piast Gliwice,Jagiellonia,H,13,4
+2021/2022,2022-04-23,14:00,Slask Wroclaw,Termalica B-B.,A,6,2
+2021/2022,2022-04-24,11:30,Lech Poznan,Stal Mielec,H,13,1
+2021/2022,2022-04-24,14:00,Rakow,Leczna,H,11,3
+2021/2022,2022-04-24,16:30,Pogon Szczecin,Legia,H,9,8
+2021/2022,2022-04-25,18:00,Wisla,Wisla Plock,A,6,9
+2021/2022,2022-04-29,17:00,Warta Poznan,Piast Gliwice,A,9,13
+2021/2022,2022-04-29,19:30,Gornik Z.,Radomiak Radom,D,4,3
+2021/2022,2022-04-30,14:00,Jagiellonia,Slask Wroclaw,D,4,5
+2021/2022,2022-04-30,16:30,Zaglebie,Lechia Gdansk,D,3,12
+2021/2022,2022-04-30,19:00,Stal Mielec,Legia,H,1,5
+2021/2022,2022-05-01,16:30,Cracovia,Wisla,D,9,5
+2021/2022,2022-05-01,14:00,Termalica B-B.,Wisla Plock,H,5,9
+2021/2022,2022-05-06,17:00,Radomiak Radom,Zaglebie,A,3,4
+2021/2022,2022-05-06,19:30,Legia,Gornik Z.,H,4,4
+2021/2022,2022-05-07,14:00,Wisla Plock,Warta Poznan,A,9,6
+2021/2022,2022-05-07,16:30,Slask Wroclaw,Pogon Szczecin,D,3,9
+2021/2022,2022-05-07,19:00,Wisla,Jagiellonia,D,6,5
+2021/2022,2022-05-08,11:30,Lechia Gdansk,Stal Mielec,H,10,3
+2021/2022,2022-05-08,14:00,Rakow,Cracovia,D,13,10
+2021/2022,2022-05-08,16:30,Piast Gliwice,Lech Poznan,A,13,13
+2021/2022,2022-05-09,17:00,Leczna,Termalica B-B.,D,3,7
+2021/2022,2022-05-13,19:30,Jagiellonia,Legia,D,3,4
+2021/2022,2022-05-13,17:00,Cracovia,Wisla Plock,H,8,6
+2021/2022,2022-05-14,11:30,Termalica B-B.,Piast Gliwice,A,7,12
+2021/2022,2022-05-14,14:00,Warta Poznan,Lech Poznan,A,9,13
+2021/2022,2022-05-14,16:30,Zaglebie,Rakow,H,7,11
+2021/2022,2022-05-14,19:00,Lechia Gdansk,Pogon Szczecin,D,13,7
+2021/2022,2022-05-15,11:30,Stal Mielec,Slask Wroclaw,D,3,4
+2021/2022,2022-05-15,14:00,Gornik Z.,Leczna,H,4,4
+2021/2022,2022-05-15,16:30,Radomiak Radom,Wisla,H,2,6
+2021/2022,2022-05-21,16:30,Wisla,Warta Poznan,A,3,6
+2021/2022,2022-05-21,16:30,Slask Wroclaw,Gornik Z.,A,4,7
+2021/2022,2022-05-21,16:30,Wisla Plock,Stal Mielec,H,3,4
+2021/2022,2022-05-21,16:30,Rakow,Lechia Gdansk,H,10,11
+2021/2022,2022-05-21,16:30,Pogon Szczecin,Termalica B-B.,D,8,7
+2021/2022,2022-05-21,16:30,Piast Gliwice,Radomiak Radom,D,12,4
+2021/2022,2022-05-21,16:30,Legia,Cracovia,H,4,11
+2021/2022,2022-05-21,16:30,Leczna,Jagiellonia,A,4,3
+2021/2022,2022-05-21,16:30,Lech Poznan,Zaglebie,H,15,7
+2022/2023,2022-07-15,17:00,Rakow,Warta Poznan,H,10,6
+2022/2023,2022-07-15,19:30,Zaglebie,Slask Wroclaw,D,7,3
+2022/2023,2022-07-16,14:00,Lech Poznan,Stal Mielec,A,15,4
+2022/2023,2022-07-16,16:30,Jagiellonia,Piast Gliwice,H,6,10
+2022/2023,2022-07-16,19:00,Korona Kielce,Legia,D,5,7
+2022/2023,2022-07-17,16:30,Pogon Szczecin,Widzew Lodz,H,6,0
+2022/2023,2022-07-17,14:00,Wisla Plock,Lechia Gdansk,H,6,8
+2022/2023,2022-07-17,11:30,Radomiak Radom,Legnica,D,5,7
+2022/2023,2022-07-18,18:00,Gornik Z.,Cracovia,A,10,8
+2022/2023,2022-07-22,17:00,Warta Poznan,Wisla Plock,A,6,6
+2022/2023,2022-07-22,19:30,Jagiellonia,Widzew Lodz,A,9,0
+2022/2023,2022-07-23,16:30,Cracovia,Korona Kielce,H,8,6
+2022/2023,2022-07-23,19:00,Legia,Zaglebie,H,8,8
+2022/2023,2022-07-24,16:30,Slask Wroclaw,Pogon Szczecin,H,4,9
+2022/2023,2022-07-25,18:00,Stal Mielec,Radomiak Radom,D,7,6
+2022/2023,2022-07-29,17:00,Piast Gliwice,Zaglebie,A,7,7
+2022/2023,2022-07-29,19:30,Cracovia,Legia,H,10,11
+2022/2023,2022-07-30,19:00,Legnica,Warta Poznan,A,5,6
+2022/2023,2022-07-30,16:30,Radomiak Radom,Gornik Z.,A,6,7
+2022/2023,2022-07-31,14:00,Pogon Szczecin,Jagiellonia,H,6,8
+2022/2023,2022-07-31,16:30,Lech Poznan,Wisla Plock,A,12,9
+2022/2023,2022-07-31,16:30,Rakow,Stal Mielec,H,10,5
+2022/2023,2022-07-31,19:00,Widzew Lodz,Lechia Gdansk,A,3,5
+2022/2023,2022-08-01,18:00,Korona Kielce,Slask Wroclaw,H,5,6
+2022/2023,2022-08-05,17:00,Stal Mielec,Cracovia,H,5,12
+2022/2023,2022-08-05,19:30,Legia,Piast Gliwice,H,8,4
+2022/2023,2022-08-06,16:30,Jagiellonia,Radomiak Radom,A,7,6
+2022/2023,2022-08-06,14:00,Lechia Gdansk,Korona Kielce,A,7,7
+2022/2023,2022-08-06,19:00,Slask Wroclaw,Widzew Lodz,D,5,3
+2022/2023,2022-08-07,19:00,Gornik Z.,Rakow,H,9,10
+2022/2023,2022-08-07,14:00,Warta Poznan,Pogon Szczecin,A,6,8
+2022/2023,2022-08-07,16:30,Zaglebie,Lech Poznan,D,7,9
+2022/2023,2022-08-08,18:00,Wisla Plock,Legnica,H,12,4
+2022/2023,2022-08-12,17:00,Legnica,Zaglebie,A,4,5
+2022/2023,2022-08-12,19:30,Widzew Lodz,Legia,A,4,10
+2022/2023,2022-08-13,16:30,Gornik Z.,Stal Mielec,A,12,7
+2022/2023,2022-08-13,14:00,Cracovia,Piast Gliwice,A,9,4
+2022/2023,2022-08-13,19:00,Pogon Szczecin,Wisla Plock,D,10,15
+2022/2023,2022-08-14,16:30,Rakow,Jagiellonia,D,9,6
+2022/2023,2022-08-14,14:00,Radomiak Radom,Lechia Gdansk,H,6,4
+2022/2023,2022-08-14,19:00,Lech Poznan,Slask Wroclaw,A,7,5
+2022/2023,2022-08-15,18:00,Korona Kielce,Warta Poznan,A,10,6
+2022/2023,2022-08-19,17:00,Jagiellonia,Legnica,H,4,4
+2022/2023,2022-08-19,19:30,Legia,Gornik Z.,D,10,9
+2022/2023,2022-08-20,14:00,Wisla Plock,Korona Kielce,H,13,7
+2022/2023,2022-08-20,16:30,Slask Wroclaw,Cracovia,D,8,9
+2022/2023,2022-08-20,19:00,Warta Poznan,Widzew Lodz,A,6,4
+2022/2023,2022-08-21,14:00,Zaglebie,Radomiak Radom,A,8,8
+2022/2023,2022-08-21,16:30,Piast Gliwice,Stal Mielec,H,4,10
+2022/2023,2022-08-26,17:00,Gornik Z.,Jagiellonia,D,7,4
+2022/2023,2022-08-26,19:30,Stal Mielec,Legia,A,7,10
+2022/2023,2022-08-27,19:00,Widzew Lodz,Wisla Plock,H,7,13
+2022/2023,2022-08-27,16:30,Pogon Szczecin,Zaglebie,H,10,7
+2022/2023,2022-08-27,11:30,Radomiak Radom,Korona Kielce,A,10,6
+2022/2023,2022-08-27,14:00,Legnica,Lechia Gdansk,H,1,3
+2022/2023,2022-08-28,11:30,Cracovia,Warta Poznan,A,7,6
+2022/2023,2022-08-28,14:00,Slask Wroclaw,Rakow,A,8,10
+2022/2023,2022-08-28,16:30,Lech Poznan,Piast Gliwice,H,4,6
+2022/2023,2022-08-31,17:00,Rakow,Pogon Szczecin,H,10,10
+2022/2023,2022-08-31,19:30,Lechia Gdansk,Lech Poznan,A,3,4
+2022/2023,2022-09-02,19:30,Legia,Radomiak Radom,H,10,9
+2022/2023,2022-09-03,19:00,Cracovia,Rakow,H,4,10
+2022/2023,2022-09-03,14:00,Stal Mielec,Slask Wroclaw,H,6,5
+2022/2023,2022-09-03,16:30,Lechia Gdansk,Warta Poznan,D,3,9
+2022/2023,2022-09-04,16:30,Lech Poznan,Widzew Lodz,H,7,7
+2022/2023,2022-09-04,11:30,Zaglebie,Jagiellonia,D,7,5
+2022/2023,2022-09-04,14:00,Korona Kielce,Pogon Szczecin,A,9,10
+2022/2023,2022-09-05,17:00,Piast Gliwice,Legnica,H,6,3
+2022/2023,2022-09-05,19:30,Wisla Plock,Gornik Z.,D,10,8
+2022/2023,2022-09-09,17:00,Warta Poznan,Zaglebie,D,7,5
+2022/2023,2022-09-09,19:30,Widzew Lodz,Cracovia,H,7,4
+2022/2023,2022-09-10,14:00,Slask Wroclaw,Lechia Gdansk,H,5,1
+2022/2023,2022-09-10,16:30,Radomiak Radom,Wisla Plock,H,9,8
+2022/2023,2022-09-10,19:00,Gornik Z.,Piast Gliwice,D,6,9
+2022/2023,2022-09-11,16:30,Rakow,Legia,H,7,13
+2022/2023,2022-09-11,14:00,Pogon Szczecin,Lech Poznan,D,10,10
+2022/2023,2022-09-11,11:30,Legnica,Korona Kielce,D,3,6
+2022/2023,2022-09-12,18:00,Jagiellonia,Stal Mielec,H,6,9
+2022/2023,2022-09-16,17:00,Piast Gliwice,Slask Wroclaw,D,10,7
+2022/2023,2022-09-16,19:30,Legia,Legnica,H,10,4
+2022/2023,2022-09-17,11:30,Stal Mielec,Widzew Lodz,A,6,9
+2022/2023,2022-09-17,14:00,Lechia Gdansk,Jagiellonia,D,1,9
+2022/2023,2022-09-17,16:30,Rakow,Radomiak Radom,H,10,9
+2022/2023,2022-09-17,19:00,Cracovia,Pogon Szczecin,D,4,8
+2022/2023,2022-09-18,14:00,Zaglebie,Wisla Plock,H,5,5
+2022/2023,2022-09-18,16:30,Warta Poznan,Lech Poznan,A,8,10
+2022/2023,2022-09-18,11:30,Korona Kielce,Gornik Z.,A,4,4
+2022/2023,2022-09-30,19:30,Wisla Plock,Piast Gliwice,H,4,8
+2022/2023,2022-09-30,17:00,Radomiak Radom,Cracovia,A,6,5
+2022/2023,2022-10-01,14:00,Gornik Z.,Zaglebie,A,7,5
+2022/2023,2022-10-01,16:30,Lech Poznan,Legia,D,13,10
+2022/2023,2022-10-01,19:30,Pogon Szczecin,Lechia Gdansk,H,8,2
+2022/2023,2022-10-02,11:30,Legnica,Stal Mielec,A,4,3
+2022/2023,2022-10-02,14:00,Jagiellonia,Korona Kielce,H,9,4
+2022/2023,2022-10-02,16:30,Widzew Lodz,Rakow,D,12,12
+2022/2023,2022-10-03,18:00,Slask Wroclaw,Warta Poznan,A,5,5
+2022/2023,2022-10-06,19:45,Piast Gliwice,Rakow,A,5,10
+2022/2023,2022-10-07,19:30,Jagiellonia,Wisla Plock,D,9,4
+2022/2023,2022-10-07,17:00,Stal Mielec,Pogon Szczecin,H,6,8
+2022/2023,2022-10-08,14:00,Slask Wroclaw,Gornik Z.,H,4,6
+2022/2023,2022-10-08,16:30,Legia,Warta Poznan,H,10,8
+2022/2023,2022-10-08,19:00,Cracovia,Lechia Gdansk,A,7,2
+2022/2023,2022-10-09,14:00,Zaglebie,Korona Kielce,D,8,4
+2022/2023,2022-10-09,16:30,Lech Poznan,Radomiak Radom,H,11,3
+2022/2023,2022-10-10,17:00,Rakow,Legnica,H,10,4
+2022/2023,2022-10-10,19:30,Piast Gliwice,Widzew Lodz,A,5,10
+2022/2023,2022-10-14,19:30,Wisla Plock,Legia,H,5,10
+2022/2023,2022-10-14,17:00,Korona Kielce,Stal Mielec,A,2,9
+2022/2023,2022-10-15,16:30,Warta Poznan,Jagiellonia,H,5,9
+2022/2023,2022-10-15,19:00,Pogon Szczecin,Piast Gliwice,D,8,2
+2022/2023,2022-10-15,11:30,Radomiak Radom,Slask Wroclaw,H,3,7
+2022/2023,2022-10-15,14:00,Lechia Gdansk,Rakow,A,5,13
+2022/2023,2022-10-16,11:30,Legnica,Cracovia,D,1,7
+2022/2023,2022-10-16,14:00,Widzew Lodz,Zaglebie,H,10,9
+2022/2023,2022-10-16,17:30,Gornik Z.,Lech Poznan,A,5,11
+2022/2023,2022-10-21,19:30,Widzew Lodz,Legnica,H,13,2
+2022/2023,2022-10-22,14:00,Stal Mielec,Wisla Plock,D,9,7
+2022/2023,2022-10-22,16:30,Legia,Pogon Szczecin,D,7,6
+2022/2023,2022-10-22,19:00,Rakow,Korona Kielce,H,13,2
+2022/2023,2022-10-23,14:00,Slask Wroclaw,Jagiellonia,D,7,8
+2022/2023,2022-10-23,16:30,Cracovia,Lech Poznan,D,5,11
+2022/2023,2022-10-23,11:30,Warta Poznan,Gornik Z.,D,7,4
+2022/2023,2022-10-24,17:00,Piast Gliwice,Radomiak Radom,A,2,6
+2022/2023,2022-10-24,19:30,Zaglebie,Lechia Gdansk,A,8,4
+2022/2023,2022-10-28,17:00,Legnica,Pogon Szczecin,A,1,6
+2022/2023,2022-10-28,19:30,Gornik Z.,Widzew Lodz,H,4,13
+2022/2023,2022-10-29,14:00,Korona Kielce,Piast Gliwice,D,1,1
+2022/2023,2022-10-29,16:30,Jagiellonia,Legia,A,6,8
+2022/2023,2022-10-29,19:00,Wisla Plock,Slask Wroclaw,A,8,5
+2022/2023,2022-10-30,11:30,Zaglebie,Cracovia,A,7,6
+2022/2023,2022-10-30,14:00,Lechia Gdansk,Stal Mielec,H,7,10
+2022/2023,2022-10-30,16:30,Lech Poznan,Rakow,A,11,13
+2022/2023,2022-10-31,18:00,Radomiak Radom,Warta Poznan,A,6,7
+2022/2023,2022-11-04,19:30,Legia,Lechia Gdansk,H,8,9
+2022/2023,2022-11-04,17:00,Stal Mielec,Zaglebie,H,10,4
+2022/2023,2022-11-05,11:30,Piast Gliwice,Warta Poznan,A,2,10
+2022/2023,2022-11-05,14:00,Cracovia,Jagiellonia,H,8,5
+2022/2023,2022-11-05,16:30,Pogon Szczecin,Gornik Z.,A,8,4
+2022/2023,2022-11-05,19:00,Rakow,Wisla Plock,H,15,8
+2022/2023,2022-11-06,11:30,Legnica,Slask Wroclaw,H,1,7
+2022/2023,2022-11-06,14:00,Widzew Lodz,Radomiak Radom,A,10,6
+2022/2023,2022-11-06,16:30,Lech Poznan,Korona Kielce,H,8,2
+2022/2023,2022-11-11,17:00,Warta Poznan,Stal Mielec,D,10,10
+2022/2023,2022-11-11,19:30,Wisla Plock,Cracovia,H,5,8
+2022/2023,2022-11-12,19:00,Zaglebie,Rakow,A,1,15
+2022/2023,2022-11-12,16:30,Jagiellonia,Lech Poznan,A,2,10
+2022/2023,2022-11-12,11:30,Korona Kielce,Widzew Lodz,A,2,9
+2022/2023,2022-11-12,14:00,Gornik Z.,Legnica,A,7,4
+2022/2023,2022-11-13,11:30,Radomiak Radom,Pogon Szczecin,A,9,5
+2022/2023,2022-11-13,14:00,Lechia Gdansk,Piast Gliwice,A,9,2
+2022/2023,2022-11-13,16:30,Slask Wroclaw,Legia,D,7,10
+2022/2023,2022-11-18,19:30,Lechia Gdansk,Gornik Z.,H,6,7
+2022/2023,2023-01-27,19:30,Stal Mielec,Lech Poznan,D,8,10
+2022/2023,2023-01-27,17:00,Legnica,Radomiak Radom,D,7,9
+2022/2023,2023-01-28,16:30,Widzew Lodz,Pogon Szczecin,D,9,8
+2022/2023,2023-01-28,19:00,Slask Wroclaw,Zaglebie,A,5,0
+2022/2023,2023-01-28,14:00,Warta Poznan,Rakow,D,11,15
+2022/2023,2023-01-29,11:30,Piast Gliwice,Jagiellonia,D,5,1
+2022/2023,2023-01-29,14:00,Legia,Korona Kielce,H,8,1
+2022/2023,2023-01-29,16:30,Lechia Gdansk,Wisla Plock,H,9,7
+2022/2023,2023-01-30,18:00,Cracovia,Gornik Z.,H,8,7
+2022/2023,2023-02-01,18:00,Legnica,Lech Poznan,D,7,8
+2022/2023,2023-02-03,19:30,Widzew Lodz,Jagiellonia,D,7,2
+2022/2023,2023-02-04,19:00,Zaglebie,Legia,A,3,11
+2022/2023,2023-02-04,14:00,Rakow,Piast Gliwice,H,13,5
+2022/2023,2023-02-04,16:30,Gornik Z.,Lechia Gdansk,D,6,9
+2022/2023,2023-02-05,16:30,Pogon Szczecin,Slask Wroclaw,A,8,5
+2022/2023,2023-02-05,14:00,Lech Poznan,Legnica,H,8,8
+2022/2023,2023-02-05,11:30,Radomiak Radom,Stal Mielec,H,7,6
+2022/2023,2023-02-06,18:00,Korona Kielce,Cracovia,H,1,10
+2022/2023,2023-02-10,17:00,Stal Mielec,Rakow,D,5,13
+2022/2023,2023-02-10,19:30,Lechia Gdansk,Widzew Lodz,D,7,5
+2022/2023,2023-02-11,19:00,Jagiellonia,Pogon Szczecin,H,2,7
+2022/2023,2023-02-11,14:00,Slask Wroclaw,Korona Kielce,D,7,4
+2022/2023,2023-02-11,16:30,Wisla Plock,Lech Poznan,A,4,11
+2022/2023,2023-02-12,14:00,Gornik Z.,Radomiak Radom,D,4,7
+2022/2023,2023-02-12,16:30,Legia,Cracovia,D,13,9
+2022/2023,2023-02-12,11:30,Zaglebie,Piast Gliwice,A,3,5
+2022/2023,2023-02-13,18:00,Warta Poznan,Legnica,D,9,8
+2022/2023,2023-02-17,19:30,Widzew Lodz,Slask Wroclaw,H,6,5
+2022/2023,2023-02-17,17:00,Cracovia,Stal Mielec,H,7,6
+2022/2023,2023-02-18,14:00,Korona Kielce,Lechia Gdansk,H,4,8
+2022/2023,2023-02-18,16:30,Rakow,Gornik Z.,H,11,2
+2022/2023,2023-02-18,19:00,Pogon Szczecin,Warta Poznan,H,4,9
+2022/2023,2023-02-19,11:30,Legnica,Wisla Plock,H,6,3
+2022/2023,2023-02-19,14:00,Lech Poznan,Zaglebie,A,11,3
+2022/2023,2023-02-19,16:30,Piast Gliwice,Legia,A,7,11
+2022/2023,2023-02-20,18:00,Radomiak Radom,Jagiellonia,D,8,5
+2022/2023,2023-02-24,17:00,Jagiellonia,Rakow,A,6,11
+2022/2023,2023-02-24,19:30,Legia,Widzew Lodz,D,11,9
+2022/2023,2023-02-25,19:00,Lechia Gdansk,Radomiak Radom,A,8,6
+2022/2023,2023-02-25,16:30,Warta Poznan,Korona Kielce,H,6,7
+2022/2023,2023-02-25,14:00,Piast Gliwice,Cracovia,H,7,7
+2022/2023,2023-02-26,11:30,Stal Mielec,Gornik Z.,A,3,2
+2022/2023,2023-02-26,14:00,Wisla Plock,Pogon Szczecin,A,3,7
+2022/2023,2023-02-26,16:30,Slask Wroclaw,Lech Poznan,H,5,8
+2022/2023,2023-02-27,18:00,Zaglebie,Legnica,H,6,6
+2022/2023,2023-03-03,17:00,Stal Mielec,Piast Gliwice,A,2,7
+2022/2023,2023-03-03,19:30,Lech Poznan,Lechia Gdansk,H,7,5
+2022/2023,2023-03-04,14:00,Widzew Lodz,Warta Poznan,A,7,6
+2022/2023,2023-03-04,16:30,Korona Kielce,Wisla Plock,H,7,3
+2022/2023,2023-03-04,19:00,Gornik Z.,Legia,A,5,11
+2022/2023,2023-03-05,16:30,Cracovia,Slask Wroclaw,D,7,7
+2022/2023,2023-03-05,11:30,Legnica,Jagiellonia,D,5,6
+2022/2023,2023-03-05,14:00,Pogon Szczecin,Rakow,A,7,11
+2022/2023,2023-03-06,18:00,Radomiak Radom,Zaglebie,A,9,9
+2022/2023,2023-03-08,17:45,Wisla Plock,Warta Poznan,H,0,8
+2022/2023,2023-03-10,17:00,Lechia Gdansk,Legnica,H,2,5
+2022/2023,2023-03-10,19:30,Rakow,Slask Wroclaw,H,13,8
+2022/2023,2023-03-11,14:00,Korona Kielce,Radomiak Radom,H,10,8
+2022/2023,2023-03-11,16:30,Zaglebie,Pogon Szczecin,A,9,6
+2022/2023,2023-03-11,19:00,Jagiellonia,Gornik Z.,H,6,5
+2022/2023,2023-03-12,16:30,Legia,Stal Mielec,H,11,1
+2022/2023,2023-03-12,14:00,Piast Gliwice,Lech Poznan,D,9,9
+2022/2023,2023-03-12,11:30,Warta Poznan,Cracovia,D,7,5
+2022/2023,2023-03-13,18:00,Wisla Plock,Widzew Lodz,D,3,6
+2022/2023,2023-03-17,17:00,Gornik Z.,Wisla Plock,H,4,4
+2022/2023,2023-03-17,19:30,Radomiak Radom,Legia,A,5,11
+2022/2023,2023-03-18,11:30,Slask Wroclaw,Stal Mielec,D,5,1
+2022/2023,2023-03-18,14:00,Jagiellonia,Zaglebie,D,8,9
+2022/2023,2023-03-18,16:30,Pogon Szczecin,Korona Kielce,D,9,10
+2022/2023,2023-03-18,19:00,Rakow,Cracovia,H,13,6
+2022/2023,2023-03-19,14:00,Legnica,Piast Gliwice,A,5,10
+2022/2023,2023-03-19,16:30,Widzew Lodz,Lech Poznan,A,6,7
+2022/2023,2023-03-19,11:30,Warta Poznan,Lechia Gdansk,H,7,4
+2022/2023,2023-03-31,19:30,Piast Gliwice,Gornik Zabrze,H,10,0
+2022/2023,2023-03-31,17:00,Zaglebie,Warta Poznan,D,10,10
+2022/2023,2023-04-01,14:00,Korona Kielce,Legnica,H,10,4
+2022/2023,2023-04-01,16:30,Legia,Rakow,H,13,15
+2022/2023,2023-04-01,19:00,Lechia Gdansk,Slask Wroclaw,D,3,5
+2022/2023,2023-04-02,11:30,Wisla Plock,Radomiak Radom,D,4,4
+2022/2023,2023-04-02,14:00,Cracovia,Widzew Lodz,D,5,5
+2022/2023,2023-04-02,16:30,Lech Poznan,Pogon Szczecin,D,7,10
+2022/2023,2023-04-03,18:00,Stal Mielec,Jagiellonia,D,1,6
+2022/2023,2023-04-06,17:00,Slask Wroclaw,Piast Gliwice,A,6,13
+2022/2023,2023-04-06,19:30,Gornik Zabrze,Korona Kielce,D,0,10
+2022/2023,2023-04-08,19:00,Lech Poznan,Warta Poznan,H,8,8
+2022/2023,2023-04-08,16:30,Pogon Szczecin,Cracovia,H,8,3
+2022/2023,2023-04-08,14:00,Widzew Lodz,Stal Mielec,A,3,2
+2022/2023,2023-04-08,11:30,Wisla Plock,Zaglebie,H,5,8
+2022/2023,2023-04-10,14:00,Jagiellonia,Lechia Gdansk,H,6,4
+2022/2023,2023-04-10,16:30,Radomiak Radom,Rakow,D,4,12
+2022/2023,2023-04-10,19:00,Legnica,Legia,D,1,13
+2022/2023,2023-04-14,17:00,Warta Poznan,Slask Wroclaw,H,5,3
+2022/2023,2023-04-14,19:30,Zaglebie,Gornik Zabrze,A,5,1
+2022/2023,2023-04-15,14:00,Cracovia,Radomiak Radom,H,3,2
+2022/2023,2023-04-15,16:30,Korona Kielce,Jagiellonia,H,11,9
+2022/2023,2023-04-15,19:00,Lechia Gdansk,Pogon Szczecin,A,4,8
+2022/2023,2023-04-16,16:30,Legia,Lech Poznan,D,13,11
+2022/2023,2023-04-16,11:30,Piast Gliwice,Wisla Plock,H,13,8
+2022/2023,2023-04-16,14:00,Rakow,Widzew Lodz,H,10,2
+2022/2023,2023-04-17,18:00,Stal Mielec,Legnica,D,5,2
+2022/2023,2023-04-21,17:00,Wisla Plock,Jagiellonia,A,5,8
+2022/2023,2023-04-21,19:30,Warta Poznan,Legia,H,8,11
+2022/2023,2023-04-22,14:00,Lechia Gdansk,Cracovia,A,4,5
+2022/2023,2023-04-22,16:30,Legnica,Rakow,A,2,10
+2022/2023,2023-04-22,19:00,Pogon Szczecin,Stal Mielec,H,11,6
+2022/2023,2023-04-23,16:30,Gornik Zabrze,Slask Wroclaw,H,4,2
+2022/2023,2023-04-23,11:30,Korona Kielce,Zaglebie,D,11,2
+2022/2023,2023-04-23,14:00,Widzew Lodz,Piast Gliwice,A,2,13
+2022/2023,2023-04-24,18:00,Radomiak Radom,Lech Poznan,D,2,9
+2022/2023,2023-04-28,17:00,Legia,Wisla Plock,H,8,4
+2022/2023,2023-04-28,19:30,Rakow,Lechia Gdansk,H,10,1
+2022/2023,2023-04-29,14:00,Jagiellonia,Warta Poznan,H,8,10
+2022/2023,2023-04-29,16:30,Zaglebie,Widzew Lodz,H,3,1
+2022/2023,2023-04-29,19:00,Piast Gliwice,Pogon Szczecin,D,15,11
+2022/2023,2023-04-30,11:30,Slask Wroclaw,Radomiak Radom,A,2,3
+2022/2023,2023-04-30,14:00,Stal Mielec,Korona Kielce,H,6,9
+2022/2023,2023-04-30,16:30,Lech Poznan,Gornik Zabrze,A,9,7
+2022/2023,2023-05-01,18:00,Cracovia,Legnica,D,7,2
+2022/2023,2023-05-05,19:30,Gornik Zabrze,Warta Poznan,H,10,7
+2022/2023,2023-05-05,17:00,Jagiellonia,Slask Wroclaw,D,10,1
+2022/2023,2023-05-06,14:00,Radomiak Radom,Piast Gliwice,A,6,13
+2022/2023,2023-05-06,16:30,Lech Poznan,Cracovia,H,6,8
+2022/2023,2023-05-06,19:00,Lechia Gdansk,Zaglebie,A,1,5
+2022/2023,2023-05-07,11:30,Wisla Plock,Stal Mielec,D,4,8
+2022/2023,2023-05-07,14:00,Korona Kielce,Rakow,H,8,10
+2022/2023,2023-05-07,16:30,Pogon Szczecin,Legia,H,11,8
+2022/2023,2023-05-08,18:00,Legnica,Widzew Lodz,A,3,1
+2022/2023,2023-05-12,17:00,Piast Gliwice,Korona Kielce,H,13,8
+2022/2023,2023-05-12,19:30,Legia,Jagiellonia,H,5,10
+2022/2023,2023-05-13,19:00,Widzew Lodz,Gornik Zabrze,A,3,13
+2022/2023,2023-05-13,16:30,Cracovia,Zaglebie,A,7,7
+2022/2023,2023-05-13,14:00,Slask Wroclaw,Wisla Plock,H,1,4
+2022/2023,2023-05-14,11:30,Stal Mielec,Lechia Gdansk,D,8,0
+2022/2023,2023-05-14,14:00,Pogon Szczecin,Legnica,H,13,3
+2022/2023,2023-05-14,16:30,Rakow,Lech Poznan,A,10,8
+2022/2023,2023-05-15,18:00,Warta Poznan,Radomiak Radom,A,6,5
+2022/2023,2023-05-19,17:00,Zaglebie,Stal Mielec,H,10,6
+2022/2023,2023-05-19,19:30,Korona Kielce,Lech Poznan,A,7,8
+2022/2023,2023-05-20,14:00,Jagiellonia,Cracovia,D,7,7
+2022/2023,2023-05-20,16:30,Gornik Zabrze,Pogon Szczecin,H,15,13
+2022/2023,2023-05-20,19:00,Lechia Gdansk,Legia,H,1,7
+2022/2023,2023-05-21,16:30,Wisla Plock,Rakow,A,1,9
+2022/2023,2023-05-21,14:00,Radomiak Radom,Widzew Lodz,H,7,3
+2022/2023,2023-05-21,11:30,Slask Wroclaw,Legnica,H,4,2
+2022/2023,2023-05-22,18:00,Warta Poznan,Piast Gliwice,D,6,13
+2022/2023,2023-05-27,16:30,Stal Mielec,Warta Poznan,H,5,4
+2022/2023,2023-05-27,16:30,Rakow,Zaglebie,D,9,13
+2022/2023,2023-05-27,16:30,Pogon Szczecin,Radomiak Radom,H,10,10
+2022/2023,2023-05-27,16:30,Piast Gliwice,Lechia Gdansk,H,11,4
+2022/2023,2023-05-27,16:30,Widzew Lodz,Korona Kielce,A,3,4
+2022/2023,2023-05-27,16:30,Legia,Slask Wroclaw,H,6,7
+2022/2023,2023-05-27,16:30,Lech Poznan,Jagiellonia,H,10,8
+2022/2023,2023-05-27,16:30,Cracovia,Wisla Plock,H,5,1
+2022/2023,2023-05-27,16:30,Legnica,Gornik Zabrze,D,1,15
+2023/2024,2023-07-21,17:00,Warta Poznan,Pogon Szczecin,A,1,10
+2023/2024,2023-07-21,19:30,Legia,LKS Lodz,H,9,3
+2023/2024,2023-07-22,14:00,Stal Mielec,Cracovia,D,8,5
+2023/2024,2023-07-22,16:30,Rakow,Jagiellonia,H,7,5
+2023/2024,2023-07-22,19:00,Piast Gliwice,Lech Poznan,A,11,12
+2023/2024,2023-07-23,14:00,Gornik Zabrze,Radomiak Radom,A,13,9
+2023/2024,2023-07-23,16:30,Zaglebie,Ruch Chorzow,H,13,0
+2023/2024,2023-07-23,19:00,Widzew Lodz,Puszcza,H,3,0
+2023/2024,2023-07-24,18:00,Korona Kielce,Slask Wroclaw,D,6,7
+2023/2024,2023-07-28,19:30,Ruch Chorzow,LKS Lodz,H,0,3
+2023/2024,2023-07-29,19:00,Slask Wroclaw,Zaglebie,A,8,13
+2023/2024,2023-07-29,14:00,Warta Poznan,Gornik Zabrze,H,1,10
+2023/2024,2023-07-29,16:30,Jagiellonia,Puszcza,H,2,0
+2023/2024,2023-07-30,14:00,Stal Mielec,Piast Gliwice,D,6,10
+2023/2024,2023-07-30,16:30,Lech Poznan,Radomiak Radom,H,15,9
+2023/2024,2023-07-30,19:00,Pogon Szczecin,Widzew Lodz,H,12,6
+2023/2024,2023-08-04,17:00,Jagiellonia,Widzew Lodz,H,4,3
+2023/2024,2023-08-04,19:30,LKS Lodz,Korona Kielce,H,3,7
+2023/2024,2023-08-05,14:00,Rakow,Warta Poznan,D,7,4
+2023/2024,2023-08-05,16:30,Gornik Zabrze,Piast Gliwice,D,7,8
+2023/2024,2023-08-05,19:00,Radomiak Radom,Cracovia,A,9,5
+2023/2024,2023-08-06,19:00,Legia,Ruch Chorzow,H,9,3
+2023/2024,2023-08-06,16:30,Zaglebie,Lech Poznan,D,13,15
+2023/2024,2023-08-07,18:00,Puszcza,Stal Mielec,H,0,6
+2023/2024,2023-08-11,17:00,Cracovia,Zaglebie,H,8,11
+2023/2024,2023-08-11,19:30,Piast Gliwice,Rakow,H,6,8
+2023/2024,2023-08-12,14:00,Stal Mielec,Slask Wroclaw,H,5,7
+2023/2024,2023-08-12,16:30,Korona Kielce,Gornik Zabrze,A,4,5
+2023/2024,2023-08-12,19:00,Widzew Lodz,LKS Lodz,H,3,6
+2023/2024,2023-08-13,14:00,Pogon Szczecin,Radomiak Radom,A,12,6
+2023/2024,2023-08-13,16:30,Puszcza,Legia,D,3,12
+2023/2024,2023-08-14,18:00,Warta Poznan,Ruch Chorzow,D,5,3
+2023/2024,2023-08-18,19:30,Gornik Zabrze,Widzew Lodz,D,5,6
+2023/2024,2023-08-18,17:00,Zaglebie,Puszcza,H,8,4
+2023/2024,2023-08-19,14:00,Radomiak Radom,Warta Poznan,H,6,5
+2023/2024,2023-08-19,16:30,Rakow,Stal Mielec,H,8,8
+2023/2024,2023-08-19,19:00,Ruch Chorzow,Jagiellonia,A,4,7
+2023/2024,2023-08-20,14:00,LKS Lodz,Pogon Szczecin,H,3,9
+2023/2024,2023-08-20,16:30,Slask Wroclaw,Lech Poznan,H,4,13
+2023/2024,2023-08-20,19:00,Legia,Korona Kielce,H,10,4
+2023/2024,2023-08-21,18:00,Cracovia,Piast Gliwice,D,11,8
+2023/2024,2023-08-25,19:30,Widzew Lodz,Slask Wroclaw,A,7,4
+2023/2024,2023-08-25,17:00,Stal Mielec,Radomiak Radom,H,5,9
+2023/2024,2023-08-26,14:00,Warta Poznan,Cracovia,D,5,11
+2023/2024,2023-08-26,16:30,Puszcza,LKS Lodz,H,4,6
+2023/2024,2023-08-26,19:00,Piast Gliwice,Ruch Chorzow,D,6,4
+2023/2024,2023-08-27,14:00,Korona Kielce,Zaglebie,H,4,10
+2023/2024,2023-08-27,16:30,Jagiellonia,Gornik Zabrze,H,9,5
+2023/2024,2023-08-30,17:30,Pogon Szczecin,Slask Wroclaw,A,9,7
+2023/2024,2023-09-01,19:30,Ruch Chorzow,Stal Mielec,D,5,7
+2023/2024,2023-09-01,17:00,LKS Lodz,Warta Poznan,A,6,6
+2023/2024,2023-09-02,16:30,Cracovia,Korona Kielce,D,9,4
+2023/2024,2023-09-02,19:00,Lech Poznan,Gornik Zabrze,D,10,5
+2023/2024,2023-09-02,14:00,Radomiak Radom,Piast Gliwice,D,6,7
+2023/2024,2023-09-03,19:00,Rakow,Puszcza,H,8,7
+2023/2024,2023-09-03,16:30,Legia,Widzew Lodz,H,13,4
+2023/2024,2023-09-03,14:00,Zaglebie,Pogon Szczecin,H,7,6
+2023/2024,2023-09-03,11:30,Slask Wroclaw,Jagiellonia,H,9,12
+2023/2024,2023-09-15,17:00,Puszcza,Slask Wroclaw,A,7,12
+2023/2024,2023-09-15,19:30,Gornik Zabrze,Ruch Chorzow,H,6,3
+2023/2024,2023-09-16,14:00,Pogon Szczecin,Korona Kielce,H,3,4
+2023/2024,2023-09-16,16:30,Rakow,LKS Lodz,H,10,6
+2023/2024,2023-09-16,19:00,Piast Gliwice,Legia,D,7,13
+2023/2024,2023-09-17,11:30,Jagiellonia,Radomiak Radom,H,12,7
+2023/2024,2023-09-17,14:00,Widzew Lodz,Cracovia,H,4,9
+2023/2024,2023-09-17,16:30,Warta Poznan,Lech Poznan,A,6,8
+2023/2024,2023-09-18,18:00,Stal Mielec,Zaglebie,H,7,7
+2023/2024,2023-09-22,19:30,LKS Lodz,Jagiellonia,D,3,12
+2023/2024,2023-09-22,17:00,Korona Kielce,Widzew Lodz,D,4,7
+2023/2024,2023-09-23,11:30,Radomiak Radom,Puszcza,D,7,4
+2023/2024,2023-09-23,14:00,Slask Wroclaw,Piast Gliwice,H,15,7
+2023/2024,2023-09-23,16:30,Cracovia,Pogon Szczecin,A,6,3
+2023/2024,2023-09-23,19:00,Lech Poznan,Stal Mielec,H,8,10
+2023/2024,2023-09-24,11:30,Zaglebie,Warta Poznan,H,6,5
+2023/2024,2023-09-24,14:00,Ruch Chorzow,Rakow,A,3,10
+2023/2024,2023-09-24,16:30,Legia,Gornik Zabrze,H,11,8
+2023/2024,2023-09-27,19:00,Pogon Szczecin,Legia,A,6,11
+2023/2024,2023-09-28,19:00,Lech Poznan,Rakow,H,8,12
+2023/2024,2023-09-29,19:30,Piast Gliwice,Widzew Lodz,H,4,5
+2023/2024,2023-09-29,17:00,Stal Mielec,Korona Kielce,A,7,5
+2023/2024,2023-09-30,14:00,LKS Lodz,Cracovia,A,4,3
+2023/2024,2023-09-30,16:30,Puszcza,Ruch Chorzow,D,4,2
+2023/2024,2023-09-30,19:00,Warta Poznan,Slask Wroclaw,A,4,15
+2023/2024,2023-10-01,14:00,Rakow,Radomiak Radom,H,12,5
+2023/2024,2023-10-01,16:30,Pogon Szczecin,Lech Poznan,H,6,10
+2023/2024,2023-10-01,19:00,Jagiellonia,Legia,H,10,13
+2023/2024,2023-10-02,18:00,Gornik Zabrze,Zaglebie,A,5,9
+2023/2024,2023-10-06,17:00,Korona Kielce,Warta Poznan,D,8,4
+2023/2024,2023-10-06,19:40,Lech Poznan,Puszcza,H,10,5
+2023/2024,2023-10-07,19:00,Ruch Chorzow,Pogon Szczecin,A,3,9
+2023/2024,2023-10-07,16:30,Zaglebie,Piast Gliwice,D,9,6
+2023/2024,2023-10-07,14:00,Widzew Lodz,Stal Mielec,H,4,7
+2023/2024,2023-10-07,11:30,Radomiak Radom,LKS Lodz,H,2,1
+2023/2024,2023-10-08,11:30,Slask Wroclaw,Gornik Zabrze,D,15,4
+2023/2024,2023-10-08,14:00,Cracovia,Jagiellonia,A,5,10
+2023/2024,2023-10-08,16:30,Legia,Rakow,A,10,12
+2023/2024,2023-10-20,17:00,Piast Gliwice,Pogon Szczecin,D,6,12
+2023/2024,2023-10-20,19:30,Jagiellonia,Zaglebie,H,10,10
+2023/2024,2023-10-21,14:00,Puszcza,Cracovia,D,2,4
+2023/2024,2023-10-21,16:30,Slask Wroclaw,Legia,H,13,7
+2023/2024,2023-10-21,19:00,Lech Poznan,LKS Lodz,H,12,1
+2023/2024,2023-10-22,16:30,Gornik Zabrze,Rakow,H,5,12
+2023/2024,2023-10-22,11:30,Radomiak Radom,Korona Kielce,D,5,6
+2023/2024,2023-10-23,18:00,Stal Mielec,Warta Poznan,A,4,4
+2023/2024,2023-10-24,17:00,Lech Poznan,Jagiellonia,D,12,13
+2023/2024,2023-10-27,17:00,Korona Kielce,Puszcza,H,6,3
+2023/2024,2023-10-27,19:30,LKS Lodz,Gornik Zabrze,A,1,7
+2023/2024,2023-10-28,11:30,Warta Poznan,Piast Gliwice,D,4,6
+2023/2024,2023-10-28,14:00,Pogon Szczecin,Jagiellonia,H,10,11
+2023/2024,2023-10-28,16:30,Cracovia,Lech Poznan,D,4,10
+2023/2024,2023-10-28,19:00,Ruch Chorzow,Slask Wroclaw,D,2,13
+2023/2024,2023-10-29,16:30,Rakow,Widzew Lodz,D,9,7
+2023/2024,2023-10-29,14:00,Legia,Stal Mielec,A,6,3
+2023/2024,2023-10-29,11:30,Zaglebie,Radomiak Radom,A,7,5
+2023/2024,2023-11-03,17:00,Piast Gliwice,Korona Kielce,D,6,9
+2023/2024,2023-11-03,19:30,Jagiellonia,Stal Mielec,H,10,3
+2023/2024,2023-11-04,14:00,Puszcza,Pogon Szczecin,A,3,10
+2023/2024,2023-11-04,16:30,Widzew Lodz,Warta Poznan,A,8,5
+2023/2024,2023-11-04,19:00,Lech Poznan,Ruch Chorzow,H,8,2
+2023/2024,2023-11-05,11:30,Slask Wroclaw,LKS Lodz,H,11,1
+2023/2024,2023-11-05,14:00,Rakow,Zaglebie,H,7,7
+2023/2024,2023-11-05,16:30,Radomiak Radom,Legia,A,8,3
+2023/2024,2023-11-06,18:00,Gornik Zabrze,Cracovia,H,7,5
+2023/2024,2023-11-10,19:30,Cracovia,Slask Wroclaw,A,5,11
+2023/2024,2023-11-10,17:00,Warta Poznan,Puszcza,A,8,2
+2023/2024,2023-11-11,14:00,LKS Lodz,Piast Gliwice,D,0,7
+2023/2024,2023-11-11,16:30,Zaglebie,Widzew Lodz,D,4,5
+2023/2024,2023-11-11,19:00,Korona Kielce,Jagiellonia,D,9,10
+2023/2024,2023-11-12,11:30,Stal Mielec,Gornik Zabrze,H,3,10
+2023/2024,2023-11-12,14:00,Pogon Szczecin,Rakow,D,13,10
+2023/2024,2023-11-12,16:30,Legia,Lech Poznan,D,3,11
+2023/2024,2023-11-13,18:00,Ruch Chorzow,Radomiak Radom,D,2,7
+2023/2024,2023-11-18,16:30,Widzew Lodz,Ruch Chorzow,H,5,3
+2023/2024,2023-11-24,17:00,LKS Lodz,Zaglebie,A,1,2
+2023/2024,2023-11-24,19:30,Jagiellonia,Piast Gliwice,D,8,5
+2023/2024,2023-11-25,19:00,Legia,Warta Poznan,D,4,8
+2023/2024,2023-11-25,14:00,Rakow,Cracovia,D,8,2
+2023/2024,2023-11-25,16:30,Pogon Szczecin,Stal Mielec,A,11,6
+2023/2024,2023-11-26,11:30,Puszcza,Gornik Zabrze,H,4,10
+2023/2024,2023-11-26,14:00,Ruch Chorzow,Korona Kielce,D,2,7
+2023/2024,2023-11-26,16:30,Lech Poznan,Widzew Lodz,A,9,8
+2023/2024,2023-11-27,18:00,Radomiak Radom,Slask Wroclaw,A,8,11
+2023/2024,2023-12-01,17:00,Warta Poznan,Jagiellonia,A,8,6
+2023/2024,2023-12-01,19:30,Gornik Zabrze,Pogon Szczecin,H,9,8
+2023/2024,2023-12-02,19:00,Korona Kielce,Lech Poznan,A,7,6
+2023/2024,2023-12-02,16:30,Widzew Lodz,Radomiak Radom,A,8,5
+2023/2024,2023-12-03,16:30,Slask Wroclaw,Rakow,D,13,6
+2023/2024,2023-12-03,14:00,Zaglebie,Legia,A,4,5
+2023/2024,2023-12-03,11:30,Cracovia,Ruch Chorzow,D,3,3
+2023/2024,2023-12-08,17:00,Ruch Chorzow,Zaglebie,D,3,4
+2023/2024,2023-12-08,19:30,Pogon Szczecin,Warta Poznan,D,7,5
+2023/2024,2023-12-09,14:00,Radomiak Radom,Gornik Zabrze,D,7,9
+2023/2024,2023-12-09,16:30,Cracovia,Stal Mielec,D,3,9
+2023/2024,2023-12-09,19:00,Slask Wroclaw,Korona Kielce,D,11,6
+2023/2024,2023-12-10,11:30,Lech Poznan,Piast Gliwice,A,8,5
+2023/2024,2023-12-10,14:00,LKS Lodz,Legia,D,1,8
+2023/2024,2023-12-10,16:30,Jagiellonia,Rakow,H,8,7
+2023/2024,2023-12-11,18:00,Puszcza,Widzew Lodz,H,7,7
+2023/2024,2023-12-15,17:00,Gornik Zabrze,Warta Poznan,H,7,5
+2023/2024,2023-12-15,19:30,Zaglebie,Slask Wroclaw,A,5,11
+2023/2024,2023-12-16,14:00,Puszcza,Jagiellonia,D,9,11
+2023/2024,2023-12-16,16:30,Widzew Lodz,Pogon Szczecin,A,7,5
+2023/2024,2023-12-16,19:00,Radomiak Radom,Lech Poznan,D,5,7
+2023/2024,2023-12-17,11:30,LKS Lodz,Ruch Chorzow,D,2,4
+2023/2024,2023-12-17,14:00,Rakow,Korona Kielce,H,6,4
+2023/2024,2023-12-17,16:30,Legia,Cracovia,H,9,3
+2023/2024,2023-12-18,18:00,Piast Gliwice,Stal Mielec,H,7,10
+2023/2024,2023-12-20,18:00,Cracovia,Legia,H,3,9
+2023/2024,2024-02-09,19:30,Ruch Chorzow,Legia,A,4,8
+2023/2024,2024-02-09,17:00,Stal Mielec,Puszcza,H,7,10
+2023/2024,2024-02-10,14:00,Cracovia,Radomiak Radom,H,6,6
+2023/2024,2024-02-10,16:30,Piast Gliwice,Gornik Zabrze,A,9,7
+2023/2024,2024-02-10,19:00,Lech Poznan,Zaglebie,H,5,5
+2023/2024,2024-02-11,11:30,Warta Poznan,Rakow,H,2,6
+2023/2024,2024-02-11,14:00,Widzew Lodz,Jagiellonia,A,6,9
+2023/2024,2024-02-11,16:30,Slask Wroclaw,Pogon Szczecin,A,11,5
+2023/2024,2024-02-12,18:00,Korona Kielce,LKS Lodz,H,3,3
+2023/2024,2024-02-16,19:30,Slask Wroclaw,Stal Mielec,A,8,10
+2023/2024,2024-02-16,17:00,Radomiak Radom,Pogon Szczecin,A,5,7
+2023/2024,2024-02-17,19:00,Rakow,Piast Gliwice,H,5,8
+2023/2024,2024-02-17,16:30,Jagiellonia,Lech Poznan,A,11,7
+2023/2024,2024-02-17,14:00,Ruch Chorzow,Warta Poznan,D,4,5
+2023/2024,2024-02-18,11:30,Zaglebie,Cracovia,D,4,8
+2023/2024,2024-02-18,14:00,Legia,Puszcza,D,10,10
+2023/2024,2024-02-18,16:30,LKS Lodz,Widzew Lodz,A,3,3
+2023/2024,2024-02-19,18:00,Gornik Zabrze,Korona Kielce,H,10,5
+2023/2024,2024-02-23,19:30,Pogon Szczecin,LKS Lodz,H,10,2
+2023/2024,2024-02-23,17:00,Piast Gliwice,Cracovia,D,7,8
+2023/2024,2024-02-24,16:30,Lech Poznan,Slask Wroclaw,D,10,5
+2023/2024,2024-02-24,19:00,Stal Mielec,Rakow,D,10,7
+2023/2024,2024-02-24,14:00,Jagiellonia,Ruch Chorzow,D,10,4
+2023/2024,2024-02-25,16:30,Korona Kielce,Legia,D,4,8
+2023/2024,2024-02-25,11:30,Puszcza,Zaglebie,D,8,2
+2023/2024,2024-02-25,14:00,Widzew Lodz,Gornik Zabrze,H,3,13
+2023/2024,2024-02-26,18:00,Warta Poznan,Radomiak Radom,D,5,5
+2023/2024,2024-02-28,17:30,Stal Mielec,LKS Lodz,H,8,2
+2023/2024,2024-03-01,17:00,Cracovia,Warta Poznan,A,8,6
+2023/2024,2024-03-01,19:30,Ruch Chorzow,Piast Gliwice,H,4,7
+2023/2024,2024-03-02,14:00,Gornik Zabrze,Jagiellonia,H,10,8
+2023/2024,2024-03-02,16:30,Slask Wroclaw,Widzew Lodz,H,5,6
+2023/2024,2024-03-02,19:00,Legia,Pogon Szczecin,D,8,13
+2023/2024,2024-03-03,14:00,Zaglebie,Korona Kielce,H,3,5
+2023/2024,2024-03-03,16:30,Rakow,Lech Poznan,H,7,8
+2023/2024,2024-03-03,11:30,LKS Lodz,Puszcza,H,1,6
+2023/2024,2024-03-04,18:00,Radomiak Radom,Stal Mielec,H,3,10
+2023/2024,2024-03-08,17:00,Piast Gliwice,Radomiak Radom,A,4,5
+2023/2024,2024-03-08,19:30,Jagiellonia,Slask Wroclaw,H,5,7
+2023/2024,2024-03-09,14:00,Korona Kielce,Cracovia,D,4,8
+2023/2024,2024-03-09,16:30,Puszcza,Rakow,D,3,10
+2023/2024,2024-03-09,19:00,Gornik Zabrze,Lech Poznan,D,12,8
+2023/2024,2024-03-10,14:00,Pogon Szczecin,Zaglebie,A,13,5
+2023/2024,2024-03-10,11:30,Stal Mielec,Ruch Chorzow,H,10,6
+2023/2024,2024-03-10,16:30,Widzew Lodz,Legia,H,6,6
+2023/2024,2024-03-11,18:00,Warta Poznan,LKS Lodz,A,8,3
+2023/2024,2024-03-12,17:30,Piast Gliwice,Puszcza,H,1,3
+2023/2024,2024-03-13,17:30,Korona Kielce,Rakow,A,5,8
+2023/2024,2024-03-15,17:00,Zaglebie,Stal Mielec,D,8,10
+2023/2024,2024-03-15,19:30,Lech Poznan,Warta Poznan,H,8,8
+2023/2024,2024-03-16,11:30,Cracovia,Widzew Lodz,D,6,9
+2023/2024,2024-03-16,14:00,Radomiak Radom,Jagiellonia,A,7,7
+2023/2024,2024-03-16,16:30,Ruch Chorzow,Gornik Zabrze,A,5,10
+2023/2024,2024-03-16,19:00,Slask Wroclaw,Puszcza,D,4,3
+2023/2024,2024-03-17,11:30,Korona Kielce,Pogon Szczecin,D,2,10
+2023/2024,2024-03-17,14:00,LKS Lodz,Rakow,D,6,11
+2023/2024,2024-03-17,16:30,Legia,Piast Gliwice,H,6,4
+2023/2024,2024-03-30,11:30,Rakow,Ruch Chorzow,D,9,5
+2023/2024,2024-03-30,14:00,Jagiellonia,LKS Lodz,H,7,7
+2023/2024,2024-03-30,16:30,Piast Gliwice,Slask Wroclaw,D,4,5
+2023/2024,2024-03-30,19:00,Pogon Szczecin,Cracovia,H,8,4
+2023/2024,2024-04-01,16:30,Widzew Lodz,Korona Kielce,H,10,3
+2023/2024,2024-04-01,19:00,Gornik Zabrze,Legia,A,10,6
+2023/2024,2024-04-01,11:30,Puszcza,Radomiak Radom,D,3,7
+2023/2024,2024-04-01,14:00,Stal Mielec,Lech Poznan,D,8,8
+2023/2024,2024-04-02,18:00,Warta Poznan,Zaglebie,D,5,9
+2023/2024,2024-04-05,17:00,Cracovia,LKS Lodz,D,3,7
+2023/2024,2024-04-05,19:30,Radomiak Radom,Rakow,H,8,9
+2023/2024,2024-04-06,16:30,Ruch Chorzow,Puszcza,D,5,3
+2023/2024,2024-04-06,14:00,Korona Kielce,Stal Mielec,H,2,8
+2023/2024,2024-04-06,19:00,Slask Wroclaw,Warta Poznan,H,6,5
+2023/2024,2024-04-07,11:30,Widzew Lodz,Piast Gliwice,H,10,4
+2023/2024,2024-04-07,14:00,Lech Poznan,Pogon Szczecin,H,6,8
+2023/2024,2024-04-07,16:30,Legia,Jagiellonia,D,8,10
+2023/2024,2024-04-08,18:00,Zaglebie,Gornik Zabrze,A,9,7
+2023/2024,2024-04-12,17:00,Warta Poznan,Korona Kielce,H,4,5
+2023/2024,2024-04-12,19:30,Pogon Szczecin,Ruch Chorzow,H,5,5
+2023/2024,2024-04-13,14:00,Stal Mielec,Widzew Lodz,D,5,10
+2023/2024,2024-04-13,16:30,Puszcza,Lech Poznan,H,4,8
+2023/2024,2024-04-13,19:00,Rakow,Legia,D,6,8
+2023/2024,2024-04-14,11:30,LKS Lodz,Radomiak Radom,H,8,10
+2023/2024,2024-04-14,14:00,Jagiellonia,Cracovia,A,10,3
+2023/2024,2024-04-14,16:30,Gornik Zabrze,Slask Wroclaw,H,10,8
+2023/2024,2024-04-15,18:00,Piast Gliwice,Zaglebie,H,4,8
+2023/2024,2024-04-19,19:30,Rakow,Gornik Zabrze,A,6,10
+2023/2024,2024-04-19,17:00,Korona Kielce,Radomiak Radom,H,4,7
+2023/2024,2024-04-20,14:00,Pogon Szczecin,Piast Gliwice,A,7,7
+2023/2024,2024-04-20,16:30,Ruch Chorzow,Widzew Lodz,A,2,11
+2023/2024,2024-04-20,19:00,Zaglebie,Jagiellonia,A,5,10
+2023/2024,2024-04-21,11:30,Cracovia,Puszcza,A,6,6
+2023/2024,2024-04-21,14:00,LKS Lodz,Lech Poznan,A,8,8
+2023/2024,2024-04-21,16:30,Legia,Slask Wroclaw,D,8,5
+2023/2024,2024-04-22,18:00,Warta Poznan,Stal Mielec,H,4,6
+2023/2024,2024-04-26,19:30,Jagiellonia,Pogon Szczecin,D,10,7
+2023/2024,2024-04-26,17:00,Piast Gliwice,Warta Poznan,H,7,7
+2023/2024,2024-04-27,19:00,Widzew Lodz,Rakow,A,11,3
+2023/2024,2024-04-27,16:30,Slask Wroclaw,Ruch Chorzow,A,6,2
+2023/2024,2024-04-27,14:00,Gornik Zabrze,LKS Lodz,H,12,5
+2023/2024,2024-04-28,11:30,Radomiak Radom,Zaglebie,A,4,2
+2023/2024,2024-04-28,14:00,Stal Mielec,Legia,A,3,9
+2023/2024,2024-04-28,16:30,Lech Poznan,Cracovia,D,10,5
+2023/2024,2024-04-29,18:00,Puszcza,Korona Kielce,D,9,7
+2023/2024,2024-05-03,17:00,Cracovia,Gornik Zabrze,H,5,12
+2023/2024,2024-05-03,19:30,Ruch Chorzow,Lech Poznan,H,5,8
+2023/2024,2024-05-04,14:00,LKS Lodz,Slask Wroclaw,A,4,5
+2023/2024,2024-05-04,16:30,Zaglebie,Rakow,H,4,5
+2023/2024,2024-05-04,19:00,Stal Mielec,Jagiellonia,H,2,8
+2023/2024,2024-05-05,16:30,Legia,Radomiak Radom,A,9,4
+2023/2024,2024-05-05,11:30,Warta Poznan,Widzew Lodz,H,7,10
+2023/2024,2024-05-05,14:00,Korona Kielce,Piast Gliwice,D,7,10
+2023/2024,2024-05-06,18:00,Pogon Szczecin,Puszcza,H,7,9
+2023/2024,2024-05-10,17:00,Piast Gliwice,LKS Lodz,H,10,4
+2023/2024,2024-05-10,19:30,Slask Wroclaw,Cracovia,H,7,8
+2023/2024,2024-05-11,14:00,Gornik Zabrze,Stal Mielec,D,12,4
+2023/2024,2024-05-11,16:30,Jagiellonia,Korona Kielce,H,5,8
+2023/2024,2024-05-11,19:00,Rakow,Pogon Szczecin,H,4,7
+2023/2024,2024-05-12,14:00,Widzew Lodz,Zaglebie,A,7,6
+2023/2024,2024-05-12,11:30,Puszcza,Warta Poznan,H,8,9
+2023/2024,2024-05-12,16:30,Lech Poznan,Legia,A,7,6
+2023/2024,2024-05-13,18:00,Radomiak Radom,Ruch Chorzow,A,6,7
+2023/2024,2024-05-17,17:00,Stal Mielec,Pogon Szczecin,D,5,7
+2023/2024,2024-05-17,19:30,Gornik Zabrze,Puszcza,D,10,10
+2023/2024,2024-05-18,14:00,Korona Kielce,Ruch Chorzow,H,5,9
+2023/2024,2024-05-18,16:30,Slask Wroclaw,Radomiak Radom,H,7,3
+2023/2024,2024-05-18,19:00,Piast Gliwice,Jagiellonia,D,13,7
+2023/2024,2024-05-19,11:30,Cracovia,Rakow,H,7,7
+2023/2024,2024-05-19,14:00,Warta Poznan,Legia,A,9,8
+2023/2024,2024-05-19,16:30,Widzew Lodz,Lech Poznan,D,4,4
+2023/2024,2024-05-20,18:00,Zaglebie,LKS Lodz,H,9,3
+2023/2024,2024-05-25,16:30,Ruch Chorzow,Cracovia,H,9,7
+2023/2024,2024-05-25,16:30,Rakow,Slask Wroclaw,A,6,10
+2023/2024,2024-05-25,16:30,Radomiak Radom,Widzew Lodz,A,3,4
+2023/2024,2024-05-25,16:30,Puszcza,Piast Gliwice,H,8,11
+2023/2024,2024-05-25,16:30,Lech Poznan,Korona Kielce,A,5,8
+2023/2024,2024-05-25,16:30,LKS Lodz,Stal Mielec,H,0,5
+2023/2024,2024-05-25,16:30,Legia,Zaglebie,H,10,12
+2023/2024,2024-05-25,16:30,Jagiellonia,Warta Poznan,H,8,6
+2023/2024,2024-05-25,16:30,Pogon Szczecin,Gornik Zabrze,H,5,8
+2024/2025,2024-07-19,19:30,Slask Wroclaw,Lechia Gdansk,D,12,4
+2024/2025,2024-07-19,17:00,Jagiellonia,Puszcza,H,8,8
+2024/2025,2024-07-20,16:30,Pogon Szczecin,Korona Kielce,H,8,8
+2024/2025,2024-07-20,19:15,Legia,Zaglebie,H,12,12
+2024/2025,2024-07-20,13:45,GKS Katowice,Radomiak Radom,A,0,3
+2024/2025,2024-07-21,13:45,Cracovia,Piast Gliwice,D,7,8
+2024/2025,2024-07-21,16:30,Lech Poznan,Gornik Zabrze,H,2,5
+2024/2025,2024-07-21,19:15,Motor Lublin,Rakow,A,0,6
+2024/2025,2024-07-22,18:00,Stal Mielec,Widzew Lodz,D,5,4
+2024/2025,2024-07-26,17:00,Puszcza,Gornik Zabrze,D,7,2
+2024/2025,2024-07-26,19:30,Lechia Gdansk,Motor Lublin,A,5,0
+2024/2025,2024-07-27,13:45,Stal Mielec,GKS Katowice,A,6,0
+2024/2025,2024-07-27,16:30,Radomiak Radom,Jagiellonia,A,6,10
+2024/2025,2024-07-27,19:15,Widzew Lodz,Lech Poznan,H,5,4
+2024/2025,2024-07-28,16:30,Piast Gliwice,Slask Wroclaw,H,6,13
+2024/2025,2024-07-28,19:15,Korona Kielce,Legia,A,7,12
+2024/2025,2024-07-28,13:45,Zaglebie,Pogon Szczecin,D,9,10
+2024/2025,2024-07-29,18:00,Rakow,Cracovia,A,6,7
+2024/2025,2024-08-02,17:00,Zaglebie,Puszcza,H,7,8
+2024/2025,2024-08-02,19:30,Gornik Zabrze,Pogon Szczecin,H,3,8
+2024/2025,2024-08-03,13:45,GKS Katowice,Rakow,A,3,6
+2024/2025,2024-08-03,16:30,Jagiellonia,Stal Mielec,H,13,3
+2024/2025,2024-08-03,19:15,Lech Poznan,Lechia Gdansk,H,4,5
+2024/2025,2024-08-04,13:45,Motor Lublin,Korona Kielce,D,3,6
+2024/2025,2024-08-04,19:15,Legia,Piast Gliwice,A,15,8
+2024/2025,2024-08-05,18:00,Cracovia,Widzew Lodz,A,7,8
+2024/2025,2024-08-09,19:30,Rakow,Lech Poznan,D,6,7
+2024/2025,2024-08-09,17:00,Radomiak Radom,Gornik Zabrze,A,3,5
+2024/2025,2024-08-10,16:30,Korona Kielce,Cracovia,A,7,7
+2024/2025,2024-08-10,19:15,Pogon Szczecin,Stal Mielec,H,8,2
+2024/2025,2024-08-11,13:45,Lechia Gdansk,Zaglebie,D,4,7
+2024/2025,2024-08-11,16:30,Puszcza,Legia,D,5,12
+2024/2025,2024-08-11,19:15,Widzew Lodz,Slask Wroclaw,D,11,10
+2024/2025,2024-08-12,18:00,Piast Gliwice,GKS Katowice,D,8,3
+2024/2025,2024-08-16,17:00,Puszcza,Lechia Gdansk,H,5,2
+2024/2025,2024-08-16,19:30,GKS Katowice,Motor Lublin,D,4,4
+2024/2025,2024-08-17,16:30,Zaglebie,Lech Poznan,A,5,7
+2024/2025,2024-08-17,19:15,Pogon Szczecin,Widzew Lodz,H,10,11
+2024/2025,2024-08-17,13:45,Jagiellonia,Cracovia,A,13,7
+2024/2025,2024-08-18,13:45,Slask Wroclaw,Korona Kielce,D,8,4
+2024/2025,2024-08-18,16:30,Legia,Radomiak Radom,H,10,3
+2024/2025,2024-08-18,19:15,Gornik Zabrze,Rakow,D,7,7
+2024/2025,2024-08-19,18:00,Stal Mielec,Piast Gliwice,H,1,8
+2024/2025,2024-08-23,17:00,Widzew Lodz,Radomiak Radom,H,8,3
+2024/2025,2024-08-23,19:30,Lechia Gdansk,Rakow,A,2,8
+2024/2025,2024-08-24,19:15,Piast Gliwice,Zaglebie,H,8,5
+2024/2025,2024-08-24,13:45,Motor Lublin,Puszcza,D,5,5
+2024/2025,2024-08-24,16:30,Cracovia,Gornik Zabrze,H,10,8
+2024/2025,2024-08-25,16:30,Lech Poznan,Pogon Szczecin,H,10,10
+2024/2025,2024-08-25,19:15,Slask Wroclaw,Legia,D,6,10
+2024/2025,2024-08-25,13:45,GKS Katowice,Jagiellonia,H,5,12
+2024/2025,2024-08-26,18:00,Korona Kielce,Stal Mielec,H,2,4
+2024/2025,2024-08-30,17:00,Rakow,Piast Gliwice,A,8,10
+2024/2025,2024-08-30,19:30,Stal Mielec,Lech Poznan,A,3,10
+2024/2025,2024-08-31,13:45,Puszcza,Korona Kielce,D,6,5
+2024/2025,2024-08-31,16:30,Zaglebie,GKS Katowice,H,5,8
+2024/2025,2024-08-31,19:15,Radomiak Radom,Cracovia,H,3,12
+2024/2025,2024-09-01,19:15,Jagiellonia,Widzew Lodz,H,9,10
+2024/2025,2024-09-01,11:15,Gornik Zabrze,Lechia Gdansk,A,8,1
+2024/2025,2024-09-01,13:45,Legia,Motor Lublin,H,8,6
+2024/2025,2024-09-01,16:30,Pogon Szczecin,Slask Wroclaw,H,7,4
+2024/2025,2024-09-13,19:30,GKS Katowice,Widzew Lodz,D,5,7
+2024/2025,2024-09-13,17:00,Motor Lublin,Gornik Zabrze,H,6,7
+2024/2025,2024-09-14,13:45,Lechia Gdansk,Radomiak Radom,H,4,3
+2024/2025,2024-09-14,16:30,Cracovia,Pogon Szczecin,H,9,9
+2024/2025,2024-09-14,19:15,Lech Poznan,Jagiellonia,H,13,9
+2024/2025,2024-09-15,11:15,Piast Gliwice,Puszcza,D,10,6
+2024/2025,2024-09-15,13:45,Korona Kielce,Zaglebie,H,6,7
+2024/2025,2024-09-15,16:30,Legia,Rakow,A,8,8
+2024/2025,2024-09-20,17:00,Radomiak Radom,Korona Kielce,H,3,8
+2024/2025,2024-09-20,19:30,Pogon Szczecin,Legia,H,9,8
+2024/2025,2024-09-21,19:15,Gornik Zabrze,GKS Katowice,H,4,6
+2024/2025,2024-09-21,16:30,Widzew Lodz,Piast Gliwice,H,5,8
+2024/2025,2024-09-21,13:45,Jagiellonia,Lechia Gdansk,H,6,7
+2024/2025,2024-09-21,11:15,Puszcza,Cracovia,A,7,12
+2024/2025,2024-09-22,11:15,Stal Mielec,Motor Lublin,H,3,6
+2024/2025,2024-09-22,13:45,Rakow,Zaglebie,H,8,4
+2024/2025,2024-09-22,16:30,Lech Poznan,Slask Wroclaw,H,13,3
+2024/2025,2024-09-25,18:00,Motor Lublin,Jagiellonia,A,5,6
+2024/2025,2024-09-27,17:00,GKS Katowice,Pogon Szczecin,H,5,9
+2024/2025,2024-09-27,19:30,Lechia Gdansk,Widzew Lodz,D,6,7
+2024/2025,2024-09-28,13:45,Rakow,Puszcza,H,10,6
+2024/2025,2024-09-28,16:30,Motor Lublin,Slask Wroclaw,H,4,3
+2024/2025,2024-09-28,19:15,Legia,Gornik Zabrze,D,7,4
+2024/2025,2024-09-29,16:30,Piast Gliwice,Jagiellonia,A,7,9
+2024/2025,2024-09-29,11:15,Zaglebie,Radomiak Radom,H,3,6
+2024/2025,2024-09-29,13:45,Korona Kielce,Lech Poznan,A,8,15
+2024/2025,2024-09-30,18:00,Cracovia,Stal Mielec,D,12,6
+2024/2025,2024-10-04,17:00,Puszcza,GKS Katowice,A,3,7
+2024/2025,2024-10-04,19:30,Widzew Lodz,Korona Kielce,A,8,7
+2024/2025,2024-10-05,19:15,Lech Poznan,Motor Lublin,A,15,6
+2024/2025,2024-10-05,11:15,Stal Mielec,Lechia Gdansk,H,7,7
+2024/2025,2024-10-05,13:45,Radomiak Radom,Rakow,A,6,12
+2024/2025,2024-10-05,16:30,Gornik Zabrze,Zaglebie,A,4,6
+2024/2025,2024-10-06,19:15,Jagiellonia,Legia,D,12,5
+2024/2025,2024-10-06,16:30,Pogon Szczecin,Piast Gliwice,H,6,7
+2024/2025,2024-10-06,13:45,Slask Wroclaw,Cracovia,A,2,10
+2024/2025,2024-10-18,17:00,Korona Kielce,Piast Gliwice,A,7,4
+2024/2025,2024-10-18,19:30,Lechia Gdansk,Legia,A,7,5
+2024/2025,2024-10-19,13:45,Motor Lublin,Widzew Lodz,A,9,5
+2024/2025,2024-10-19,16:30,Zaglebie,Jagiellonia,A,9,10
+2024/2025,2024-10-19,19:15,Cracovia,Lech Poznan,A,10,12
+2024/2025,2024-10-20,11:15,GKS Katowice,Slask Wroclaw,D,7,1
+2024/2025,2024-10-20,13:45,Gornik Zabrze,Stal Mielec,H,4,7
+2024/2025,2024-10-20,16:30,Rakow,Pogon Szczecin,H,12,9
+2024/2025,2024-10-21,18:00,Radomiak Radom,Puszcza,H,6,2
+2024/2025,2024-10-23,17:30,Slask Wroclaw,Stal Mielec,H,1,7
+2024/2025,2024-10-25,17:00,Piast Gliwice,Lechia Gdansk,D,4,4
+2024/2025,2024-10-25,19:30,Pogon Szczecin,Puszcza,H,6,1
+2024/2025,2024-10-26,13:45,Cracovia,Motor Lublin,H,10,6
+2024/2025,2024-10-26,16:30,Slask Wroclaw,Rakow,D,4,15
+2024/2025,2024-10-26,19:15,Lech Poznan,Radomiak Radom,H,12,6
+2024/2025,2024-10-27,11:15,Stal Mielec,Zaglebie,D,7,6
+2024/2025,2024-10-27,13:45,Jagiellonia,Korona Kielce,H,13,6
+2024/2025,2024-10-27,16:30,Widzew Lodz,Gornik Zabrze,A,8,7
+2024/2025,2024-10-27,19:15,Legia,GKS Katowice,H,5,8
+2024/2025,2024-11-02,16:30,Motor Lublin,Pogon Szczecin,H,6,9
+2024/2025,2024-11-02,19:15,Puszcza,Lech Poznan,H,0,12
+2024/2025,2024-11-02,13:45,Rakow,Stal Mielec,H,13,5
+2024/2025,2024-11-03,11:15,Radomiak Radom,Piast Gliwice,D,6,4
+2024/2025,2024-11-03,13:45,Gornik Zabrze,Jagiellonia,A,10,13
+2024/2025,2024-11-03,16:30,Lechia Gdansk,Cracovia,A,2,10
+2024/2025,2024-11-03,19:15,Legia,Widzew Lodz,H,8,7
+2024/2025,2024-11-04,17:00,GKS Katowice,Korona Kielce,A,7,3
+2024/2025,2024-11-04,19:30,Zaglebie,Slask Wroclaw,H,7,5
+2024/2025,2024-11-08,17:00,Piast Gliwice,Motor Lublin,A,5,9
+2024/2025,2024-11-08,19:30,Pogon Szczecin,Radomiak Radom,A,6,4
+2024/2025,2024-11-09,19:15,Slask Wroclaw,Gornik Zabrze,A,5,7
+2024/2025,2024-11-09,16:30,Widzew Lodz,Zaglebie,H,4,10
+2024/2025,2024-11-09,13:45,Cracovia,GKS Katowice,A,10,7
+2024/2025,2024-11-09,11:15,Korona Kielce,Lechia Gdansk,D,6,2
+2024/2025,2024-11-10,11:15,Stal Mielec,Puszcza,H,4,3
+2024/2025,2024-11-10,13:45,Jagiellonia,Rakow,D,13,13
+2024/2025,2024-11-10,16:30,Lech Poznan,Legia,H,9,11
+2024/2025,2024-11-22,17:00,Zaglebie,Motor Lublin,A,7,9
+2024/2025,2024-11-22,19:30,Jagiellonia,Slask Wroclaw,D,11,5
+2024/2025,2024-11-23,13:45,Lechia Gdansk,Pogon Szczecin,A,2,6
+2024/2025,2024-11-23,16:30,Lech Poznan,GKS Katowice,H,9,7
+2024/2025,2024-11-23,19:15,Legia,Cracovia,H,10,9
+2024/2025,2024-11-24,16:30,Gornik Zabrze,Piast Gliwice,H,9,5
+2024/2025,2024-11-24,13:45,Rakow,Korona Kielce,D,11,7
+2024/2025,2024-11-24,11:15,Radomiak Radom,Stal Mielec,A,7,4
+2024/2025,2024-11-25,18:00,Puszcza,Widzew Lodz,H,3,6
+2024/2025,2024-11-29,17:00,Cracovia,Zaglebie,D,6,4
+2024/2025,2024-11-29,19:30,Piast Gliwice,Lech Poznan,D,5,12
+2024/2025,2024-11-30,13:45,Slask Wroclaw,Puszcza,A,5,6
+2024/2025,2024-11-30,16:30,GKS Katowice,Lechia Gdansk,H,4,2
+2024/2025,2024-11-30,19:15,Widzew Lodz,Rakow,A,6,9
+2024/2025,2024-12-01,11:15,Korona Kielce,Gornik Zabrze,A,5,12
+2024/2025,2024-12-01,13:45,Pogon Szczecin,Jagiellonia,D,6,11
+2024/2025,2024-12-01,16:30,Stal Mielec,Legia,D,7,12
+2024/2025,2024-12-02,18:00,Motor Lublin,Radomiak Radom,H,9,7
+2024/2025,2024-12-06,17:00,Radomiak Radom,GKS Katowice,D,4,6
+2024/2025,2024-12-06,19:30,Gornik Zabrze,Lech Poznan,H,12,10
+2024/2025,2024-12-07,13:45,Lechia Gdansk,Slask Wroclaw,H,2,2
+2024/2025,2024-12-07,16:30,Widzew Lodz,Stal Mielec,H,3,8
+2024/2025,2024-12-07,19:15,Rakow,Motor Lublin,D,9,12
+2024/2025,2024-12-08,11:15,Piast Gliwice,Cracovia,D,3,7
+2024/2025,2024-12-08,13:45,Puszcza,Jagiellonia,D,9,9
+2024/2025,2024-12-08,16:30,Zaglebie,Legia,A,5,10
+2024/2025,2024-12-09,18:00,Korona Kielce,Pogon Szczecin,D,5,7
+2024/2025,2024-12-14,16:30,Slask Wroclaw,Radomiak Radom,A,1,5
+2024/2025,2025-01-31,19:30,Lech Poznan,Widzew Lodz,H,7,6
+2024/2025,2025-01-31,17:00,GKS Katowice,Stal Mielec,H,7,7
+2024/2025,2025-02-01,13:45,Motor Lublin,Lechia Gdansk,D,13,4
+2024/2025,2025-02-01,16:30,Cracovia,Rakow,D,5,9
+2024/2025,2025-02-01,19:15,Pogon Szczecin,Zaglebie,H,5,4
+2024/2025,2025-02-02,11:15,Gornik Zabrze,Puszcza,D,12,10
+2024/2025,2025-02-02,13:45,Jagiellonia,Radomiak Radom,H,7,7
+2024/2025,2025-02-02,16:30,Legia,Korona Kielce,D,10,6
+2024/2025,2025-02-03,18:00,Slask Wroclaw,Piast Gliwice,A,1,3
+2024/2025,2025-02-07,17:00,Stal Mielec,Jagiellonia,H,7,7
+2024/2025,2025-02-07,19:30,Pogon Szczecin,Gornik Zabrze,H,8,13
+2024/2025,2025-02-08,19:15,Piast Gliwice,Legia,H,5,8
+2024/2025,2025-02-08,16:30,Rakow,GKS Katowice,A,7,10
+2024/2025,2025-02-08,13:45,Radomiak Radom,Slask Wroclaw,D,4,1
+2024/2025,2025-02-09,11:15,Korona Kielce,Motor Lublin,H,4,11
+2024/2025,2025-02-09,13:45,Widzew Lodz,Cracovia,D,6,3
+2024/2025,2025-02-09,16:30,Lechia Gdansk,Lech Poznan,H,5,10
+2024/2025,2025-02-10,18:00,Puszcza,Zaglebie,A,8,1
+2024/2025,2025-02-14,17:00,Cracovia,Korona Kielce,D,4,6
+2024/2025,2025-02-14,19:30,Lech Poznan,Rakow,A,7,6
+2024/2025,2025-02-15,13:45,Slask Wroclaw,Widzew Lodz,H,1,4
+2024/2025,2025-02-15,16:30,Gornik Zabrze,Radomiak Radom,H,10,5
+2024/2025,2025-02-15,19:15,Legia,Puszcza,H,8,8
+2024/2025,2025-02-16,16:30,Jagiellonia,Motor Lublin,H,6,8
+2024/2025,2025-02-16,11:15,Stal Mielec,Pogon Szczecin,A,7,11
+2024/2025,2025-02-16,13:45,GKS Katowice,Piast Gliwice,D,10,8
+2024/2025,2025-02-17,18:00,Zaglebie,Lechia Gdansk,A,4,7
+2024/2025,2025-02-21,17:00,Piast Gliwice,Stal Mielec,D,9,4
+2024/2025,2025-02-21,19:30,Rakow,Gornik Zabrze,H,8,10
+2024/2025,2025-02-22,13:45,Korona Kielce,Slask Wroclaw,H,6,4
+2024/2025,2025-02-22,16:30,Widzew Lodz,Pogon Szczecin,A,4,11
+2024/2025,2025-02-22,19:15,Radomiak Radom,Legia,H,5,8
+2024/2025,2025-02-23,16:30,Lech Poznan,Zaglebie,H,4,4
+2024/2025,2025-02-23,11:15,Lechia Gdansk,Puszcza,A,10,5
+2024/2025,2025-02-23,13:45,Cracovia,Jagiellonia,D,5,8
+2024/2025,2025-02-24,18:00,Motor Lublin,GKS Katowice,H,5,11
+2024/2025,2025-02-28,17:00,Radomiak Radom,Widzew Lodz,D,7,4
+2024/2025,2025-02-28,19:30,Gornik Zabrze,Cracovia,A,7,5
+2024/2025,2025-03-01,13:45,Stal Mielec,Korona Kielce,A,4,9
+2024/2025,2025-03-01,16:30,Pogon Szczecin,Lech Poznan,A,13,6
+2024/2025,2025-03-01,19:15,Zaglebie,Piast Gliwice,A,3,9
+2024/2025,2025-03-02,11:15,Puszcza,Motor Lublin,A,5,5
+2024/2025,2025-03-02,13:45,Legia,Slask Wroclaw,H,7,4
+2024/2025,2025-03-02,16:30,Jagiellonia,GKS Katowice,H,8,8
+2024/2025,2025-03-03,18:00,Rakow,Lechia Gdansk,H,8,10
+2024/2025,2025-03-07,19:30,Slask Wroclaw,Pogon Szczecin,D,4,12
+2024/2025,2025-03-07,17:00,Korona Kielce,Puszcza,H,11,4
+2024/2025,2025-03-08,13:45,Cracovia,Radomiak Radom,A,7,5
+2024/2025,2025-03-08,16:30,Piast Gliwice,Rakow,A,11,10
+2024/2025,2025-03-08,19:15,Lech Poznan,Stal Mielec,H,9,4
+2024/2025,2025-03-09,11:15,GKS Katowice,Zaglebie,H,7,3
+2024/2025,2025-03-09,13:45,Lechia Gdansk,Gornik Zabrze,A,7,4
+2024/2025,2025-03-09,16:30,Widzew Lodz,Jagiellonia,A,2,10
+2024/2025,2025-03-10,18:00,Motor Lublin,Legia,D,7,7
+2024/2025,2025-03-14,17:00,Radomiak Radom,Lechia Gdansk,H,8,6
+2024/2025,2025-03-14,19:30,Pogon Szczecin,Cracovia,H,10,6
+2024/2025,2025-03-15,19:15,Widzew Lodz,GKS Katowice,H,2,7
+2024/2025,2025-03-15,16:30,Gornik Zabrze,Motor Lublin,H,6,7
+2024/2025,2025-03-15,13:45,Stal Mielec,Slask Wroclaw,A,4,5
+2024/2025,2025-03-16,11:15,Puszcza,Piast Gliwice,H,3,8
+2024/2025,2025-03-16,13:45,Zaglebie,Korona Kielce,D,3,13
+2024/2025,2025-03-16,16:30,Rakow,Legia,H,12,7
+2024/2025,2025-03-16,19:15,Jagiellonia,Lech Poznan,H,10,9
+2024/2025,2025-03-28,17:00,Piast Gliwice,Widzew Lodz,A,5,4
+2024/2025,2025-03-28,19:30,Legia,Pogon Szczecin,D,7,10
+2024/2025,2025-03-29,13:45,Cracovia,Puszcza,H,5,6
+2024/2025,2025-03-29,16:30,Lechia Gdansk,Jagiellonia,H,3,13
+2024/2025,2025-03-29,19:15,Slask Wroclaw,Lech Poznan,H,7,9
+2024/2025,2025-03-30,16:30,GKS Katowice,Gornik Zabrze,H,4,9
+2024/2025,2025-03-30,13:45,Motor Lublin,Stal Mielec,H,7,1
+2024/2025,2025-03-30,11:15,Korona Kielce,Radomiak Radom,A,11,10
+2024/2025,2025-03-31,18:00,Zaglebie,Rakow,A,1,15
+2024/2025,2025-04-04,17:00,Stal Mielec,Cracovia,D,1,7
+2024/2025,2025-04-04,19:30,Widzew Lodz,Lechia Gdansk,H,7,3
+2024/2025,2025-04-05,13:45,Radomiak Radom,Zaglebie,A,13,1
+2024/2025,2025-04-05,16:30,Slask Wroclaw,Motor Lublin,D,7,10
+2024/2025,2025-04-05,19:15,Lech Poznan,Korona Kielce,H,9,10
+2024/2025,2025-04-06,11:15,Jagiellonia,Piast Gliwice,D,10,4
+2024/2025,2025-04-06,13:45,Gornik Zabrze,Legia,A,6,5
+2024/2025,2025-04-06,16:30,Pogon Szczecin,GKS Katowice,H,8,6
+2024/2025,2025-04-07,18:00,Puszcza,Rakow,D,6,15
+2024/2025,2025-04-11,17:00,Zaglebie,Gornik Zabrze,H,4,6
+2024/2025,2025-04-11,19:30,Korona Kielce,Widzew Lodz,H,7,10
+2024/2025,2025-04-12,13:45,GKS Katowice,Puszcza,H,6,4
+2024/2025,2025-04-12,16:30,Cracovia,Slask Wroclaw,A,7,8
+2024/2025,2025-04-12,19:15,Rakow,Radomiak Radom,H,13,10
+2024/2025,2025-04-13,13:45,Piast Gliwice,Pogon Szczecin,H,4,8
+2024/2025,2025-04-13,16:30,Motor Lublin,Lech Poznan,A,8,9
+2024/2025,2025-04-13,19:15,Legia,Jagiellonia,A,8,10
+2024/2025,2025-04-14,18:00,Lechia Gdansk,Stal Mielec,H,3,1
+2024/2025,2025-04-19,19:15,Pogon Szczecin,Rakow,H,8,13
+2024/2025,2025-04-19,16:30,Widzew Lodz,Motor Lublin,A,9,5
+2024/2025,2025-04-19,11:15,Piast Gliwice,Korona Kielce,D,4,7
+2024/2025,2025-04-19,13:45,Slask Wroclaw,GKS Katowice,A,11,9
+2024/2025,2025-04-21,11:15,Puszcza,Radomiak Radom,D,4,9
+2024/2025,2025-04-21,13:45,Jagiellonia,Zaglebie,A,10,7
+2024/2025,2025-04-21,16:30,Legia,Lechia Gdansk,H,5,6
+2024/2025,2025-04-21,19:15,Lech Poznan,Cracovia,H,9,4
+2024/2025,2025-04-22,18:00,Stal Mielec,Gornik Zabrze,D,1,6
+2024/2025,2025-04-25,17:00,Puszcza,Pogon Szczecin,A,5,10
+2024/2025,2025-04-25,19:30,Rakow,Slask Wroclaw,H,10,10
+2024/2025,2025-04-26,19:15,GKS Katowice,Legia,A,9,7
+2024/2025,2025-04-26,16:30,Motor Lublin,Cracovia,A,7,4
+2024/2025,2025-04-26,13:45,Lechia Gdansk,Piast Gliwice,H,6,5
+2024/2025,2025-04-27,11:15,Korona Kielce,Jagiellonia,H,5,7
+2024/2025,2025-04-27,13:45,Gornik Zabrze,Widzew Lodz,D,4,9
+2024/2025,2025-04-27,16:30,Radomiak Radom,Lech Poznan,D,7,9
+2024/2025,2025-04-28,18:00,Zaglebie,Stal Mielec,D,10,2
+2024/2025,2025-05-03,13:45,Stal Mielec,Rakow,A,3,10
+2024/2025,2025-05-03,16:30,Slask Wroclaw,Zaglebie,H,7,10
+2024/2025,2025-05-03,19:15,Lech Poznan,Puszcza,H,10,2
+2024/2025,2025-05-04,16:30,Jagiellonia,Gornik Zabrze,D,4,2
+2024/2025,2025-05-04,13:45,Cracovia,Lechia Gdansk,A,7,9
+2024/2025,2025-05-04,11:15,Piast Gliwice,Radomiak Radom,D,5,5
+2024/2025,2025-05-05,18:00,Korona Kielce,GKS Katowice,H,7,9
+2024/2025,2025-05-09,17:00,Motor Lublin,Piast Gliwice,A,7,6
+2024/2025,2025-05-09,19:30,Gornik Zabrze,Slask Wroclaw,H,3,7
+2024/2025,2025-05-10,13:45,Radomiak Radom,Pogon Szczecin,H,3,10
+2024/2025,2025-05-10,16:30,Zaglebie,Widzew Lodz,H,10,7
+2024/2025,2025-05-10,19:15,Rakow,Jagiellonia,A,10,5
+2024/2025,2025-05-11,13:45,GKS Katowice,Cracovia,H,6,4
+2024/2025,2025-05-11,16:30,Legia,Lech Poznan,A,10,13
+2024/2025,2025-05-11,11:15,Lechia Gdansk,Korona Kielce,H,9,10
+2024/2025,2025-05-12,18:00,Puszcza,Stal Mielec,A,2,3
+2024/2025,2025-05-14,19:30,Pogon Szczecin,Motor Lublin,H,9,4
+2024/2025,2025-05-15,19:30,Widzew Lodz,Legia,A,4,9
+2024/2025,2025-05-16,17:00,Stal Mielec,Radomiak Radom,D,5,6
+2024/2025,2025-05-16,19:30,Slask Wroclaw,Jagiellonia,D,6,7
+2024/2025,2025-05-17,19:15,Korona Kielce,Rakow,D,10,9
+2024/2025,2025-05-17,13:45,Pogon Szczecin,Lechia Gdansk,D,9,12
+2024/2025,2025-05-17,16:30,Piast Gliwice,Gornik Zabrze,H,8,6
+2024/2025,2025-05-18,13:45,Cracovia,Legia,H,3,9
+2024/2025,2025-05-18,16:30,GKS Katowice,Lech Poznan,D,9,13
+2024/2025,2025-05-18,11:15,Motor Lublin,Zaglebie,H,3,10
+2024/2025,2025-05-19,18:00,Widzew Lodz,Puszcza,H,1,1
+2024/2025,2025-05-24,16:30,Puszcza,Slask Wroclaw,D,1,4
+2024/2025,2025-05-24,16:30,Radomiak Radom,Motor Lublin,A,7,6
+2024/2025,2025-05-24,16:30,Legia,Stal Mielec,D,9,6
+2024/2025,2025-05-24,16:30,Rakow,Widzew Lodz,H,7,4
+2024/2025,2025-05-24,16:30,Lech Poznan,Piast Gliwice,H,11,8
+2024/2025,2025-05-24,16:30,Jagiellonia,Pogon Szczecin,D,5,10
+2024/2025,2025-05-24,16:30,Gornik Zabrze,Korona Kielce,D,6,8
+2024/2025,2025-05-24,16:30,Lechia Gdansk,GKS Katowice,A,10,7
