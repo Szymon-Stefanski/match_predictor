@@ -23,3 +23,20 @@ print(y.value_counts(normalize=True))
 
 acc = accuracy_score(y_test, clf.predict(X_test)) * 100
 print(f"Logistic Regression model accuracy: {acc:.2f}%")
+
+
+df = pd.read_csv("../data/test.csv", sep=",")
+
+X_raw = df.copy()
+
+X_raw['Date'] = pd.to_datetime(X_raw['Date'], dayfirst=False)
+X_raw['Weekday'] = X_raw['Date'].dt.weekday
+X_raw['Month'] = X_raw['Date'].dt.month
+X_raw = X_raw.drop(columns=['Season', 'Date', 'Time'])
+
+X_new = pd.get_dummies(X_raw, columns=["Home", "Away"])
+
+X_new = X_new.reindex(columns=X_train.columns, fill_value=0)
+
+proba = clf.predict_proba(X_new)
+print(proba)
